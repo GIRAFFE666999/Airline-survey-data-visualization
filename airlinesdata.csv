@@ -1,0 +1,1872 @@
+number,Sex,Age,Rating date,Traveled date,Seat comfort,Customer service,Cleanliness,Food and Beverage,Legroom,In-flight entertainment,Value for money,Check-in and Boarding,Area,Cabin,Route
+1,M,35-49,24/8/2018,18-Aug,3,4,4,2,1,3,4,4,International,Economy,Miami - Quito
+2,M,50-64,24/8/2018,18-May,3,4,4,3,3,3,4,5,Domestic,Economy,Colorado Springs - Fort Myers
+3,F,35-49,24/8/2018,18-Aug,4,4,4,4,4,5,4,4,Mexico,Economy,Dallas - Cancun
+4,M,35-49,24/8/2018,,3,1,3,2,3,3,3,1,Mexico,First Class,Seattle - Cancun
+5,F,50-64,24/8/2018,18-Aug,2,3,3,3,3,3,2,3,Domestic,Economy,Baltimore - Sarasota
+6,M,50-64,23/8/2018,18-Aug,3,3,2,2,3,2,3,3,Domestic,Economy,New York City - San Diego
+7,M,50-64,23/8/2018,18-Aug,3,4,4,3,3,4,4,4,Mexico,Economy,Salt Lake City - Cancun
+8,M,35-49,23/8/2018,,4,1,5,1,5,2,3,3,USA,First Class,Cancun - Phoenix
+9,M,50-64,23/8/2018,18-Aug,2,4,4,3,3,3,3,4,International,Economy,Shannon - Chicago
+10,M,65+,23/8/2018,,3,4,3,3,3,5,3,5,Domestic,Economy,Miami - Phoenix
+11,M,65+,23/8/2018,18-Aug,4,4,4,3,3,5,3,5,Domestic,Economy,Phoenix - Miami
+12,M,50-64,23/8/2018,18-Aug,4,5,4,5,4,5,4,5,Domestic,Economy,Phoenix - Akron
+13,M,50-64,23/8/2018,,1,1,3,1,1,1,1,2,Domestic,Economy,Charlotte - Burbank
+14,M,65+,22/8/2018,18-Aug,2,4,5,4,5,3,5,5,Domestic,Business Class,Austin - Las Vegas
+15,M,65+,22/8/2018,18-Aug,2,3,3,3,2,4,3,3,Domestic,Economy,Charlottesville - Portland
+16,F,50-64,22/8/2018,18-Jul,4,5,3,4,4,5,5,4,International,Economy,Manchester - Minneapolis
+17,F,50-64,22/8/2018,18-Aug,3,5,5,5,3,4,4,5,International,Economy,Sydney - Los Angeles
+18,F,50-64,22/8/2018,18-Aug,3,3,3,3,3,1,2,3,Domestic,First Class,Hartford - Los Angeles
+19,F,50-64,22/8/2018,18-Jul,3,5,3,3,3,1,2,3,USA,Economy,Toronto - Washington DC
+20,M,65+,21/8/2018,18-Aug,4,5,5,5,4,1,3,5,Mexico,Business Class,Phoenix - Los Cabos
+21,F,50-64,21/8/2018,17-Dec,4,4,4,4,4,4,4,4,International,Economy,London - Dallas
+22,M,50-64,21/8/2018,,4,2,3,1,3,2,3,3,Domestic,Economy,New York City - Raleigh
+23,M,35-49,21/8/2018,18-Aug,3,4,4,4,4,3,4,4,Caribbean,Economy,Dallas - San Juan
+24,M,35-49,21/8/2018,18-Jul,4,4,4,4,4,2,4,4,Domestic,Economy,Orange - Dallas
+25,M,65+,21/8/2018,18-Aug,5,5,5,5,5,5,5,5,International,Economy,Pensacola - Munich
+26,F,50-64,21/8/2018,18-Feb,5,5,5,5,5,3,5,5,International,Business Class,Dallas - Reykjavik
+27,F,35-49,21/8/2018,18-Aug,5,5,5,5,5,5,5,5,International,Economy,Munich - Philadelphia
+28,M,50-64,20/8/2018,,2,1,3,2,3,3,2,1,Domestic,Economy,Miami - New York City
+29,M,50-64,20/8/2018,18-Aug,5,4,3,4,5,2,3,4,Domestic,First Class,New York City - Miami
+30,M,35-49,20/8/2018,18-Aug,2,3,4,4,2,2,3,4,International,Economy,Miami - Cartagena
+31,F,35-49,20/8/2018,18-Aug,3,4,4,4,5,3,4,4,Caribbean,Economy,Dallas - St. Lucia
+32,M,65+,20/8/2018,18-Aug,5,5,5,5,5,2,5,5,International,Business Class,Philadelphia - Prague
+33,M,35-49,20/8/2018,18-Aug,5,5,3,5,5,3,4,5,Caribbean,Business Class,Miami - San Juan
+34,M,35-49,20/8/2018,18-Mar,3,4,3,3,3,3,3,4,International,Economy,San Juan - Miami
+35,M,50-64,20/8/2018,18-Aug,5,4,4,4,5,4,3,4,International,Business Class,Philadelphia - Manchester
+36,M,50-64,20/8/2018,18-Aug,3,3,3,3,3,1,3,4,Domestic,First Class,Orlando - Philadelphia
+37,M,50-64,20/8/2018,18-Aug,3,2,3,3,3,1,3,2,Domestic,First Class,Philadelphia - Orlando
+38,M,50-64,20/8/2018,18-Jul,4,2,4,4,4,4,3,2,International,Business Class,Manchester - Philadelphia
+39,M,65+,19/8/2018,18-Aug,3,4,3,2,3,2,3,2,Domestic,Economy,Bangor - Tampa
+40,M,50-64,19/8/2018,18-Jul,2,1,2,1,2,2,1,1,Domestic,Economy,Charlottesville - Chicago
+41,F,50-64,19/8/2018,18-Aug,3,4,4,3,1,4,3,4,Domestic,Economy,Sacramento - Dallas
+42,M,50-64,19/8/2018,18-Jul,2,1,2,3,2,1,1,1,Domestic,Economy,Orlando - Philadelphia
+43,F,50-64,19/8/2018,18-Aug,5,4,5,5,5,5,4,4,International,Economy,Venice - Chicago
+44,M,50-64,19/8/2018,,3,2,3,2,3,4,2,3,Domestic,Economy,Dallas - San Francisco
+45,M,35-49,19/8/2018,17-Dec,4,4,5,3,4,3,4,5,Caribbean,Economy,Allentown - Montego Bay
+46,F,50-64,18/8/2018,18-Jul,3,4,4,4,3,3,3,3,Caribbean,Economy,Cleveland - Nassau
+47,M,35-49,18/8/2018,18-Aug,4,4,4,3,4,3,4,4,Caribbean,Economy,Miami - Antigua
+48,F,35-49,18/8/2018,18-Jul,3,4,4,3,3,2,4,5,Domestic,Economy,Miami - Boston
+49,F,50-64,17/8/2018,18-Aug,5,5,5,5,5,3,3,5,Domestic,First Class,Grand Junction - Miami
+50,F,25-34,17/8/2018,18-Jul,2,1,3,3,2,1,3,1,Domestic,Economy,Omaha - Miami
+51,F,35-49,17/8/2018,18-Jul,4,4,5,3,3,5,3,5,International,Economy,Orlando - Rio de Janeiro
+52,M,65+,16/8/2018,18-Aug,4,4,5,5,4,3,5,4,Domestic,Business Class,Montrose - Fresno
+53,M,35-49,16/8/2018,18-Aug,5,5,5,3,5,3,5,5,International,Business Class,San Juan - Miami
+54,M,65+,16/8/2018,18-Aug,4,5,4,4,3,4,4,4,Domestic,Economy,Austin - Los Angeles
+55,M,50-64,16/8/2018,18-Aug,2,4,4,3,5,3,3,3,Domestic,Economy,San Antonio - Seattle
+56,F,50-64,15/8/2018,18-Jul,4,3,5,3,3,5,3,4,Domestic,Economy,Dallas - Philadelphia
+57,M,50-64,15/8/2018,18-Aug,4,5,5,5,5,1,4,3,Domestic,Economy,Chicago - Philadelphia
+58,F,50-64,15/8/2018,,5,1,4,3,4,4,1,1,Domestic,Business Class,Charlottesville - Orlando
+59,M,25-34,15/8/2018,18-Aug,2,1,2,2,2,3,2,2,USA,Economy,Montreal - Philadelphia
+60,F,25-34,15/8/2018,18-May,3,3,3,3,3,3,3,3,Mexico,Economy,Chicago - Cancun
+61,M,35-49,15/8/2018,18-Aug,4,4,4,3,4,5,3,3,Domestic,Economy,New York City - San Diego
+62,M,50-64,15/8/2018,18-May,2,3,3,3,3,1,4,3,International,Economy,Philadelphia - Rome
+63,F,35-49,15/8/2018,18-Aug,1,2,2,2,1,3,2,3,Mexico,Economy,Dallas - Los Cabos
+64,M,35-49,15/8/2018,18-Jul,4,3,4,3,4,3,4,4,Domestic,Economy,Indianapolis - Dallas
+65,M,50-64,15/8/2018,18-Jun,5,5,5,5,5,5,5,5,Domestic,First Class,Dallas - Maui
+66,F,50-64,15/8/2018,18-Jul,2,3,3,1,2,1,4,4,Caribbean,Economy,Miami - Nassau
+67,F,18-24,15/8/2018,18-Aug,1,5,2,2,1,1,1,4,International,Economy,San Juan - Miami
+68,M,65+,14/8/2018,,5,5,5,4,5,5,3,4,International,Business Class,Los Angeles - Hong Kong
+69,F,50-64,14/8/2018,18-Aug,3,5,4,3,3,3,3,4,Domestic,Economy,Philadelphia - Seattle
+70,F,50-64,14/8/2018,18-Aug,4,4,4,4,4,5,4,4,Domestic,Economy,Dallas - Chicago
+71,M,35-49,13/8/2018,18-Jun,5,5,5,5,5,5,4,5,Domestic,First Class,Dallas - Honolulu
+72,M,50-64,13/8/2018,18-Aug,2,1,3,2,3,3,3,3,International,Economy,Madrid - Miami
+73,M,50-64,13/8/2018,18-Jul,4,4,3,4,4,4,4,3,Domestic,Business Class,Dallas - San Francisco
+74,M,35-49,2018/12/8 0:00,18-Jul,2,3,3,2,4,3,4,4,Domestic,Economy,Las Vegas - Miami
+75,M,50-64,2018/12/8 0:00,,4,5,4,3,4,5,2,4,Domestic,Economy,Houston - Buffalo
+76,M,35-49,2018/12/8 0:00,18-Aug,3,2,4,3,3,2,2,3,Domestic,Economy,Orange - Indianapolis
+77,M,65+,2018/12/8 0:00,18-Jul,3,3,3,3,5,1,3,2,Domestic,Economy,Las Vegas - Miami
+78,F,50-64,2018/11/8 0:00,18-Jul,1,5,1,1,5,3,3,4,Caribbean,Economy,Newark - Grenada
+79,M,50-64,2018/11/8 0:00,18-Jun,4,4,3,4,4,4,3,5,Domestic,Economy,Orlando - Los Angeles
+80,M,65+,2018/11/8 0:00,,2,2,5,3,1,3,2,4,Domestic,Economy,New Orleans - Honolulu
+81,M,65+,2018/11/8 0:00,18-Jul,5,5,5,5,5,5,4,3,International,Business Class,London - Dallas
+82,F,35-49,2018/11/8 0:00,18-Jul,3,1,3,4,3,3,3,1,International,Business Class,Dublin - Las Vegas
+83,M,25-34,2018/10/8 0:00,18-Aug,3,3,4,4,3,4,3,4,Domestic,Economy,Chicago - Saint Louis
+84,M,65+,2018/10/8 0:00,18-Aug,3,3,4,3,2,1,3,4,International,Economy,San Juan - Philadelphia
+85,M,65+,2018/10/8 0:00,18-Aug,3,4,4,3,3,3,2,3,Domestic,First Class,Boston - Dallas
+86,F,35-49,2018/10/8 0:00,18-Jul,3,1,1,1,3,3,1,1,International,Economy,New York City - London
+87,F,50-64,2018/10/8 0:00,,3,5,5,4,2,5,4,5,Domestic,Economy,San Francisco - Washington DC
+88,M,50-64,2018/10/8 0:00,18-Aug,4,5,5,4,4,5,4,5,International,Economy,Phoenix - Rome
+89,M,35-49,2018/9/8 0:00,,1,1,3,1,1,1,1,4,Domestic,Business Class,West Palm Beach - Las Vegas
+90,M,65+,2018/9/8 0:00,18-Aug,3,3,4,4,5,2,4,4,International,Economy,Denver - Munich
+91,M,50-64,2018/9/8 0:00,18-Aug,5,5,5,4,5,4,5,5,Domestic,Economy,Honolulu - Phoenix
+92,F,50-64,2018/9/8 0:00,18-Aug,3,3,3,3,3,2,3,3,Domestic,Business Class,Chicago - Charlotte
+93,M,50-64,2018/9/8 0:00,18-Aug,4,1,3,3,4,3,1,1,International,Business Class,Tokyo - Austin
+94,F,50-64,2018/9/8 0:00,,2,2,1,1,1,3,2,3,USA,Economy,Vancouver - Lafayette
+95,F,50-64,2018/9/8 0:00,18-Aug,4,1,4,4,4,2,1,4,Caribbean,First Class,Dallas - Montego Bay
+96,F,50-64,2018/8/8 0:00,18-Jul,2,1,3,2,2,3,1,4,International,Economy,Miami - Maracaibo
+97,M,50-64,2018/8/8 0:00,18-Aug,5,2,3,2,5,1,3,5,International,Economy,St Martin / St Maarten - Cleveland
+98,M,35-49,2018/8/8 0:00,18-Apr,3,5,3,3,3,5,4,4,Domestic,Economy,Orlando - Los Angeles
+99,M,50-64,2018/8/8 0:00,18-Jul,4,5,4,4,5,4,5,5,International,Economy,Manchester - Orlando
+100,F,65+,2018/8/8 0:00,18-Jul,4,4,4,2,5,1,4,4,Caribbean,Economy,Washington DC - Hamilton
+101,M,35-49,2018/8/8 0:00,18-Jul,5,5,5,3,5,2,3,5,Domestic,First Class,Miami - Philadelphia
+102,M,35-49,2018/8/8 0:00,18-Aug,2,1,4,1,1,2,1,3,International,Economy,San Francisco - Bengaluru
+103,F,50-64,2018/8/8 0:00,18-Aug,1,1,2,1,2,2,1,2,International,Economy,Raleigh - London
+104,M,25-34,2018/8/8 0:00,18-Jul,4,4,4,4,4,4,4,4,International,Economy,London - New York City
+105,M,35-49,2018/7/8 0:00,18-Jul,4,4,4,3,4,4,4,5,Domestic,Economy,Newburgh - San Francisco
+106,M,50-64,2018/7/8 0:00,17-Oct,1,3,3,2,1,1,3,1,Canada,Economy,Charlotte - Quebec
+107,M,25-34,2018/7/8 0:00,18-Jul,5,5,5,5,5,5,5,5,International,Business Class,Concord - Copenhagen
+108,F,35-49,2018/6/8 0:00,18-Jul,3,2,5,3,3,4,4,3,Domestic,Economy,Saint Louis - Boston
+109,M,50-64,2018/6/8 0:00,18-Mar,2,5,5,3,1,3,1,3,Domestic,Business Class,Spokane - Atlanta
+110,F,35-49,2018/6/8 0:00,18-Jul,3,2,2,2,3,4,3,4,Domestic,First Class,Phoenix - Sioux Falls
+111,F,35-49,2018/6/8 0:00,18-Aug,1,3,2,2,2,2,1,1,Caribbean,Economy,Miami - Antigua
+112,M,65+,2018/6/8 0:00,18-Jul,1,1,4,1,1,1,1,1,Domestic,Economy,Boston - Charlotte
+113,M,50-64,2018/6/8 0:00,18-Jun,2,1,3,2,2,4,1,1,Caribbean,Economy,Philadelphia - Nassau
+114,M,50-64,2018/5/8 0:00,18-Aug,4,1,3,2,5,4,1,5,Domestic,First Class,Minneapolis - Dallas
+115,M,50-64,2018/5/8 0:00,18-Jul,2,1,3,2,3,2,2,1,International,Economy,Panama City - Doha
+116,F,35-49,2018/5/8 0:00,18-Aug,2,1,4,1,2,1,2,3,Domestic,Economy,Washington DC - Miami
+117,M,25-34,2018/4/8 0:00,18-Apr,4,3,3,1,4,1,2,3,International,Economy,Belize City - Miami
+118,M,35-49,2018/4/8 0:00,18-Aug,3,5,4,4,3,5,4,4,Domestic,Economy,Atlanta - Des Moines
+119,F,50-64,2018/4/8 0:00,18-Aug,3,4,3,2,3,2,3,4,Domestic,Economy,Charlottesville - Burlington
+120,M,65+,2018/4/8 0:00,18-Aug,4,5,4,5,4,5,3,5,International,Business Class,London - Austin
+121,F,50-64,2018/4/8 0:00,18-Jul,3,4,3,4,3,3,3,3,Domestic,Economy,Bentonville - Portland
+122,M,65+,2018/4/8 0:00,18-Jun,5,4,4,4,5,4,4,5,Canada,Economy,Kansas City - Vancouver
+123,M,50-64,2018/4/8 0:00,,2,1,2,1,2,1,2,1,Domestic,Economy,White Plains - Charlotte
+124,F,25-34,2018/4/8 0:00,18-Jul,3,1,1,1,3,1,1,2,Domestic,Economy,Charlotte - Philadelphia
+125,M,50-64,2018/3/8 0:00,18-Aug,4,4,4,3,4,4,3,4,International,Business Class,Dallas - Hong Kong
+126,M,25-34,2018/3/8 0:00,18-Jul,2,3,3,1,2,1,2,4,Domestic,Economy,San Angelo - Montgomery
+127,F,65+,2018/3/8 0:00,18-Jul,3,2,2,1,3,1,2,3,Domestic,Economy,Phoenix - Kailua-Kona
+128,F,50-64,2018/3/8 0:00,18-Jul,3,1,1,2,3,2,1,4,Domestic,Economy,Charlottesville - Honolulu
+129,M,50-64,2018/3/8 0:00,18-Aug,1,3,3,2,1,2,1,3,International,Economy,Philadelphia - Manchester
+130,M,65+,2018/3/8 0:00,18-Jul,4,4,2,3,3,4,2,1,USA,First Class,Vancouver - Chicago
+131,M,50-64,2018/2/8 0:00,18-Aug,4,3,4,3,4,5,3,3,International,Business Class,San Angelo - Sao Paulo
+132,M,65+,2018/2/8 0:00,18-Jun,4,5,5,3,4,1,3,4,Domestic,Economy,Portland - Birmingham
+133,F,50-64,2018/2/8 0:00,18-Jul,2,3,3,1,2,1,3,3,Domestic,Economy,Roanoke - Portland
+134,M,35-49,2018/2/8 0:00,18-Jun,5,5,5,4,5,5,5,5,Domestic,First Class,Baltimore - Phoenix
+135,M,50-64,2018/2/8 0:00,18-Jul,3,3,4,4,4,4,3,4,International,Business Class,Buenos Aires - Dallas
+136,F,50-64,2018/2/8 0:00,18-Jul,3,5,4,3,3,4,4,4,Caribbean,Economy,Hartford - San Juan
+137,M,50-64,2018/2/8 0:00,17-Oct,5,5,5,5,5,3,5,5,Domestic,Economy,Las Vegas - Charlotte
+138,M,50-64,2018/1/8 0:00,18-Jul,2,2,2,1,2,1,1,2,International,Economy,Dublin - New York City
+139,M,50-64,2018/1/8 0:00,,3,1,3,3,2,4,3,3,International,Economy,Dallas - Quito
+140,F,50-64,2018/1/8 0:00,18-Aug,3,3,3,3,3,3,3,1,Domestic,Economy,Phoenix - Houston
+141,M,35-49,2018/1/8 0:00,18-Jul,3,1,3,4,2,4,3,1,International,Economy,Prague - Toronto
+142,F,50-64,2018/1/8 0:00,18-Jul,4,4,4,3,4,3,4,4,Domestic,Economy,New York City - Dallas
+143,M,50-64,2018/1/8 0:00,18-Jul,5,5,5,5,5,5,5,5,Domestic,First Class,Dallas - Santa Fe
+144,F,50-64,2018/1/8 0:00,18-Jul,4,3,4,3,4,1,3,3,International,First Class,San Juan - Miami
+145,F,35-49,2018/1/8 0:00,18-Jun,2,3,3,3,2,2,3,3,Caribbean,Economy,Philadelphia - Punta Cana
+146,M,50-64,31/7/2018,18-Jul,4,4,5,4,5,5,4,5,Domestic,Economy,San Diego - Phoenix
+147,M,65+,31/7/2018,18-Jun,4,3,4,2,4,2,3,3,Caribbean,First Class,Tampa - St. Kitts
+148,M,50-64,31/7/2018,,1,1,1,1,1,1,1,1,Domestic,Economy,Charlotte - Hartford
+149,M,50-64,30/7/2018,18-Jul,5,5,5,5,5,5,5,5,International,Business Class,Edinburgh - New York City
+150,M,50-64,30/7/2018,18-Jul,3,4,4,3,3,4,3,4,USA,Economy,Cancun - Phoenix
+151,F,50-64,30/7/2018,18-Jul,3,3,3,3,4,1,2,4,Domestic,Economy,Dallas - Orlando
+152,M,50-64,29/7/2018,18-Jul,3,2,4,3,3,4,2,3,Domestic,Economy,Colorado Springs - Traverse City
+153,F,35-49,29/7/2018,18-Jul,4,4,4,4,3,4,4,3,Domestic,Economy,Los Angeles - Honolulu
+154,M,50-64,29/7/2018,18-Jul,3,5,5,3,3,4,5,5,Domestic,Economy,New Orleans - Los Angeles
+155,F,50-64,29/7/2018,18-Jul,3,2,3,1,3,1,1,3,Domestic,Economy,Philadelphia - Phoenix
+156,F,65+,29/7/2018,18-Jul,4,3,4,3,4,3,3,2,International,Business Class,Charlotte - London
+157,M,50-64,28/7/2018,18-May,5,5,5,4,5,5,5,5,Domestic,First Class,Huntsville - Bozeman
+158,F,50-64,28/7/2018,18-Jul,4,1,3,1,5,3,3,5,International,Economy,London - New York City
+159,M,65+,28/7/2018,18-Jul,2,4,4,3,1,1,3,4,Domestic,Economy,Philadelphia - Omaha
+160,F,35-49,27/7/2018,18-Jul,3,3,4,4,3,3,3,4,Domestic,Business Class,Dallas - Oakland
+161,F,50-64,27/7/2018,18-Jul,1,1,1,1,1,1,1,1,Mexico,Business Class,Philadelphia - Cancun
+162,M,50-64,26/7/2018,18-Jul,5,5,4,5,5,5,4,5,Domestic,First Class,Orlando - Las Vegas
+163,M,35-49,26/7/2018,18-Jul,3,5,5,4,3,4,4,5,International,Economy,Tokyo - Los Angeles
+164,F,50-64,26/7/2018,,1,3,3,3,1,1,1,3,International,Economy,Charlotte - Rome
+165,F,35-49,26/7/2018,18-May,2,5,5,4,2,5,2,5,Caribbean,Economy,Denver - Grenada
+166,M,35-49,26/7/2018,18-Jul,2,4,3,3,3,4,3,2,Mexico,Economy,Los Angeles - Cancun
+167,F,50-64,26/7/2018,18-Jun,5,5,5,3,4,3,5,5,Domestic,Economy,El Paso - Los Angeles
+168,M,35-49,25/7/2018,18-Jul,4,3,3,2,4,1,4,4,Domestic,Business Class,Miami - Chicago
+169,F,35-49,25/7/2018,18-Jul,4,4,5,3,5,5,4,5,International,Economy,New York City - San Pedro Sula
+170,M,35-49,25/7/2018,18-Apr,5,5,4,5,4,5,5,4,International,Economy,Amsterdam - Atlanta
+171,F,35-49,24/7/2018,18-Jul,2,2,4,3,2,4,2,1,International,Economy,Rome - New York City
+172,M,50-64,24/7/2018,,3,4,5,3,5,3,4,5,Domestic,Economy,Phoenix - Los Angeles
+173,M,65+,24/7/2018,18-Jun,4,5,4,3,3,5,4,5,Domestic,Economy,Dallas - Boston
+174,F,50-64,24/7/2018,18-Jul,5,5,4,5,5,2,5,4,International,Economy,New York City - Edinburgh
+175,M,65+,24/7/2018,18-Jun,3,3,3,3,2,4,3,3,Caribbean,Economy,New Orleans - Montego Bay
+176,M,50-64,23/7/2018,18-Jul,3,4,3,3,3,2,3,3,Domestic,Economy,Washington DC - Hartford
+177,F,50-64,23/7/2018,18-Jul,3,3,3,3,2,3,2,3,Domestic,Economy,Denver - Dallas
+178,F,50-64,23/7/2018,18-Jun,3,5,4,2,3,2,3,4,Domestic,Economy,Wichita - San Diego
+179,M,35-49,23/7/2018,18-Jul,4,4,4,2,4,4,4,4,Caribbean,Economy,Miami - Antigua
+180,F,35-49,23/7/2018,18-Jul,3,4,4,2,3,4,3,4,International,Business Class,Philadelphia - Rome
+181,M,65+,22/7/2018,,4,5,4,4,5,4,4,5,Domestic,Economy,Fayetteville - Little Rock
+182,M,35-49,22/7/2018,18-Jul,1,3,1,2,1,1,4,3,Domestic,Economy,Philadelphia - Buffalo
+183,F,50-64,22/7/2018,,2,2,3,2,3,3,2,3,International,Economy,Philadelphia - Budapest
+184,F,65+,22/7/2018,18-Jul,1,4,3,3,1,3,2,5,International,Economy,Phoenix - Shannon
+185,M,35-49,22/7/2018,18-Jul,5,5,5,5,4,5,3,5,Domestic,Economy,Dallas - Colorado Springs
+186,F,25-34,22/7/2018,18-Jun,3,1,2,2,3,1,2,1,Domestic,Economy,Detroit - New York City
+187,F,50-64,22/7/2018,18-Jul,2,1,1,1,3,1,1,1,Domestic,Economy,Chicago - Indianapolis
+188,F,35-49,22/7/2018,18-Jul,3,2,2,3,2,1,3,2,Domestic,Economy,Boston - Miami
+189,F,50-64,21/7/2018,18-Jul,4,4,4,5,4,5,3,4,USA,First Class,Vancouver - Orlando
+190,F,65+,21/7/2018,18-Jul,2,2,3,4,1,2,1,1,Domestic,Economy,Dallas - Tucson
+191,F,65+,21/7/2018,18-Jul,2,2,3,4,1,5,1,1,Domestic,Economy,New York City - Dallas
+192,F,65+,21/7/2018,,2,2,2,4,1,5,1,2,Domestic,Economy,Chicago - Newark
+193,F,65+,21/7/2018,18-Jul,2,2,2,3,2,5,1,2,Domestic,Economy,Tucson - Chicago
+194,M,50-64,21/7/2018,18-Jul,5,5,5,5,5,5,5,5,Domestic,Economy,Las Vegas - Baltimore
+195,M,50-64,20/7/2018,18-Jun,4,5,5,3,4,4,4,5,Domestic,Economy,Dallas - Philadelphia
+196,M,35-49,20/7/2018,18-Jul,3,4,5,3,3,5,4,5,Caribbean,Economy,Austin - Grenada
+197,F,50-64,20/7/2018,18-Jul,5,5,5,5,5,1,5,5,Domestic,Economy,Miami - Pensacola
+198,M,35-49,20/7/2018,18-Jun,3,2,3,3,3,4,3,2,Domestic,Economy,Saint Louis - Chicago
+199,M,35-49,20/7/2018,18-Jun,3,4,4,4,3,5,4,4,International,Economy,London - Chicago
+200,F,50-64,19/7/2018,18-Jun,2,3,3,1,2,1,1,3,International,Economy,Tampa - Manchester
+201,M,50-64,19/7/2018,18-Jul,3,3,3,2,3,2,2,3,Domestic,Economy,Chicago - Los Angeles
+202,F,50-64,19/7/2018,18-Jun,5,5,5,3,5,3,5,5,Domestic,Economy,Greenville - South Bend
+203,M,50-64,19/7/2018,18-Jun,3,3,3,3,3,3,2,3,Domestic,Economy,Tulsa - Miami
+204,F,35-49,19/7/2018,18-Jul,1,1,4,1,2,2,1,1,International,Economy,Miami - Quito
+205,M,35-49,19/7/2018,18-Jul,3,4,4,3,4,4,4,4,Domestic,Economy,Dallas - Chicago
+206,F,50-64,19/7/2018,18-Jul,4,4,5,3,5,4,4,5,Domestic,Business Class,Charlotte - Salt Lake City
+207,M,65+,19/7/2018,18-May,2,4,4,3,3,3,4,4,Domestic,Economy,Honolulu - Dallas
+208,M,50-64,19/7/2018,18-Jun,2,3,2,1,2,4,3,2,International,Economy,Philadelphia - Dublin
+209,M,35-49,18/7/2018,18-Jul,4,4,4,3,4,5,4,3,Domestic,Economy,Newark - Dallas
+210,M,25-34,18/7/2018,18-Jul,5,5,5,5,5,4,5,5,International,Economy,Sydney - Los Angeles
+211,F,50-64,18/7/2018,18-Jul,4,4,4,5,4,3,1,5,Domestic,Economy,Dallas - Shreveport
+212,M,50-64,18/7/2018,18-Mar,3,4,3,3,3,2,3,3,Domestic,Economy,Waterloo - Washington DC
+213,F,50-64,18/7/2018,18-Jun,3,3,3,2,3,2,2,1,Domestic,Economy,Dallas - Memphis
+214,M,50-64,18/7/2018,18-Mar,3,4,3,3,2,4,3,2,Domestic,Economy,Harrisburg - New Orleans
+215,M,35-49,18/7/2018,18-Jul,3,4,2,3,2,1,1,3,Domestic,Economy,Washington DC - Syracuse
+216,M,50-64,18/7/2018,18-Jul,3,4,3,1,4,3,3,4,Domestic,Economy,Los Angeles - Dallas
+217,F,65+,18/7/2018,18-Jun,3,4,3,3,3,4,3,4,International,Economy,Venice - Philadelphia
+218,F,35-49,18/7/2018,18-Jul,4,4,4,4,4,4,4,4,Domestic,Business Class,Chicago - Newport News
+219,M,65+,18/7/2018,18-May,3,5,4,5,3,4,4,5,Domestic,Economy,Phoenix - Boston
+220,M,50-64,18/7/2018,18-Jun,2,2,3,3,2,1,1,4,Mexico,Economy,Austin - Los Cabos
+221,F,35-49,18/7/2018,18-Jun,3,2,3,3,3,3,3,3,Domestic,Economy,Austin - Myrtle Beach
+222,F,35-49,18/7/2018,18-Jun,4,3,4,3,4,4,4,3,Domestic,Economy,Myrtle Beach - Austin
+223,M,35-49,18/7/2018,18-Jun,5,4,4,4,5,1,3,5,Domestic,Business Class,Kansas City - Chicago
+224,M,25-34,18/7/2018,18-Jul,4,5,5,3,4,3,3,5,Domestic,Economy,Charlotte - Sacramento
+225,F,50-64,18/7/2018,18-Jun,3,1,3,2,3,2,2,1,Domestic,Economy,Dallas - Chicago
+226,F,65+,18/7/2018,18-Jul,3,2,3,3,4,3,3,3,Domestic,Economy,Seattle - Philadelphia
+227,M,50-64,17/7/2018,,3,3,3,3,3,4,3,3,Domestic,Economy,Charleston - Denver
+228,M,50-64,17/7/2018,18-Jul,5,5,5,5,5,5,4,5,International,First Class,Chicago - Liberia
+229,M,50-64,17/7/2018,18-Jul,4,3,3,2,4,3,2,3,International,Economy,Belo Horizonte - Miami
+230,M,50-64,17/7/2018,18-Jul,2,1,3,3,2,1,2,4,International,Economy,Philadelphia - Lisbon
+231,M,65+,17/7/2018,18-Jul,3,3,4,2,3,1,2,2,Domestic,First Class,Charlotte - New Orleans
+232,M,65+,17/7/2018,18-Jul,4,3,4,2,4,1,2,3,Domestic,First Class,New Orleans - Charlotte
+233,M,35-49,16/7/2018,18-Jul,3,1,4,2,2,3,2,3,Domestic,Economy,Fort Lauderdale - Dallas
+234,F,50-64,16/7/2018,18-Jul,3,3,3,3,3,3,4,5,Domestic,Economy,Amarillo - Raleigh
+235,M,65+,16/7/2018,18-Mar,3,5,5,3,3,4,2,3,Domestic,Economy,Kailua-Kona - Madison
+236,F,50-64,16/7/2018,18-Jul,3,3,4,3,3,2,2,4,Canada,Economy,Jacksonville - Quebec
+237,M,50-64,16/7/2018,18-Jul,3,5,4,5,3,5,4,5,Domestic,Economy,Newark - Denver
+238,M,35-49,16/7/2018,18-Jun,5,5,4,3,5,4,3,5,Domestic,First Class,Key West - Charlotte
+239,F,50-64,16/7/2018,18-Jul,4,5,5,5,4,5,4,5,Domestic,Economy,Charlotte - San Diego
+240,F,50-64,16/7/2018,18-Jul,4,3,3,3,4,2,3,3,Domestic,Economy,Atlanta - Miami
+241,F,50-64,15/7/2018,18-Jul,4,5,5,3,4,3,5,4,Domestic,Economy,Sarasota - San Francisco
+242,M,50-64,14/7/2018,18-Jun,5,5,5,3,5,5,5,5,Domestic,Economy,Washington DC - Los Angeles
+243,F,35-49,14/7/2018,18-May,2,3,3,2,2,2,3,3,Domestic,Economy,New York City - Miami
+244,M,65+,13/7/2018,18-Jun,5,5,5,4,4,4,5,5,International,Economy,Paris - Albuquerque
+245,M,50-64,13/7/2018,18-Jun,5,5,5,4,4,5,5,5,International,Economy,New York City - London
+246,M,35-49,13/7/2018,18-Jul,3,4,3,3,3,3,3,3,Domestic,Economy,Lihue - Los Angeles
+247,M,50-64,13/7/2018,18-Jun,2,4,3,2,2,3,3,3,International,Economy,Boston - Milan
+248,M,35-49,13/7/2018,18-Jul,4,4,4,3,3,3,3,4,Domestic,Economy,Charlotte - Dallas
+249,M,50-64,13/7/2018,,5,5,5,5,5,4,5,1,International,First Class,Miami - London
+250,M,50-64,13/7/2018,18-Jun,5,5,5,5,5,4,5,5,International,First Class,London - Miami
+251,F,35-49,2018/12/7 0:00,18-Jun,2,3,3,3,2,3,4,3,USA,Economy,Toronto - Chattanooga
+252,F,50-64,2018/12/7 0:00,18-Jun,5,5,5,4,5,5,4,5,Caribbean,First Class,Boston - Bonaire
+253,M,50-64,2018/12/7 0:00,18-Jul,4,5,3,5,3,5,3,5,Domestic,Economy,Hartford - El Paso
+254,M,35-49,2018/11/7 0:00,18-Jun,5,4,5,3,4,4,5,5,Domestic,Economy,Phoenix - Chicago
+255,F,35-49,2018/11/7 0:00,18-Jun,2,4,3,3,3,3,4,2,International,Economy,Munich - Chicago
+256,M,65+,2018/11/7 0:00,18-Jun,3,2,2,2,3,3,3,2,Domestic,Business Class,Chicago - Las Vegas
+257,M,35-49,2018/11/7 0:00,18-Jul,5,3,5,3,5,5,3,5,International,First Class,Seoul - Dallas
+258,M,65+,2018/11/7 0:00,18-Jul,3,4,3,3,3,4,3,3,Mexico,Economy,Oklahoma City - Puerto Vallarta
+259,F,50-64,2018/11/7 0:00,18-Jun,4,2,2,4,5,5,4,2,International,Business Class,London - Dallas
+260,M,65+,2018/11/7 0:00,18-Jul,3,4,5,3,3,4,4,5,Domestic,Economy,Louisville - Dallas
+261,M,65+,2018/10/7 0:00,18-Jun,4,4,3,4,4,4,3,3,Domestic,First Class,Albuquerque - New York City
+262,M,65+,2018/10/7 0:00,18-Jun,3,4,3,2,3,3,2,3,Caribbean,Economy,Miami - San Juan
+263,M,35-49,2018/9/7 0:00,18-Jun,3,2,4,2,3,4,3,4,Domestic,Economy,Dallas - Maui
+264,F,50-64,2018/9/7 0:00,18-Jul,5,1,1,1,5,3,1,1,International,Business Class,London - Los Angeles
+265,M,65+,2018/9/7 0:00,18-Jul,2,4,3,1,3,1,3,4,International,Economy,Zurich - Philadelphia
+266,F,35-49,2018/9/7 0:00,18-Jul,2,1,2,3,3,3,3,4,Domestic,Economy,Savannah - Dallas
+267,M,50-64,2018/9/7 0:00,18-Jul,3,4,3,3,3,2,3,3,Domestic,First Class,Charlotte - Daytona Beach
+268,F,35-49,2018/9/7 0:00,,4,4,4,3,4,5,3,4,Domestic,Economy,Detroit - Reno
+269,F,65+,2018/9/7 0:00,18-Jun,5,4,5,3,4,5,4,3,Domestic,Economy,Beaumont - Las Vegas
+270,M,50-64,2018/9/7 0:00,17-Oct,1,1,1,1,1,1,1,1,Domestic,Economy,Charlotte - Gulfport
+271,F,50-64,2018/9/7 0:00,,2,4,3,1,2,3,2,2,International,Economy,Los Angeles - London
+272,M,65+,2018/8/7 0:00,18-Jun,4,5,5,3,4,4,5,5,Domestic,Economy,Fort Myers - Syracuse
+273,M,65+,2018/8/7 0:00,,4,4,5,3,5,3,5,5,Domestic,Economy,Madison - Philadelphia
+274,F,35-49,2018/7/7 0:00,18-Jan,4,3,4,2,4,4,4,5,Domestic,Economy,Dallas - Las Vegas
+275,F,50-64,2018/7/7 0:00,18-Jul,5,5,4,5,5,5,5,5,Domestic,Economy,Tampa - Charlottesville
+276,M,50-64,2018/7/7 0:00,,3,1,1,2,3,4,2,3,Domestic,Business Class,Atlanta - Chicago
+277,M,50-64,2018/7/7 0:00,18-Jul,3,4,4,3,2,3,3,4,Caribbean,Economy,Kansas City - Montego Bay
+278,M,50-64,2018/6/7 0:00,18-Jun,4,4,4,4,4,4,4,5,Domestic,Business Class,New York City - Los Angeles
+279,F,50-64,2018/6/7 0:00,18-Jun,3,2,3,3,3,3,2,2,USA,Economy,Cancun - Chicago
+280,M,65+,2018/6/7 0:00,18-Jul,5,5,5,5,5,5,5,5,Domestic,First Class,Boston - Tampa
+281,M,65+,2018/6/7 0:00,18-Apr,4,4,4,3,3,3,4,4,Domestic,Economy,Fort Lauderdale - Charlotte
+282,F,65+,2018/6/7 0:00,18-Jun,2,5,3,3,2,1,3,4,International,Economy,Tampa - Prague
+283,F,50-64,2018/6/7 0:00,18-Jun,4,5,5,4,5,4,4,4,Caribbean,Economy,Austin - Grand Cayman
+284,F,50-64,2018/6/7 0:00,18-Jun,5,5,5,5,5,5,5,5,International,Business Class,Zurich - Philadelphia
+285,F,50-64,2018/6/7 0:00,18-Jun,2,2,3,2,2,3,1,2,Caribbean,Economy,Philadelphia - Hamilton
+286,F,50-64,2018/6/7 0:00,18-Jun,5,5,5,4,5,2,3,4,Domestic,Economy,Charlotte - Knoxville
+287,F,50-64,2018/6/7 0:00,18-Jun,5,2,5,2,5,2,2,1,Domestic,Economy,Boston - Charlotte
+288,M,65+,2018/5/7 0:00,,2,1,3,2,2,2,3,1,Domestic,Economy,Charlotte - Las Vegas
+289,M,50-64,2018/5/7 0:00,18-Jun,3,2,3,1,3,1,3,4,Domestic,Economy,Charlotte - Hartford
+290,M,50-64,2018/5/7 0:00,,3,4,3,3,3,4,3,3,Domestic,Economy,Orlando - Las Vegas
+291,M,50-64,2018/5/7 0:00,18-Jun,2,1,2,2,2,1,1,1,International,Business Class,Montego Bay - Miami
+292,M,50-64,2018/5/7 0:00,18-Jun,4,4,4,3,3,3,4,4,Domestic,Economy,Miami - Tampa
+293,F,50-64,2018/5/7 0:00,18-Jul,4,4,4,4,4,4,4,4,Caribbean,Economy,Dallas - Montego Bay
+294,F,35-49,2018/4/7 0:00,,4,5,5,5,4,5,5,5,International,Economy,Dallas - London
+295,M,50-64,2018/4/7 0:00,18-Jun,4,4,4,3,3,4,3,3,Domestic,Economy,Denver - Miami
+296,M,50-64,2018/4/7 0:00,18-Jun,3,1,4,3,3,3,1,1,Domestic,Economy,Philadelphia - Dallas
+297,M,35-49,2018/4/7 0:00,18-Jun,3,2,3,2,3,1,2,2,Domestic,Economy,Detroit - Chicago
+298,M,35-49,2018/4/7 0:00,18-Jun,3,1,3,2,3,3,3,1,Domestic,Economy,Washington DC - Hartford
+299,M,50-64,2018/4/7 0:00,18-Jun,3,4,3,3,3,5,3,4,Domestic,Economy,Spokane - New Orleans
+300,M,65+,2018/4/7 0:00,,3,1,4,3,3,4,4,2,Domestic,Economy,Philadelphia - Phoenix
+301,M,65+,2018/3/7 0:00,18-Jun,5,5,5,5,5,5,3,5,International,Business Class,Dallas - Beijing
+302,M,50-64,2018/3/7 0:00,18-Jun,2,3,3,3,3,3,2,3,Domestic,Business Class,Manchester - Philadelphia
+303,M,35-49,2018/3/7 0:00,18-Jun,3,3,4,3,3,1,3,4,Domestic,Economy,Chattanooga - Seattle
+304,F,35-49,2018/3/7 0:00,18-Jun,3,3,3,3,3,3,3,3,Domestic,Economy,Gulfport - Fort Smith
+305,M,50-64,2018/3/7 0:00,18-Jun,4,1,3,2,4,5,3,1,International,Business Class,Miami - Rio de Janeiro
+306,M,65+,2018/3/7 0:00,18-Jul,5,5,5,4,5,3,5,5,Mexico,Business Class,Las Vegas - Los Cabos
+307,M,35-49,2018/3/7 0:00,18-Jun,5,4,4,3,5,4,4,4,International,Business Class,Sao Paulo - Dallas
+308,M,35-49,2018/3/7 0:00,18-Jul,1,3,3,3,2,3,3,3,Domestic,Economy,Charlotte - Las Vegas
+309,M,65+,2018/2/7 0:00,18-Jul,5,1,5,3,5,4,2,5,Domestic,First Class,Sacramento - Jacksonville
+310,M,35-49,2018/2/7 0:00,18-May,3,4,4,3,4,5,4,5,Domestic,Economy,Miami - New York City
+311,F,50-64,2018/2/7 0:00,18-Jun,3,4,5,3,3,4,4,5,International,Economy,Manchester - Philadelphia
+312,M,50-64,2018/2/7 0:00,18-Jun,3,4,4,3,3,4,4,5,Domestic,Economy,Meridian - San Antonio
+313,F,18-24,2018/2/7 0:00,18-Jun,2,1,1,5,2,2,1,1,Domestic,Economy,Dallas - Atlanta
+314,M,65+,2018/2/7 0:00,18-Jun,3,4,3,1,2,3,2,2,Domestic,Economy,Oklahoma City - Chicago
+315,M,35-49,2018/2/7 0:00,,4,5,4,4,4,4,3,4,International,Economy,Austin - Paris
+316,M,50-64,2018/2/7 0:00,18-Jun,1,5,3,2,1,1,3,3,Domestic,Economy,Dallas - New Orleans
+317,M,25-34,2018/2/7 0:00,18-Jun,3,3,3,2,2,1,2,4,Domestic,Economy,Knoxville - White Plains
+318,M,50-64,2018/2/7 0:00,18-Jun,3,2,3,3,3,3,2,3,Domestic,Economy,Houston - Richmond
+319,F,50-64,2018/2/7 0:00,18-Jun,3,4,4,3,3,3,3,4,Domestic,Economy,Dallas - Fort Lauderdale
+320,M,50-64,2018/1/7 0:00,18-May,4,4,4,4,4,4,5,4,Caribbean,Economy,Pittsburgh - San Juan
+321,M,50-64,2018/1/7 0:00,18-Jun,1,4,4,3,2,5,3,5,Domestic,Economy,Phoenix - Nashville
+322,M,65+,2018/1/7 0:00,18-Jun,4,4,4,3,4,3,4,4,Domestic,Economy,Dallas - Dayton
+323,M,65+,2018/1/7 0:00,18-Jun,4,5,4,3,4,3,4,4,Domestic,Economy,Grand Junction - Dallas
+324,M,35-49,2018/1/7 0:00,18-Jun,3,3,3,3,3,3,3,3,USA,Economy,Cancun - Miami
+325,M,50-64,2018/1/7 0:00,,3,3,3,3,4,2,3,3,Domestic,Economy,San Francisco - Dallas
+326,M,35-49,30/6/2018,,4,4,5,4,4,3,4,5,Domestic,Economy,New York City - Los Angeles
+327,M,50-64,30/6/2018,18-Jun,2,3,3,2,2,2,3,3,Domestic,Economy,Syracuse - Phoenix
+328,M,50-64,30/6/2018,18-Jun,3,3,3,2,4,3,3,3,Domestic,Economy,Dallas - San Francisco
+329,M,50-64,30/6/2018,18-Jun,2,5,3,1,5,2,3,5,Domestic,First Class,Denver - Philadelphia
+330,M,35-49,30/6/2018,18-Jun,3,3,4,3,3,3,3,3,Domestic,First Class,Los Angeles - Saint Louis
+331,M,65+,29/6/2018,18-Jun,4,5,5,4,5,4,5,5,Domestic,Economy,Washington DC - Las Vegas
+332,M,35-49,29/6/2018,18-Jun,3,5,4,3,3,1,4,5,Domestic,Economy,Chicago - Chattanooga
+333,M,50-64,29/6/2018,18-Jun,3,5,3,3,3,3,3,3,Domestic,Economy,Los Angeles - Philadelphia
+334,F,50-64,29/6/2018,18-Jun,3,4,4,4,3,5,4,4,Domestic,Economy,Chicago - Orange
+335,F,50-64,29/6/2018,,4,1,3,1,5,1,2,1,Domestic,Economy,Washington DC - Tampa
+336,F,50-64,28/6/2018,18-Jun,3,2,3,2,2,2,3,3,Domestic,Economy,Tallahassee - Portland
+337,M,50-64,28/6/2018,,4,2,1,2,4,1,1,2,Canada,Business Class,Orlando - Vancouver
+338,F,35-49,28/6/2018,18-Jun,4,3,3,3,4,4,2,2,Domestic,Economy,Los Angeles - Miami
+339,F,25-34,28/6/2018,18-Jun,5,5,5,5,5,3,5,5,International,Economy,London - Miami
+340,M,50-64,28/6/2018,18-Jun,5,4,4,4,5,3,4,3,Domestic,First Class,Norfolk - Los Angeles
+341,M,50-64,27/6/2018,18-Jun,3,5,3,5,3,3,3,5,Domestic,Economy,Newport News - Philadelphia
+342,M,65+,27/6/2018,18-Jun,5,5,5,5,5,5,5,5,Domestic,First Class,Orlando - Rochester
+343,F,65+,27/6/2018,18-Jun,5,5,5,5,5,5,5,5,International,First Class,London - Dallas
+344,M,50-64,27/6/2018,18-Jun,2,2,1,1,3,1,1,1,Domestic,Economy,New York City - Greensboro
+345,M,65+,27/6/2018,18-Jun,4,4,5,4,3,3,4,5,Domestic,Economy,Lynchburg - Salt Lake City
+346,M,35-49,27/6/2018,18-Jun,3,3,2,3,3,3,3,3,Domestic,Economy,Dallas - Meridian
+347,M,25-34,27/6/2018,18-Jun,4,4,5,3,4,4,4,5,Caribbean,Economy,Miami - Santo Domingo
+348,F,50-64,27/6/2018,,3,4,4,4,4,5,3,5,Domestic,Economy,Sacramento - Dallas
+349,M,50-64,27/6/2018,18-Jun,5,5,5,4,5,5,5,4,International,Economy,London - Philadelphia
+350,F,50-64,27/6/2018,18-Jun,3,4,3,3,3,4,3,3,International,Economy,Charlotte - Dublin
+351,M,35-49,27/6/2018,18-May,5,2,2,4,5,2,3,5,International,Business Class,Montevideo - Miami
+352,M,50-64,27/6/2018,18-Mar,4,5,5,3,3,5,4,4,International,Economy,New York City - Milan
+353,F,35-49,27/6/2018,18-Jun,2,4,5,3,2,3,4,3,International,Economy,Helsinki - Vancouver
+354,M,35-49,27/6/2018,18-Jun,2,3,4,3,2,1,3,4,International,Economy,Tampa - Lima
+355,F,50-64,27/6/2018,18-Jun,5,5,5,5,5,5,5,5,International,First Class,Miami - Cali
+356,M,50-64,27/6/2018,18-Jun,4,5,4,4,5,4,3,4,Domestic,Economy,West Palm Beach - Los Angeles
+357,F,35-49,26/6/2018,18-Jun,3,3,3,1,3,3,3,3,Domestic,Economy,San Francisco - Philadelphia
+358,F,35-49,26/6/2018,18-May,2,3,2,3,3,1,1,3,International,Economy,Philadelphia - Amsterdam
+359,F,35-49,26/6/2018,18-Jun,3,2,3,2,3,2,3,4,Domestic,Economy,Philadelphia - San Diego
+360,M,50-64,26/6/2018,18-Jun,1,1,3,1,2,2,1,1,Domestic,Economy,Portland - Greenville
+361,F,50-64,26/6/2018,18-Jun,3,5,5,5,3,3,4,5,Domestic,Economy,Charlotte - Wilmington
+362,F,35-49,26/6/2018,18-Jun,4,3,3,3,3,3,3,2,USA,Economy,Cancun - Dallas
+363,M,50-64,26/6/2018,18-Apr,5,5,4,5,5,5,5,5,Domestic,First Class,Denver - Miami
+364,M,25-34,26/6/2018,18-Jun,3,4,4,3,3,2,4,4,Canada,Economy,New York City - Toronto
+365,M,65+,25/6/2018,18-Jun,2,4,3,1,2,2,3,4,Domestic,Economy,Pittsburgh - Hartford
+366,M,25-34,25/6/2018,18-Jun,3,5,4,5,3,5,5,5,Domestic,Economy,Des Moines - Las Vegas
+367,M,50-64,25/6/2018,18-Jun,1,5,5,3,3,3,3,5,Domestic,Business Class,Springfield - Phoenix
+368,F,25-34,25/6/2018,18-Jun,5,5,5,5,5,5,5,5,International,Economy,Paris - Denver
+369,M,65+,25/6/2018,18-Jun,2,4,3,3,3,3,3,4,Domestic,Economy,Phoenix - Charlotte
+370,M,35-49,25/6/2018,18-Jun,4,4,4,3,4,4,4,3,Domestic,First Class,Chicago - Houston
+371,M,50-64,25/6/2018,18-Jun,4,3,5,1,4,2,3,4,International,Economy,Port of Spain - Orlando
+372,M,50-64,25/6/2018,18-May,4,5,4,4,4,3,3,4,Domestic,First Class,Charlotte - Tampa
+373,F,50-64,25/6/2018,18-Jun,3,1,1,2,3,1,1,1,Caribbean,First Class,Dallas - Grand Cayman
+374,M,65+,25/6/2018,18-Jun,5,5,5,5,5,4,5,5,International,Economy,Dallas - London
+375,F,35-49,25/6/2018,18-Jun,3,3,3,4,4,1,3,3,Mexico,Economy,Sacramento - Los Cabos
+376,F,50-64,25/6/2018,18-Jun,3,4,3,3,3,2,2,3,Domestic,Economy,Cleveland - Chicago
+377,M,65+,25/6/2018,18-Jun,2,1,3,2,1,3,3,3,Domestic,Economy,Providence - Myrtle Beach
+378,F,65+,25/6/2018,,3,1,3,2,3,2,2,3,Domestic,Economy,Wilmington - New York City
+379,F,50-64,25/6/2018,18-Jun,4,5,5,4,4,4,4,5,Domestic,Economy,Memphis - Chicago
+380,F,50-64,24/6/2018,18-May,4,4,4,3,3,3,3,2,Domestic,Economy,Phoenix - Sacramento
+381,F,35-49,24/6/2018,18-Jun,3,4,4,3,3,3,3,5,USA,Economy,Vancouver - Dallas
+382,M,50-64,24/6/2018,18-Jun,4,4,4,4,4,4,3,4,International,Economy,Manchester - Chicago
+383,F,50-64,24/6/2018,18-Jun,3,3,4,3,2,2,3,2,International,Economy,Richmond - Medellin
+384,M,50-64,24/6/2018,18-Jun,4,4,4,3,4,4,3,4,International,Economy,London - Dallas
+385,F,50-64,24/6/2018,18-Jun,4,2,3,3,4,2,3,2,Caribbean,Business Class,Jacksonville - Punta Cana
+386,M,65+,24/6/2018,,2,1,4,1,2,3,2,2,Domestic,Economy,Abilene - Bangor
+387,F,25-34,23/6/2018,18-Apr,2,1,2,2,2,2,1,1,International,Economy,Boston - London
+388,M,65+,23/6/2018,,3,3,4,4,2,4,3,4,Domestic,Economy,Greenville - Maui
+389,F,50-64,23/6/2018,,4,5,5,5,4,4,4,5,Caribbean,Economy,Kansas City - Grand Cayman
+390,M,65+,23/6/2018,18-May,4,5,4,5,5,3,4,5,International,First Class,Dallas - Cabo Frio
+391,F,65+,23/6/2018,18-Jun,3,3,4,3,3,3,3,3,USA,Economy,Vancouver - Phoenix
+392,F,50-64,23/6/2018,18-Jun,5,5,5,5,5,2,5,1,Domestic,First Class,Washington DC - Savannah
+393,M,35-49,22/6/2018,17-Nov,1,4,1,1,1,1,1,3,International,Economy,Philadelphia - Lisbon
+394,F,35-49,21/6/2018,18-Jun,2,1,1,3,4,2,2,4,Domestic,Economy,Houston - Charlotte
+395,F,50-64,21/6/2018,18-Mar,3,3,3,1,4,1,3,3,Domestic,Business Class,Chicago - Dallas
+396,M,65+,21/6/2018,18-Jun,5,5,5,5,5,5,5,5,Domestic,First Class,Los Angeles - Reno
+397,M,25-34,21/6/2018,18-May,3,3,4,3,3,3,4,2,Domestic,Economy,Fort Walton Beach - San Francisco
+398,M,25-34,21/6/2018,18-Apr,4,5,5,5,3,5,4,5,Domestic,Economy,Newark - Miami
+399,F,35-49,21/6/2018,18-May,3,4,3,4,4,5,3,4,International,Economy,Munich - Philadelphia
+400,M,65+,21/6/2018,18-Jun,4,5,4,4,4,4,4,5,Domestic,Economy,Las Vegas - Nashville
+401,M,35-49,20/6/2018,18-Jun,5,5,5,5,5,5,5,5,International,Business Class,Miami - Sao Paulo
+402,M,50-64,20/6/2018,18-May,1,1,1,1,1,1,1,1,Domestic,Economy,Raleigh - San Jose
+403,M,35-49,20/6/2018,17-Dec,2,2,2,2,3,4,2,3,International,Economy,Dallas - Tokyo
+404,M,25-34,19/6/2018,,3,1,3,1,3,1,3,1,Domestic,Economy,Los Angeles - Las Vegas
+405,M,50-64,19/6/2018,18-Mar,3,5,5,5,4,5,4,4,International,Economy,Nashville - Port of Spain
+406,M,35-49,19/6/2018,18-Jun,3,4,3,4,3,4,3,3,Caribbean,Economy,Akron - San Juan
+407,F,50-64,19/6/2018,,4,5,4,4,4,3,4,5,Domestic,Economy,Indianapolis - Los Angeles
+408,F,50-64,19/6/2018,18-Jun,3,3,3,3,3,3,3,3,Domestic,Economy,San Antonio - Charlotte
+409,M,50-64,19/6/2018,18-Jun,5,5,4,4,5,5,2,4,International,Business Class,Madrid - Philadelphia
+410,M,50-64,19/6/2018,18-Jun,4,3,4,3,4,4,3,3,Mexico,Business Class,Miami - Cancun
+411,M,35-49,19/6/2018,18-May,5,5,5,3,5,5,5,5,International,Business Class,Hong Kong - Los Angeles
+412,M,65+,19/6/2018,18-Jan,3,4,3,2,3,2,3,4,Canada,Economy,Chicago - Toronto
+413,F,25-34,18/6/2018,18-May,3,1,3,2,4,3,2,1,Domestic,Economy,New York City - San Francisco
+414,M,50-64,18/6/2018,18-May,5,5,5,5,5,5,5,5,Domestic,Economy,Tampa - Norfolk
+415,M,25-34,18/6/2018,18-Jun,3,3,3,3,3,3,3,3,Domestic,Economy,Washington DC - Detroit
+416,M,25-34,18/6/2018,18-Jun,4,4,3,3,3,3,3,3,Domestic,Economy,Portland - Washington DC
+417,M,50-64,18/6/2018,18-Jun,3,4,3,3,5,4,3,4,International,Economy,Los Angeles - Barcelona
+418,F,18-24,18/6/2018,18-Jun,4,5,5,5,4,4,5,5,Caribbean,Economy,Miami - Havana
+419,F,50-64,18/6/2018,18-May,3,4,3,3,3,3,3,2,Domestic,Economy,Phoenix - Philadelphia
+420,M,50-64,18/6/2018,18-Jun,3,4,4,2,3,4,3,4,International,Economy,Miami - Madrid
+421,F,65+,18/6/2018,,4,5,5,3,5,5,5,5,Domestic,Economy,Los Angeles - Raleigh
+422,F,65+,17/6/2018,18-Jun,5,5,5,5,5,5,5,1,Domestic,Economy,Reno - Peoria
+423,M,25-34,17/6/2018,18-Jun,3,1,3,2,3,2,1,3,International,Economy,Philadelphia - Rome
+424,M,65+,17/6/2018,17-Jul,4,5,5,4,4,5,5,5,Domestic,Economy,Chicago - Las Vegas
+425,F,50-64,17/6/2018,18-Jun,3,2,2,2,3,3,2,2,Domestic,Economy,San Francisco - Hartford
+426,M,65+,17/6/2018,18-Jun,5,4,3,3,5,4,3,3,Mexico,First Class,Charlotte - Cozumel
+427,M,35-49,16/6/2018,,1,2,3,1,1,1,1,1,Domestic,Economy,Fort Walton Beach - Manchester
+428,M,50-64,16/6/2018,18-Jun,5,4,5,3,5,5,3,5,International,Business Class,Madrid - Miami
+429,M,50-64,15/6/2018,18-Jun,4,4,4,3,4,3,4,4,Domestic,Economy,Dallas - Tulsa
+430,F,65+,15/6/2018,,3,4,4,2,3,3,4,4,International,Economy,London - New York City
+431,M,50-64,15/6/2018,18-May,3,3,2,2,3,3,1,3,Domestic,Economy,Miami - Dallas
+432,F,50-64,14/6/2018,18-Jun,3,5,4,4,3,5,4,3,International,Economy,Beijing - Los Angeles
+433,M,50-64,14/6/2018,,4,4,4,4,4,5,4,4,International,Economy,Paris - Philadelphia
+434,F,50-64,14/6/2018,18-Jun,3,1,3,2,3,3,2,4,Domestic,Economy,Seattle - Philadelphia
+435,F,50-64,14/6/2018,18-Jun,5,5,4,4,5,1,4,5,Domestic,First Class,Phoenix - Fort Myers
+436,F,25-34,14/6/2018,18-Jun,3,4,4,3,3,5,4,4,International,Economy,Barcelona - Miami
+437,F,25-34,14/6/2018,18-Jun,3,4,5,5,4,4,4,4,Domestic,Economy,Nashville - Miami
+438,F,35-49,14/6/2018,18-Jun,3,4,4,3,3,3,3,4,Domestic,Economy,Los Angeles - Seattle
+439,M,25-34,14/6/2018,18-Jan,5,5,5,5,5,5,5,5,International,Business Class,Tokyo - Chicago
+440,F,35-49,14/6/2018,18-Apr,3,3,3,3,3,1,3,1,Domestic,Economy,Miami - Key West
+441,F,35-49,13/6/2018,18-Jun,3,1,3,3,2,3,3,3,Caribbean,Economy,Baltimore - St Martin / St Maarten
+442,M,50-64,13/6/2018,18-Jun,3,3,3,2,3,3,3,3,International,Economy,Dallas - San Jose
+443,M,50-64,13/6/2018,18-Mar,4,5,4,5,4,4,4,5,Domestic,Economy,Phoenix - Atlanta
+444,M,65+,13/6/2018,18-Jun,2,3,4,2,2,2,3,3,Mexico,Economy,Denver - Mexico City
+445,M,65+,13/6/2018,,3,3,4,3,3,4,4,5,Domestic,Economy,Chicago - Boston
+446,M,50-64,13/6/2018,18-Jun,5,5,5,5,5,5,5,5,International,Business Class,Frankfurt - Tucson
+447,F,35-49,13/6/2018,,5,5,4,5,5,1,1,5,Domestic,First Class,Maui - Chicago
+448,M,50-64,13/6/2018,18-May,5,5,5,5,5,5,4,5,International,Business Class,Tucson - Berlin
+449,M,65+,13/6/2018,18-May,5,4,5,2,5,5,3,4,International,First Class,Charlotte - Dublin
+450,F,50-64,13/6/2018,18-May,4,5,4,4,4,4,3,4,International,Business Class,Barcelona - Charlotte
+451,M,50-64,2018/12/6 0:00,18-May,3,4,3,2,2,3,3,3,Domestic,Economy,Columbia - Denver
+452,M,50-64,2018/12/6 0:00,,3,4,4,3,2,3,4,4,Domestic,Economy,Roanoke - Saint Louis
+453,M,35-49,2018/12/6 0:00,18-May,3,1,3,1,4,1,1,4,Domestic,First Class,Portland - Chicago
+454,M,50-64,2018/12/6 0:00,18-Jun,3,4,5,3,3,5,4,5,Domestic,Business Class,Sacramento - Oklahoma City
+455,M,50-64,2018/12/6 0:00,18-Jun,4,4,5,5,5,3,4,4,Domestic,First Class,Oklahoma City - Sacramento
+456,M,50-64,2018/12/6 0:00,18-May,1,5,4,4,1,3,2,5,Domestic,Economy,Sacramento - Charlotte
+457,F,50-64,2018/12/6 0:00,18-Jun,4,3,4,3,5,1,4,4,Domestic,Economy,Dallas - San Francisco
+458,M,35-49,2018/12/6 0:00,18-May,4,5,4,3,5,4,3,3,Caribbean,Economy,Washington DC - St. Kitts
+459,M,50-64,2018/12/6 0:00,18-Jun,4,3,4,2,3,2,3,2,Domestic,Economy,Los Angeles - Charlotte
+460,F,35-49,2018/11/6 0:00,18-May,3,4,3,3,3,3,3,3,Domestic,Economy,Grand Junction - Fort Myers
+461,M,35-49,2018/11/6 0:00,18-Jun,4,5,3,4,4,4,3,3,International,Business Class,St. Kitts - Miami
+462,F,65+,2018/11/6 0:00,18-Jun,2,5,4,5,1,3,2,3,International,Economy,Philadelphia - Prague
+463,M,35-49,2018/11/6 0:00,18-Jun,1,3,4,2,1,1,1,4,Domestic,Economy,Philadelphia - Miami
+464,F,50-64,2018/11/6 0:00,18-May,5,4,4,3,5,3,5,5,International,Business Class,Dallas - London
+465,F,50-64,2018/10/6 0:00,18-Jun,4,4,4,4,4,4,4,4,Domestic,Economy,Orlando - Los Angeles
+466,M,50-64,2018/10/6 0:00,18-Jun,3,5,5,5,4,4,5,5,International,Economy,Paris - New York City
+467,M,50-64,2018/10/6 0:00,18-May,4,5,5,4,4,5,5,5,Mexico,Economy,Chicago - Los Cabos
+468,M,65+,2018/10/6 0:00,18-Jun,3,1,3,3,3,3,1,1,Domestic,First Class,Kailua-Kona - Reno
+469,M,50-64,2018/10/6 0:00,18-Jun,4,3,4,3,4,4,4,4,International,Economy,Dallas - London
+470,M,50-64,2018/9/6 0:00,18-May,3,3,3,3,3,3,3,4,International,Economy,London - Philadelphia
+471,M,35-49,2018/9/6 0:00,18-May,3,4,3,3,3,3,3,3,Domestic,Economy,Las Vegas - Dallas
+472,M,50-64,2018/9/6 0:00,18-May,2,2,3,3,2,4,3,1,International,Economy,Philadelphia - Manchester
+473,M,35-49,2018/8/6 0:00,,3,3,3,4,3,2,3,3,Domestic,First Class,Orlando - Chicago
+474,M,50-64,2018/8/6 0:00,18-Jun,5,5,5,5,5,5,4,5,Domestic,Business Class,Tampa - Chicago
+475,F,25-34,2018/8/6 0:00,,4,4,4,4,4,4,4,4,Domestic,Economy,Atlanta - Dallas
+476,F,35-49,2018/8/6 0:00,18-May,3,5,5,4,5,5,4,5,Domestic,Economy,Washington DC - Miami
+477,F,65+,2018/7/6 0:00,18-May,3,4,4,4,2,4,3,3,Domestic,Economy,Dallas - Honolulu
+478,F,35-49,2018/7/6 0:00,,5,5,5,5,4,3,5,5,Mexico,Economy,Raleigh - Cancun
+479,F,25-34,2018/7/6 0:00,18-Mar,3,4,3,3,3,4,3,1,Caribbean,Economy,Wichita - Punta Cana
+480,M,65+,2018/7/6 0:00,17-Jul,4,4,5,3,5,4,4,4,Domestic,Business Class,Tucson - Fort Lauderdale
+481,M,65+,2018/7/6 0:00,18-May,5,4,4,4,5,4,3,1,International,Business Class,Frankfurt - Dallas
+482,M,50-64,2018/7/6 0:00,18-May,4,5,3,4,4,3,4,4,International,Economy,Miami - Buenos Aires
+483,M,65+,2018/7/6 0:00,,5,5,5,5,5,5,5,5,Domestic,First Class,Chicago - Hartford
+484,M,50-64,2018/7/6 0:00,17-Sep,5,5,5,5,4,5,5,5,Caribbean,Economy,Saint Louis - Punta Cana
+485,M,35-49,2018/7/6 0:00,18-May,5,1,5,5,5,2,5,1,Domestic,First Class,Philadelphia - Dallas
+486,M,50-64,2018/6/6 0:00,18-May,4,4,3,3,4,2,3,4,Domestic,Economy,Boston - Miami
+487,F,35-49,2018/6/6 0:00,18-Jun,3,5,5,4,4,4,5,5,Caribbean,Economy,Charlotte - Punta Cana
+488,M,50-64,2018/6/6 0:00,18-May,5,5,5,5,4,5,5,5,International,Economy,Portland - Belize City
+489,F,50-64,2018/6/6 0:00,18-May,2,3,4,1,3,3,3,3,International,Economy,Chicago - Paris
+490,M,65+,2018/6/6 0:00,18-May,3,2,4,3,4,1,2,2,Domestic,Economy,Washington DC - Louisville
+491,M,35-49,2018/6/6 0:00,18-Jun,3,4,4,4,5,3,4,3,Domestic,First Class,Memphis - Palm Springs
+492,M,50-64,2018/6/6 0:00,18-May,3,3,4,3,3,5,4,3,Domestic,Economy,Memphis - Boston
+493,F,35-49,2018/6/6 0:00,18-Jun,4,4,4,4,4,3,4,4,International,Economy,Dallas - Tokyo
+494,F,35-49,2018/6/6 0:00,18-May,3,4,5,3,3,3,4,5,Domestic,Economy,Washington DC - Bangor
+495,M,65+,2018/6/6 0:00,18-Jun,4,5,5,4,4,5,5,5,Domestic,Economy,Austin - Los Angeles
+496,M,65+,2018/6/6 0:00,18-May,2,2,4,3,2,3,3,4,International,Economy,Miami - London
+497,M,35-49,2018/6/6 0:00,18-May,3,4,4,3,3,1,4,4,Domestic,Economy,Chattanooga - San Antonio
+498,M,50-64,2018/6/6 0:00,18-May,5,5,5,4,4,5,3,5,Domestic,Economy,Los Angeles - Dallas
+499,M,50-64,2018/6/6 0:00,,4,5,5,4,3,1,4,5,International,Economy,Philadelphia - Budapest
+500,F,50-64,2018/6/6 0:00,18-May,3,2,2,3,3,3,3,2,International,Economy,Philadelphia - Manchester
+501,M,50-64,2018/5/6 0:00,18-May,3,4,4,4,3,3,4,4,Domestic,Economy,Little Rock - Indianapolis
+502,M,50-64,2018/5/6 0:00,18-Jun,4,5,5,5,4,4,5,5,Mexico,Economy,Denver - Cozumel
+503,F,50-64,2018/5/6 0:00,18-Jun,3,1,1,3,3,2,3,3,Mexico,Economy,Miami - Cancun
+504,M,65+,2018/5/6 0:00,18-May,3,5,4,4,3,4,5,5,International,Economy,Harrisburg - Rome
+505,F,50-64,2018/5/6 0:00,18-May,5,5,5,5,5,5,5,5,Domestic,First Class,Orlando - Colorado Springs
+506,F,65+,2018/5/6 0:00,,4,5,5,4,4,4,4,5,International,Economy,Las Vegas - London
+507,M,50-64,2018/5/6 0:00,18-May,2,5,3,5,2,4,5,5,Domestic,First Class,Indianapolis - St. Petersburg
+508,M,65+,2018/5/6 0:00,17-Dec,3,3,4,1,3,1,3,2,Domestic,Economy,Blountville - Tampa
+509,M,65+,2018/5/6 0:00,18-May,1,2,3,3,1,1,1,3,Domestic,Economy,Dallas - Orlando
+510,M,35-49,2018/5/6 0:00,18-May,4,5,5,3,4,2,4,5,International,Economy,Quito - Dallas
+511,F,65+,2018/5/6 0:00,18-May,4,3,5,3,4,3,4,5,Domestic,Economy,Charlotte - New Orleans
+512,M,50-64,2018/5/6 0:00,,1,4,2,1,1,4,1,4,Mexico,Business Class,Rochester - Cancun
+513,M,50-64,2018/5/6 0:00,17-Jul,3,5,5,3,3,3,5,5,International,Economy,Los Angeles - Belize City
+514,M,65+,2018/5/6 0:00,18-May,5,3,4,4,5,5,5,5,International,Business Class,Lisbon - Philadelphia
+515,F,65+,2018/4/6 0:00,,3,5,4,3,3,3,5,5,Mexico,Economy,Nashville - Cancun
+516,F,50-64,2018/4/6 0:00,18-May,4,5,5,4,4,4,3,4,International,Business Class,Charlotte - Dublin
+517,F,50-64,2018/4/6 0:00,,5,5,5,5,5,2,5,5,Domestic,Economy,Charlotte - San Francisco
+518,F,50-64,2018/4/6 0:00,18-May,3,3,3,3,2,4,3,3,Domestic,Economy,Dallas - Las Vegas
+519,M,65+,2018/4/6 0:00,18-May,3,5,5,4,3,3,4,5,International,Economy,Philadelphia - Manchester
+520,M,50-64,2018/4/6 0:00,,3,2,4,3,3,1,2,4,Domestic,Economy,Philadelphia - Dallas
+521,M,50-64,2018/4/6 0:00,18-May,3,4,3,3,3,3,5,3,Domestic,Economy,Baltimore - Dallas
+522,M,35-49,2018/4/6 0:00,18-May,3,3,3,2,2,1,2,1,Domestic,Economy,Charlotte - Washington DC
+523,M,50-64,2018/4/6 0:00,18-May,3,2,3,3,2,3,3,2,Domestic,Economy,Erie - Atlanta
+524,M,18-24,2018/4/6 0:00,18-May,3,1,2,1,2,1,3,2,Domestic,Economy,San Diego - Los Angeles
+525,M,50-64,2018/3/6 0:00,18-Jun,1,3,2,1,3,1,2,1,International,Economy,Caracas - Miami
+526,M,65+,2018/3/6 0:00,18-Apr,4,1,3,3,4,1,3,1,Mexico,Business Class,Phoenix - Guadalajara
+527,F,50-64,2018/3/6 0:00,,5,3,5,4,4,3,3,5,International,Economy,Shannon - Philadelphia
+528,M,50-64,2018/3/6 0:00,18-May,4,5,5,4,4,5,4,5,International,Economy,Dubai - Charleston
+529,M,50-64,2018/3/6 0:00,18-May,5,5,4,5,3,5,4,5,Domestic,First Class,West Palm Beach - Philadelphia
+530,F,25-34,2018/2/6 0:00,18-Jun,3,2,3,3,3,3,1,3,Domestic,Economy,Miami - New York City
+531,M,35-49,2018/2/6 0:00,18-May,5,5,5,5,5,5,5,5,Caribbean,First Class,Charlotte - Montego Bay
+532,M,35-49,2018/2/6 0:00,18-May,5,5,4,4,5,5,4,4,Domestic,First Class,Seattle - Charlotte
+533,M,65+,2018/2/6 0:00,18-May,3,4,4,3,2,3,3,4,Domestic,Economy,Dallas - Philadelphia
+534,F,50-64,2018/2/6 0:00,18-Jun,3,2,2,3,3,1,3,5,International,Economy,San Francisco - Athens
+535,F,35-49,2018/2/6 0:00,18-May,1,3,1,1,1,1,1,3,Domestic,Economy,Columbus - Newport News
+536,F,50-64,2018/2/6 0:00,18-May,5,5,3,4,5,4,4,5,Domestic,First Class,Washington DC - Tampa
+537,M,65+,2018/2/6 0:00,18-May,5,5,5,3,4,3,5,5,Domestic,Economy,New York City - Saint Louis
+538,M,65+,2018/2/6 0:00,18-May,5,4,5,4,5,5,4,4,International,Economy,Beijing - Los Angeles
+539,M,50-64,2018/1/6 0:00,18-May,3,3,3,3,3,3,3,3,Domestic,Economy,Chicago - Seattle
+540,M,35-49,2018/1/6 0:00,18-May,3,3,2,3,3,2,3,3,Domestic,Economy,Peoria - Dallas
+541,M,50-64,31/5/2018,17-Oct,5,5,5,4,5,5,4,5,Domestic,First Class,Miami - Honolulu
+542,M,50-64,31/5/2018,18-May,4,4,3,3,5,5,3,3,International,Business Class,Dallas - Tokyo
+543,M,35-49,31/5/2018,18-May,5,4,5,3,5,3,5,5,Domestic,First Class,Fort Lauderdale - Chicago
+544,M,65+,31/5/2018,18-May,3,4,5,4,3,5,5,5,International,Economy,Charlotte - London
+545,F,50-64,31/5/2018,18-May,3,3,2,3,3,3,2,3,International,Economy,Blountville - Athens
+546,M,50-64,31/5/2018,18-Apr,1,1,2,3,3,3,1,3,International,First Class,Los Angeles - Tokyo
+547,M,65+,31/5/2018,,5,5,4,4,4,3,4,5,Domestic,First Class,Philadelphia - Orlando
+548,M,35-49,31/5/2018,18-May,3,4,4,3,4,2,3,2,International,Economy,Miami - Guayaquil
+549,F,50-64,31/5/2018,18-May,1,1,2,2,1,3,2,2,Domestic,Economy,Honolulu - Dallas
+550,F,50-64,31/5/2018,18-May,2,4,4,3,1,1,5,5,Domestic,Economy,Waco - Philadelphia
+551,F,35-49,31/5/2018,18-May,4,5,5,4,4,2,5,5,International,Economy,Tampa - San Jose
+552,M,35-49,31/5/2018,18-May,4,1,5,1,4,4,4,1,Domestic,Economy,Cedar Rapids - Philadelphia
+553,M,50-64,30/5/2018,18-May,4,4,4,4,4,4,3,4,Domestic,Business Class,New York City - Dallas
+554,M,50-64,30/5/2018,18-May,4,4,4,4,4,4,3,4,Domestic,Business Class,Dallas - New York City
+555,M,50-64,30/5/2018,18-May,3,3,3,3,3,2,3,3,International,Economy,Tampa - Tel Aviv
+556,M,50-64,30/5/2018,18-May,3,3,3,2,3,2,3,2,Domestic,Economy,Washington DC - Chicago
+557,M,50-64,30/5/2018,18-May,5,5,5,5,5,5,5,5,Domestic,Business Class,New York City - Phoenix
+558,F,35-49,30/5/2018,,2,3,3,3,2,4,3,3,International,Economy,Bogota - Miami
+559,M,65+,30/5/2018,18-May,5,4,3,2,5,3,2,3,International,Business Class,Charlotte - Madrid
+560,M,50-64,30/5/2018,18-May,4,1,3,1,5,1,2,1,Mexico,First Class,Miami - Cancun
+561,M,50-64,30/5/2018,18-May,3,2,3,1,3,2,1,1,International,Business Class,Lisbon - Tampa
+562,M,35-49,30/5/2018,18-Apr,4,5,4,2,4,3,5,3,Domestic,Economy,Tampa - Phoenix
+563,M,65+,30/5/2018,18-Apr,3,2,4,3,3,4,2,4,International,Economy,Athens - Key West
+564,M,50-64,29/5/2018,18-May,3,3,3,3,3,2,3,3,Domestic,Economy,Philadelphia - Louisville
+565,M,50-64,29/5/2018,18-May,3,3,4,3,3,2,3,5,Domestic,Economy,Nashville - Philadelphia
+566,F,50-64,29/5/2018,18-May,3,4,5,4,3,3,3,4,International,Economy,Miami - Quito
+567,M,50-64,29/5/2018,18-May,3,4,3,3,3,3,3,4,Domestic,Economy,Chicago - Key West
+568,M,50-64,29/5/2018,18-May,4,4,3,3,4,3,5,5,Domestic,Economy,Greensboro - Miami
+569,F,65+,29/5/2018,18-May,5,5,5,5,5,5,4,5,Domestic,First Class,Tampa - Honolulu
+570,M,65+,29/5/2018,18-May,3,3,3,3,3,1,2,3,International,Economy,Budapest - Philadelphia
+571,F,35-49,29/5/2018,18-Apr,4,1,4,4,4,4,1,1,Domestic,First Class,Raleigh - Las Vegas
+572,M,50-64,29/5/2018,18-May,4,4,3,2,4,3,3,3,Domestic,Economy,Boston - Chicago
+573,M,35-49,28/5/2018,18-May,3,1,2,2,3,4,2,1,USA,Economy,Cancun - Chicago
+574,M,65+,28/5/2018,18-May,1,1,3,1,1,1,1,1,International,Economy,Montego Bay - Philadelphia
+575,F,65+,28/5/2018,18-Feb,3,3,3,3,3,2,3,3,International,Economy,Charlotte - Paris
+576,F,65+,28/5/2018,18-May,2,3,3,3,2,4,3,3,International,Economy,Paris - Dallas
+577,F,65+,28/5/2018,18-May,2,4,3,2,2,3,2,4,International,Economy,Montego Bay - Charlotte
+578,F,65+,28/5/2018,18-May,3,3,2,2,2,3,2,3,Caribbean,Economy,Charlotte - Montego Bay
+579,M,35-49,28/5/2018,,5,3,4,4,5,3,4,4,Domestic,Business Class,New York City - Boston
+580,M,50-64,28/5/2018,18-Apr,3,3,3,3,3,2,3,3,Domestic,Economy,Jackson - Indianapolis
+581,F,35-49,27/5/2018,18-Apr,2,1,2,1,2,2,2,2,Domestic,Economy,Chicago - Indianapolis
+582,M,50-64,27/5/2018,18-May,4,4,5,4,3,5,3,5,Domestic,Economy,Miami - Raleigh
+583,M,50-64,27/5/2018,,4,5,5,3,3,5,4,5,Domestic,Economy,Raleigh - Miami
+584,M,25-34,27/5/2018,18-May,3,4,3,3,3,4,3,3,Domestic,Economy,Philadelphia - Los Angeles
+585,M,50-64,27/5/2018,18-May,4,4,4,3,4,2,4,4,Domestic,First Class,Chicago - New York City
+586,F,50-64,27/5/2018,,4,3,3,3,3,3,3,3,Domestic,Business Class,Orlando - Los Angeles
+587,M,50-64,26/5/2018,18-May,4,5,5,5,4,5,5,5,International,Economy,London - Chicago
+588,M,50-64,26/5/2018,17-Jun,2,2,4,2,1,2,2,4,Domestic,Economy,New York City - Miami
+589,M,50-64,26/5/2018,18-May,3,5,4,3,3,4,4,5,Caribbean,Economy,Washington DC - Montego Bay
+590,M,35-49,26/5/2018,18-May,3,1,1,1,3,1,1,3,International,Economy,Port of Spain - Tampa
+591,M,50-64,25/5/2018,18-Feb,1,1,1,1,2,1,1,3,Domestic,Business Class,Boise - Cleveland
+592,M,50-64,25/5/2018,18-May,1,2,4,1,1,3,1,2,Domestic,Economy,Sacramento - West Palm Beach
+593,M,50-64,25/5/2018,18-Apr,4,5,4,5,4,3,5,3,Caribbean,Economy,Miami - Eleuthera
+594,M,50-64,25/5/2018,18-Apr,3,5,4,3,3,4,4,3,International,Economy,Amsterdam - Dallas
+595,M,35-49,25/5/2018,18-May,5,5,5,5,5,5,1,2,Caribbean,First Class,Hartford - Nassau
+596,M,35-49,25/5/2018,18-May,2,3,3,3,1,4,3,2,International,Economy,Dallas - Seoul
+597,M,50-64,25/5/2018,18-May,4,4,4,2,3,4,3,4,International,Economy,New York City - London
+598,M,50-64,25/5/2018,18-May,1,1,1,1,1,1,1,1,Domestic,Economy,Las Vegas - Los Angeles
+599,M,50-64,24/5/2018,,1,1,1,1,1,1,1,1,Domestic,Economy,Harrisburg - Orlando
+600,F,50-64,24/5/2018,18-May,4,3,4,4,4,4,3,3,Domestic,Economy,Chicago - Lihue
+601,M,50-64,23/5/2018,,4,5,4,3,4,3,5,5,Domestic,Economy,Phoenix - Washington DC
+602,M,65+,23/5/2018,18-Mar,3,3,3,3,3,1,3,3,Domestic,Economy,Philadelphia - Las Vegas
+603,F,65+,23/5/2018,18-May,3,5,5,4,3,5,4,5,Domestic,Economy,Washington DC - Miami
+604,F,65+,23/5/2018,18-May,4,4,4,3,4,4,4,4,International,Economy,Manchester - New Orleans
+605,M,50-64,23/5/2018,18-Apr,3,2,5,3,4,3,3,2,Caribbean,Economy,Buffalo - Punta Cana
+606,M,50-64,23/5/2018,18-May,5,5,5,5,4,5,5,5,International,Economy,Chicago - Roma
+607,F,50-64,23/5/2018,18-Jan,2,5,2,3,2,3,5,1,International,Economy,Barcelona - Tampa
+608,F,50-64,23/5/2018,17-Jun,4,5,5,5,4,5,3,5,International,Business Class,Athens - Tampa
+609,F,65+,23/5/2018,18-May,5,5,5,4,4,4,5,5,International,Economy,Melbourne - San Francisco
+610,M,50-64,22/5/2018,18-Mar,4,4,4,4,4,4,4,5,International,Economy,Manchester - San Juan
+611,M,65+,22/5/2018,18-May,4,5,5,4,4,3,4,5,Domestic,Economy,Washington DC - Miami
+612,F,25-34,22/5/2018,18-Mar,3,4,3,1,3,1,1,4,Domestic,Economy,Chicago - Wichita
+613,F,50-64,22/5/2018,18-May,4,4,4,3,4,4,4,4,Domestic,Economy,Dallas - Albuquerque
+614,F,35-49,22/5/2018,18-May,5,3,4,3,5,3,3,4,International,Business Class,Santiago - Tucson
+615,M,50-64,22/5/2018,17-Dec,4,1,4,2,4,5,3,1,Domestic,First Class,Dallas - Chicago
+616,M,50-64,22/5/2018,18-May,4,5,5,5,4,4,5,5,Domestic,Economy,Washington DC - Bangor
+617,M,65+,22/5/2018,,5,5,5,3,5,5,4,4,Domestic,Economy,Tampa - Omaha
+618,M,65+,22/5/2018,18-May,5,5,5,5,5,5,5,5,Domestic,First Class,Portland - Memphis
+619,M,50-64,22/5/2018,18-May,3,2,3,3,3,1,3,3,Domestic,Economy,Charlotte - Columbus
+620,M,50-64,22/5/2018,18-May,3,4,3,3,3,1,3,3,Domestic,Economy,Columbus - Charlotte
+621,M,65+,22/5/2018,18-May,5,5,5,5,5,5,4,5,International,Business Class,Edinburgh - New York City
+622,M,50-64,22/5/2018,18-May,3,3,4,3,3,2,4,4,Domestic,Economy,Boston - Chicago
+623,M,35-49,22/5/2018,18-May,5,5,5,1,5,5,5,5,International,Economy,Dublin - Orlando
+624,F,65+,22/5/2018,,5,5,5,5,5,5,5,5,International,Business Class,London - Dallas
+625,M,50-64,21/5/2018,18-Feb,3,1,1,1,3,3,1,1,International,Business Class,New York City - Barcelona
+626,M,35-49,21/5/2018,18-Apr,4,4,4,4,4,4,4,4,Domestic,Economy,Dallas - Albuquerque
+627,M,35-49,21/5/2018,,4,4,4,4,4,4,4,4,International,Economy,London - Dallas
+628,M,65+,21/5/2018,18-Apr,3,5,5,3,3,3,3,5,International,Economy,Chicago - London
+629,M,50-64,21/5/2018,17-Jul,4,3,3,3,5,3,4,3,International,Business Class,Manchester - Philadelphia
+630,M,65+,21/5/2018,18-Apr,2,1,5,2,5,3,2,5,International,Economy,Los Angeles - Sydney
+631,M,50-64,21/5/2018,18-Feb,4,5,5,5,3,5,3,3,International,Economy,Barcelona - Philadelphia
+632,M,50-64,21/5/2018,18-May,4,5,4,4,5,3,4,5,Domestic,First Class,Chicago - Denver
+633,M,35-49,21/5/2018,,3,1,4,3,3,4,1,1,Domestic,Economy,Providence - Jacksonville
+634,M,65+,21/5/2018,17-Dec,2,3,4,2,3,3,3,4,International,Business Class,Sydney - Miami
+635,M,65+,21/5/2018,18-Mar,4,5,5,4,4,4,4,5,International,Business Class,Bridgetown - Miami
+636,M,50-64,21/5/2018,18-Apr,2,1,3,3,3,3,2,3,International,Economy,Dublin - Charlotte
+637,F,35-49,21/5/2018,18-Apr,5,5,5,5,4,5,5,5,International,Economy,Miami - Sao Paulo
+638,M,50-64,21/5/2018,18-Jan,3,3,3,4,3,1,1,4,Domestic,First Class,San Jose - Chicago
+639,M,65+,21/5/2018,18-May,5,5,5,5,5,3,5,5,International,First Class,Lima - London
+640,F,35-49,21/5/2018,18-Mar,5,5,5,5,4,5,5,5,International,Economy,Belo Horizonte - Miami
+641,M,65+,21/5/2018,18-Apr,5,5,5,5,5,5,5,5,International,Economy,Buenos Aires - Miami
+642,M,65+,21/5/2018,18-Mar,5,5,5,3,5,5,5,5,Caribbean,Business Class,Miami - Havana
+643,M,50-64,21/5/2018,18-May,2,3,2,2,1,1,2,4,International,Economy,Milan - Miami
+644,M,35-49,21/5/2018,18-Apr,4,4,3,1,4,5,3,2,International,Business Class,Frankfurt - Charlotte
+645,M,65+,21/5/2018,,3,3,3,3,3,3,3,3,International,Economy,Seattle - Guayaquil
+646,M,50-64,21/5/2018,18-May,3,4,4,2,4,4,4,4,International,Economy,Punta Cana - Charlotte
+647,F,65+,21/5/2018,18-May,3,4,4,4,3,3,3,3,Domestic,Economy,Raleigh - New York City
+648,F,65+,21/5/2018,18-May,4,4,4,4,4,5,4,4,International,Economy,Charlotte - Paris
+649,M,35-49,21/5/2018,18-Apr,4,1,3,2,3,4,2,1,International,Economy,Miami - Sao Paulo
+650,M,35-49,21/5/2018,18-May,1,3,3,1,1,1,1,1,International,Economy,Budapest - Dallas
+651,M,65+,21/5/2018,18-May,3,2,3,2,2,4,4,4,International,Economy,London - Los Angeles
+652,M,35-49,21/5/2018,18-Apr,4,5,4,5,3,5,3,5,International,Economy,Sao Paulo - Austin
+653,M,25-34,20/5/2018,,3,3,2,4,3,2,4,3,Domestic,First Class,Los Angeles - Denver
+654,M,50-64,19/5/2018,18-May,4,3,5,5,4,5,5,2,International,Economy,Sydney - Reno
+655,F,35-49,19/5/2018,,3,3,3,2,3,3,3,3,Caribbean,Economy,Buffalo - Punta Cana
+656,F,35-49,19/5/2018,18-May,3,3,3,3,3,3,3,3,Domestic,Economy,Phoenix - Philadelphia
+657,M,50-64,19/5/2018,18-May,4,1,5,3,4,3,3,1,International,Business Class,Lima - Reno
+658,F,65+,19/5/2018,18-May,4,5,5,5,4,5,5,5,International,Economy,Philadelphia - Barcelona
+659,F,50-64,19/5/2018,18-May,3,3,4,5,3,5,4,5,International,Economy,London - New York City
+660,M,25-34,19/5/2018,18-May,3,3,3,3,3,2,3,3,Domestic,First Class,Denver - Los Angeles
+661,M,50-64,19/5/2018,,4,1,3,2,4,2,2,2,Domestic,First Class,Raleigh - Washington DC
+662,F,50-64,18/5/2018,18-May,2,3,3,2,2,2,3,3,Domestic,Economy,New York City - Wilmington
+663,M,65+,18/5/2018,18-May,3,3,3,3,3,3,3,3,Domestic,Economy,San Francisco - Charlotte
+664,M,25-34,18/5/2018,18-May,4,4,5,3,3,2,4,4,Domestic,Economy,Fresno - Phoenix
+665,F,35-49,18/5/2018,18-May,4,5,5,5,4,5,5,5,Mexico,Economy,Las Vegas - Cancun
+666,M,18-24,17/5/2018,18-Apr,4,5,4,3,4,2,4,4,Domestic,Economy,Maui - Phoenix
+667,M,65+,17/5/2018,18-Apr,3,5,5,3,3,3,4,5,Domestic,Economy,Philadelphia - Fort Lauderdale
+668,M,35-49,17/5/2018,18-May,4,5,4,4,3,4,4,4,Domestic,Economy,Philadelphia - Austin
+669,M,50-64,17/5/2018,18-May,3,5,5,5,3,4,5,5,International,Economy,Dublin - New York City
+670,M,50-64,17/5/2018,18-May,2,1,2,1,1,1,2,1,Domestic,Economy,New York City - Seattle
+671,M,65+,17/5/2018,18-May,5,5,4,5,5,5,4,4,International,Business Class,Manchester - Fort Myers
+672,M,50-64,16/5/2018,18-May,4,5,5,4,4,5,4,5,Canada,Economy,Miami - Toronto
+673,M,50-64,16/5/2018,18-May,3,1,2,3,3,3,2,1,Domestic,Economy,Orlando - Dallas
+674,F,50-64,16/5/2018,18-May,5,5,5,5,5,5,5,5,Domestic,First Class,Dallas - Maui
+675,M,50-64,16/5/2018,18-May,2,2,3,3,1,1,3,3,Domestic,Economy,Washington DC - Phoenix
+676,M,50-64,16/5/2018,18-May,5,5,5,5,4,4,5,5,Domestic,Economy,Dallas - Los Angeles
+677,F,50-64,16/5/2018,,3,1,1,2,3,4,1,3,Domestic,Economy,Dallas - Denver
+678,M,50-64,16/5/2018,18-Apr,3,5,3,1,4,4,2,4,Domestic,First Class,Providence - Chicago
+679,F,35-49,16/5/2018,18-May,2,1,1,1,2,1,2,3,International,Economy,Columbus - Zurich
+680,M,50-64,16/5/2018,18-May,3,4,4,3,3,3,4,4,Domestic,Economy,Chicago - Sioux Falls
+681,F,65+,15/5/2018,18-May,4,4,4,3,4,4,3,4,Domestic,Economy,Phoenix - Philadelphia
+682,F,50-64,15/5/2018,18-Apr,5,4,4,3,5,4,4,4,International,Economy,Los Angeles - Rome
+683,M,50-64,15/5/2018,18-Apr,5,5,5,4,5,5,5,5,Domestic,Economy,Fort Lauderdale - Palm Springs
+684,M,50-64,15/5/2018,18-May,2,1,3,1,2,1,1,1,Domestic,Economy,New York City - Miami
+685,M,50-64,15/5/2018,,4,4,3,1,5,3,3,3,Mexico,First Class,Portland - Los Cabos
+686,M,50-64,15/5/2018,18-Apr,3,5,3,3,3,5,3,4,Domestic,Economy,Dallas - Fresno
+687,F,50-64,15/5/2018,,4,4,5,3,3,3,3,5,Caribbean,Economy,Cleveland - Grand Cayman
+688,M,65+,14/5/2018,18-May,4,5,5,4,4,4,5,5,Domestic,Economy,Monroe - New York City
+689,F,50-64,14/5/2018,18-May,3,3,4,3,3,1,3,5,Domestic,Economy,Jackson - Dallas
+690,F,50-64,14/5/2018,18-Apr,3,3,4,3,3,4,3,2,International,Economy,Miami - Barcelona
+691,M,50-64,14/5/2018,18-Apr,4,4,4,3,4,5,4,4,Domestic,Economy,Miami - New Orleans
+692,M,65+,14/5/2018,18-May,4,5,5,4,4,4,5,5,Caribbean,Economy,Tulsa - San Juan
+693,M,50-64,14/5/2018,18-May,3,4,4,3,3,3,3,3,Domestic,Economy,Atlanta - Philadelphia
+694,M,35-49,14/5/2018,,4,5,4,4,4,3,3,4,Mexico,Economy,Charlotte - Cancun
+695,M,65+,14/5/2018,18-Apr,2,4,4,4,3,3,4,4,Domestic,Economy,Dallas - San Diego
+696,F,50-64,14/5/2018,18-May,3,5,4,4,3,3,4,4,Domestic,Economy,Sacramento - Dallas
+697,M,50-64,14/5/2018,18-May,2,1,3,3,2,3,3,3,International,Economy,Sao Paulo - Los Angeles
+698,M,65+,14/5/2018,18-May,4,4,4,3,4,1,3,4,Domestic,Economy,Charlotte - Los Angeles
+699,M,25-34,13/5/2018,18-Apr,4,4,4,4,4,5,4,4,Domestic,Economy,San Francisco - New York City
+700,M,35-49,13/5/2018,18-May,5,2,5,2,5,5,3,5,International,Business Class,Rio de Janeiro - Miami
+701,M,35-49,13/5/2018,18-May,4,5,5,4,4,5,5,5,International,Economy,Dallas - Sao Paulo
+702,F,50-64,13/5/2018,18-Apr,5,5,5,5,5,3,4,5,Domestic,First Class,Fort Walton Beach - Austin
+703,M,50-64,13/5/2018,18-Apr,4,5,4,4,4,3,5,4,Domestic,Economy,Las Vegas - New York City
+704,M,65+,2018/12/5 0:00,18-Apr,2,3,3,2,2,3,3,4,Domestic,Economy,Miami - San Francisco
+705,M,50-64,2018/12/5 0:00,18-Apr,4,5,4,3,4,1,4,5,Domestic,Economy,Los Angeles - Richmond
+706,F,65+,2018/12/5 0:00,18-May,3,3,5,3,3,1,3,4,International,Economy,San Juan - Miami
+707,M,25-34,2018/12/5 0:00,18-Apr,4,4,4,4,4,3,5,3,International,Business Class,Tokyo - Los Angeles
+708,M,25-34,2018/12/5 0:00,17-Sep,4,5,4,3,3,4,3,4,Domestic,Economy,Charlotte - Philadelphia
+709,M,50-64,2018/12/5 0:00,18-May,3,4,5,3,3,5,4,5,Domestic,Economy,Birmingham - Honolulu
+710,M,65+,2018/12/5 0:00,18-Apr,3,5,3,4,3,1,4,4,Domestic,Economy,Phoenix - New York City
+711,M,50-64,2018/12/5 0:00,18-May,5,5,5,5,5,5,3,5,Domestic,First Class,Los Angeles - Honolulu
+712,F,65+,2018/12/5 0:00,18-Apr,3,5,5,5,5,5,5,5,Domestic,Business Class,Los Angeles - Denver
+713,F,50-64,2018/11/5 0:00,,3,1,3,1,2,3,3,3,Domestic,Economy,Tucson - Miami
+714,M,65+,2018/11/5 0:00,18-May,4,5,5,4,5,4,4,4,Mexico,Economy,Chicago - Los Cabos
+715,M,50-64,2018/11/5 0:00,18-Apr,2,1,2,1,3,1,1,3,Canada,Economy,Miami - Toronto
+716,M,35-49,2018/11/5 0:00,17-Oct,1,1,2,1,1,1,1,1,Mexico,Economy,Providence - Cancun
+717,M,50-64,2018/11/5 0:00,18-Apr,4,5,5,3,4,3,4,5,Domestic,Economy,Chicago - Tucson
+718,F,35-49,2018/11/5 0:00,18-Apr,4,5,4,5,4,5,4,5,Domestic,First Class,Orlando - Dallas
+719,M,65+,2018/11/5 0:00,18-Apr,5,5,5,5,5,5,5,5,International,Economy,Prague - New York City
+720,M,65+,2018/10/5 0:00,18-Apr,4,4,4,4,4,4,4,4,Domestic,First Class,Nashville - Dallas
+721,M,35-49,2018/10/5 0:00,18-May,2,1,3,3,3,2,2,2,International,Economy,State College - New Delhi
+722,F,25-34,2018/10/5 0:00,18-May,3,1,3,3,3,4,2,3,International,Economy,San Francisco - Paris
+723,M,50-64,2018/10/5 0:00,18-Feb,3,3,4,1,2,3,1,4,Domestic,Economy,Colorado Springs - Washington DC
+724,F,50-64,2018/10/5 0:00,18-May,4,4,4,3,3,3,3,4,Domestic,Economy,New Orleans - Chicago
+725,F,50-64,2018/10/5 0:00,18-Mar,2,2,3,1,2,1,1,3,Domestic,Economy,San Francisco - Buffalo
+726,M,50-64,2018/10/5 0:00,18-Apr,3,5,5,3,4,4,5,5,Domestic,Economy,Dallas - Phoenix
+727,F,35-49,2018/9/5 0:00,18-Apr,4,4,4,3,4,4,3,5,International,Economy,Los Angeles - London
+728,M,35-49,2018/9/5 0:00,18-Apr,4,4,4,3,3,3,4,4,International,Economy,San Juan - Cancun
+729,F,50-64,2018/9/5 0:00,18-May,3,4,4,3,3,3,4,4,Domestic,Economy,Charlotte - Boston
+730,M,35-49,2018/9/5 0:00,18-May,2,1,3,3,2,3,1,1,Domestic,Economy,Dallas - Memphis
+731,M,35-49,2018/9/5 0:00,18-May,1,3,3,3,1,4,2,2,International,Economy,Dallas - Seoul
+732,M,65+,2018/9/5 0:00,17-Sep,3,2,2,1,3,1,1,3,International,Economy,Miami - Paris
+733,F,65+,2018/9/5 0:00,18-Apr,3,5,4,3,3,3,3,4,Domestic,Economy,Ontario - Baltimore
+734,M,50-64,2018/8/5 0:00,18-Mar,3,4,4,4,3,4,3,4,Domestic,Economy,Nashville - Los Angeles
+735,F,50-64,2018/8/5 0:00,18-Apr,3,3,4,4,3,5,3,4,Domestic,Economy,San Diego - Columbus
+736,F,35-49,2018/8/5 0:00,18-Apr,2,2,4,2,2,2,3,4,Domestic,Economy,Washington DC - Boston
+737,M,65+,2018/8/5 0:00,18-Feb,4,3,4,2,4,3,3,5,Caribbean,Economy,Miami - Punta Cana
+738,F,65+,2018/8/5 0:00,,3,4,4,3,3,2,3,4,Domestic,Economy,Tulsa - Tampa
+739,M,50-64,2018/8/5 0:00,18-Apr,2,1,2,1,2,2,1,1,Domestic,Economy,Dallas - Charlotte
+740,M,65+,2018/8/5 0:00,18-Apr,3,4,4,2,1,3,3,4,Domestic,Economy,San Diego - New York City
+741,F,50-64,2018/8/5 0:00,18-Apr,3,4,3,3,3,2,3,3,Mexico,Economy,Vancouver - Los Cabos
+742,F,50-64,2018/8/5 0:00,,5,5,4,4,5,4,3,4,International,Business Class,Philadelphia - Barcelona
+743,M,65+,2018/8/5 0:00,18-May,2,4,3,1,2,2,2,3,Domestic,Economy,Lihue - Denver
+744,F,35-49,2018/8/5 0:00,18-Apr,2,4,4,1,2,2,3,4,Caribbean,Economy,New York City - Hamilton
+745,M,35-49,2018/8/5 0:00,18-Apr,3,3,3,2,3,1,4,1,International,First Class,London - New York City
+746,M,35-49,2018/8/5 0:00,18-Apr,4,4,4,2,3,1,3,4,International,Economy,Port of Spain - Miami
+747,M,50-64,2018/8/5 0:00,18-Apr,5,4,4,3,5,3,3,4,Domestic,First Class,Kansas City - Washington DC
+748,M,50-64,2018/7/5 0:00,18-Mar,4,4,5,4,4,5,5,5,Domestic,Economy,Orange - Houston
+749,F,65+,2018/7/5 0:00,18-Apr,5,4,4,3,5,3,3,5,Domestic,Business Class,Dallas - San Francisco
+750,F,25-34,2018/7/5 0:00,18-May,2,4,3,3,3,4,3,3,International,Economy,Austin - Rome
+751,F,25-34,2018/7/5 0:00,18-Apr,3,1,2,1,3,1,1,3,USA,Economy,Cancun - Phoenix
+752,M,50-64,2018/7/5 0:00,18-Apr,5,1,3,3,5,3,3,3,Domestic,First Class,New York City - Gulfport
+753,M,35-49,2018/6/5 0:00,18-May,3,1,2,3,4,3,4,1,Domestic,Economy,Durango - Austin
+754,F,18-24,2018/6/5 0:00,17-Jun,3,2,4,1,2,2,1,3,International,Economy,Philadelphia - Manchester
+755,F,65+,2018/6/5 0:00,18-May,3,3,3,1,3,1,3,4,International,Economy,Charlotte - London
+756,M,65+,2018/6/5 0:00,18-Apr,1,4,3,3,1,4,3,5,International,Economy,Los Angeles - Sydney
+757,M,35-49,2018/6/5 0:00,18-May,4,2,4,3,3,3,3,3,International,Economy,Dallas - Belize City
+758,F,50-64,2018/5/5 0:00,18-Apr,3,4,4,4,3,2,3,2,Domestic,Economy,Dallas - Fort Lauderdale
+759,F,50-64,2018/5/5 0:00,18-Apr,3,4,4,3,3,2,3,3,USA,Economy,Vancouver - Dallas
+760,M,65+,2018/5/5 0:00,18-Apr,4,1,4,4,4,4,1,4,Domestic,First Class,Tucson - Fresno
+761,M,35-49,2018/5/5 0:00,,3,4,4,3,4,3,4,4,International,Economy,St. Croix - Orlando
+762,M,50-64,2018/5/5 0:00,18-May,4,5,5,4,4,4,4,5,Domestic,Economy,Newark - Charlotte
+763,M,35-49,2018/5/5 0:00,18-May,3,3,3,2,3,4,2,3,Domestic,Economy,Miami - San Francisco
+764,M,50-64,2018/4/5 0:00,18-Apr,3,5,4,2,2,3,4,3,International,Economy,Great Abaco Island - Miami
+765,F,35-49,2018/4/5 0:00,18-May,3,5,4,4,2,5,4,3,Domestic,Economy,Dallas - Maui
+766,F,35-49,2018/4/5 0:00,18-Apr,4,3,3,3,5,3,3,3,Domestic,First Class,Tampa - Hartford
+767,M,50-64,2018/4/5 0:00,18-Apr,3,4,4,3,3,4,4,4,Domestic,Economy,Charlotte - Miami
+768,M,65+,2018/4/5 0:00,18-Mar,4,3,4,4,4,5,4,4,International,Economy,Rome - Chicago
+769,F,35-49,2018/4/5 0:00,18-Mar,4,5,5,4,4,5,5,5,Domestic,Economy,Denver - Miami
+770,M,50-64,2018/4/5 0:00,18-May,3,4,4,4,3,3,3,4,Mexico,Economy,Fayetteville - Cancun
+771,M,35-49,2018/3/5 0:00,18-May,5,4,4,5,5,3,5,5,Mexico,First Class,Memphis - Puerto Vallarta
+772,M,65+,2018/3/5 0:00,18-Apr,5,5,5,3,5,4,4,5,International,Business Class,Charlotte - Paris
+773,M,65+,2018/3/5 0:00,,2,1,3,1,3,2,2,1,Domestic,Economy,Dallas - Kansas City
+774,F,50-64,2018/3/5 0:00,18-May,4,1,3,3,4,4,1,3,International,Business Class,Dallas - Shanghai
+775,M,50-64,2018/2/5 0:00,18-Apr,4,4,3,3,4,3,3,3,Mexico,Business Class,Dallas - Cozumel
+776,F,65+,2018/2/5 0:00,,4,5,5,4,4,4,4,5,Caribbean,Economy,Philadelphia - Nassau
+777,F,35-49,2018/2/5 0:00,18-Apr,4,4,4,4,4,4,3,4,USA,Economy,Puerto Vallarta - Los Angeles
+778,F,65+,2018/2/5 0:00,,1,3,3,2,2,3,2,4,Domestic,Economy,Rochester - Portland
+779,M,35-49,2018/2/5 0:00,18-Apr,5,4,5,1,5,5,5,5,International,Business Class,Frankfurt - Los Angeles
+780,M,65+,2018/2/5 0:00,18-Mar,3,5,3,3,3,3,3,4,International,Economy,Aruba - Philadelphia
+781,M,50-64,2018/2/5 0:00,18-Apr,3,3,4,3,3,1,3,3,Mexico,Economy,Phoenix - Puerto Vallarta
+782,F,35-49,2018/2/5 0:00,18-May,3,4,3,3,4,3,4,3,Domestic,First Class,New York City - Nashville
+783,F,35-49,2018/2/5 0:00,18-Apr,5,4,5,4,5,3,4,5,Domestic,Economy,Jacksonville - Chicago
+784,M,50-64,2018/1/5 0:00,18-Apr,3,3,3,3,3,3,3,3,Domestic,Economy,Philadelphia - Boston
+785,M,50-64,2018/1/5 0:00,18-May,4,4,5,5,4,4,4,5,International,Economy,Buenos Aires - Mexico City
+786,M,65+,2018/1/5 0:00,18-Apr,3,5,4,3,3,3,5,4,Domestic,Economy,Phoenix - Albuquerque
+787,M,50-64,2018/1/5 0:00,18-Apr,3,4,4,3,3,3,3,3,Domestic,Economy,Dallas - Miami
+788,M,13-17,2018/1/5 0:00,18-Mar,4,4,4,4,4,5,4,4,International,Economy,London - Miami
+789,M,50-64,2018/1/5 0:00,,1,3,4,1,4,1,2,4,Domestic,Economy,New York City - Nashville
+790,F,50-64,30/4/2018,18-Apr,5,5,5,5,5,5,5,5,International,First Class,Dallas - Beijing
+791,M,35-49,30/4/2018,18-Apr,5,5,5,3,4,5,5,5,Domestic,Economy,Minneapolis - Phoenix
+792,F,35-49,30/4/2018,17-Oct,3,5,4,4,3,5,4,5,International,Economy,Los Angeles - Sydney
+793,M,25-34,30/4/2018,18-Apr,4,3,5,2,4,3,5,1,Domestic,First Class,Los Angeles - Albuquerque
+794,M,25-34,30/4/2018,18-Apr,3,4,5,2,5,5,5,3,Domestic,Economy,Los Angeles - Maui
+795,F,65+,30/4/2018,18-Apr,5,1,3,4,5,5,3,3,International,First Class,Boston - Venice
+796,F,25-34,30/4/2018,18-Apr,4,3,3,3,3,1,3,4,Domestic,Economy,Miami - New York City
+797,M,25-34,30/4/2018,18-Apr,5,5,5,2,5,3,5,3,Domestic,First Class,Albuquerque - Los Angeles
+798,F,50-64,30/4/2018,18-Apr,5,5,5,4,5,5,5,5,Caribbean,First Class,Charlotte - St. Croix
+799,F,25-34,30/4/2018,18-Apr,4,4,4,4,4,4,4,5,International,Economy,Miami - Amsterdam
+800,M,50-64,30/4/2018,18-Apr,5,5,5,4,5,5,5,5,International,Economy,Antigua - London
+801,M,50-64,29/4/2018,18-Mar,4,5,5,5,4,4,4,4,International,Economy,Paris - Dallas
+802,M,50-64,29/4/2018,18-Apr,4,3,4,4,3,3,4,4,Domestic,Business Class,Dallas - Grand Rapids
+803,M,50-64,29/4/2018,18-Apr,5,4,5,4,5,4,4,4,International,Business Class,Dallas - Madrid
+804,M,35-49,29/4/2018,18-Apr,5,5,5,5,5,5,5,5,Domestic,Business Class,Philadelphia - Chicago
+805,M,65+,29/4/2018,18-Apr,2,4,3,1,3,2,1,1,International,Economy,New Orleans - London
+806,M,50-64,29/4/2018,18-Apr,4,4,4,4,5,4,3,4,International,Business Class,Dallas - Madrid
+807,M,65+,29/4/2018,18-Apr,5,5,5,5,5,3,3,4,International,Economy,Rome - Charlotte
+808,M,50-64,29/4/2018,18-Apr,3,4,3,3,4,3,4,4,Domestic,Economy,Salt Lake City - Atlanta
+809,M,65+,28/4/2018,,3,5,5,3,3,3,5,5,Domestic,Economy,Los Angeles - Dallas
+810,F,50-64,28/4/2018,18-Apr,3,5,5,5,2,3,5,5,Mexico,Economy,Kansas City - Cancun
+811,F,65+,28/4/2018,18-Apr,2,4,3,3,2,4,3,3,Domestic,Economy,Philadelphia - Fort Myers
+812,M,50-64,28/4/2018,,3,2,3,2,3,1,3,1,Domestic,Economy,Phoenix - Rochester
+813,M,65+,27/4/2018,18-Feb,5,5,4,4,5,5,5,5,Domestic,Economy,Little Rock - Tucson
+814,M,50-64,27/4/2018,18-Apr,3,2,3,1,3,3,2,3,International,Economy,Shanghai - Dallas
+815,M,35-49,27/4/2018,,3,4,2,3,3,4,2,3,Domestic,Economy,Dallas - Washington DC
+816,M,35-49,27/4/2018,18-Apr,3,4,2,3,3,4,2,4,Domestic,Economy,Austin - Dallas
+817,F,65+,27/4/2018,18-Apr,3,4,3,3,4,1,5,3,Domestic,Economy,Phoenix - Monterey
+818,M,50-64,27/4/2018,18-Apr,1,5,5,4,4,2,5,5,Domestic,Economy,New York City - Charlotte
+819,F,35-49,27/4/2018,18-Apr,3,1,3,2,2,5,3,3,International,Economy,New York City - London
+820,M,50-64,27/4/2018,18-Apr,4,4,4,3,4,4,3,3,Caribbean,Economy,Detroit - San Juan
+821,M,50-64,27/4/2018,18-Apr,1,1,1,1,1,1,1,1,International,Economy,Phoenix - Singapore
+822,M,65+,27/4/2018,18-Apr,5,5,5,5,5,4,5,5,Domestic,Economy,Phoenix - Miami
+823,M,35-49,27/4/2018,18-Apr,4,3,4,3,4,3,3,2,Domestic,Economy,Columbus - Boston
+824,F,65+,26/4/2018,,3,4,3,3,3,3,3,4,Domestic,Economy,Manchester - West Palm Beach
+825,M,50-64,26/4/2018,18-Apr,2,1,5,1,2,1,2,5,Domestic,Economy,Miami - New York City
+826,M,50-64,26/4/2018,18-Apr,5,5,4,5,5,4,4,4,Domestic,First Class,Phoenix - Pittsburgh
+827,F,50-64,26/4/2018,18-Apr,4,5,5,5,3,3,5,5,Domestic,Economy,Portland - Charlotte
+828,M,50-64,26/4/2018,18-Apr,5,4,5,4,3,4,4,3,International,Economy,New York City - Buenos Aires
+829,M,50-64,26/4/2018,18-Feb,4,4,4,3,3,1,4,4,USA,Economy,Toronto - New York City
+830,F,35-49,25/4/2018,18-Apr,5,2,3,1,5,5,3,1,International,Business Class,Miami - London
+831,M,50-64,25/4/2018,18-Apr,3,4,4,4,3,3,4,4,International,Economy,San Juan - Dallas
+832,M,50-64,25/4/2018,18-Apr,2,4,4,2,3,3,3,3,Caribbean,Economy,Los Angeles - Antigua
+833,M,35-49,25/4/2018,18-Apr,1,4,2,3,1,1,1,4,Domestic,Economy,Huntsville - Washington DC
+834,M,65+,25/4/2018,18-Apr,4,5,5,2,4,5,4,2,International,Economy,Paris - Dallas
+835,F,35-49,25/4/2018,18-Apr,2,1,1,1,1,3,1,1,International,Economy,London - New York City
+836,M,65+,25/4/2018,18-Apr,4,5,5,5,5,4,5,5,Domestic,Economy,San Francisco - New York City
+837,M,50-64,25/4/2018,,5,5,5,4,5,5,4,5,International,Economy,Manchester - Philadelphia
+838,M,50-64,24/4/2018,18-Apr,4,4,5,3,4,5,3,3,Domestic,First Class,Oklahoma City - Tampa
+839,F,50-64,24/4/2018,18-Apr,2,4,4,4,2,2,4,4,International,Economy,Lima - Philadelphia
+840,F,50-64,24/4/2018,18-Apr,3,2,3,1,3,2,3,3,Domestic,Economy,Philadelphia - Cincinnati
+841,M,35-49,24/4/2018,18-Apr,3,4,5,3,4,3,5,3,Domestic,Economy,Bentonville - Newark
+842,F,50-64,23/4/2018,18-Apr,4,4,4,3,3,4,3,4,Domestic,Economy,Oklahoma City - Boston
+843,F,50-64,23/4/2018,18-Apr,1,3,3,2,1,2,2,3,Domestic,Economy,Philadelphia - Wilmington
+844,M,35-49,23/4/2018,18-Apr,3,4,5,3,3,4,4,5,Domestic,Economy,Boston - Chicago
+845,M,50-64,23/4/2018,18-Apr,5,5,5,4,5,5,5,5,Domestic,First Class,Oklahoma City - Maui
+846,F,50-64,23/4/2018,18-Apr,4,4,3,3,4,4,4,4,Caribbean,Economy,Norfolk - Punta Cana
+847,F,25-34,23/4/2018,18-Apr,5,5,5,3,4,5,4,5,International,Economy,Charleville - Cancun
+848,F,50-64,22/4/2018,18-Apr,4,5,4,5,5,5,4,4,International,Economy,San Jose - Santa Rosa
+849,M,50-64,22/4/2018,18-Mar,4,4,3,4,4,4,3,4,Domestic,First Class,Dallas - Las Vegas
+850,M,65+,22/4/2018,18-Apr,4,4,2,3,3,4,3,4,Domestic,Economy,Miami - Newark
+851,F,50-64,22/4/2018,,3,4,3,3,4,5,3,4,Mexico,Economy,Philadelphia - Cancun
+852,M,65+,22/4/2018,18-Apr,3,1,5,3,3,1,1,3,Domestic,Economy,Philadelphia - Fort Myers
+853,F,65+,22/4/2018,18-Apr,5,1,5,3,4,1,4,5,Domestic,Economy,Daytona Beach - Detroit
+854,M,50-64,22/4/2018,18-Apr,3,3,3,3,3,2,3,3,Caribbean,Economy,Sacramento - Grand Cayman
+855,M,50-64,21/4/2018,18-Apr,4,5,4,4,4,4,4,4,International,Economy,London - New Bern
+856,M,65+,21/4/2018,18-Jan,5,4,5,4,4,5,4,5,International,Business Class,Barcelona - Miami
+857,M,65+,21/4/2018,18-Apr,3,1,3,1,3,1,1,2,Mexico,Business Class,New York City - Cancun
+858,M,25-34,21/4/2018,18-Mar,2,2,3,2,3,2,3,3,Domestic,Economy,Chicago - New Orleans
+859,M,35-49,21/4/2018,,3,4,5,3,1,1,4,5,Domestic,Economy,Dallas - Tampa
+860,M,35-49,21/4/2018,18-Apr,3,5,5,3,1,1,3,1,Domestic,Economy,Honolulu - Dallas
+861,M,50-64,21/4/2018,18-Apr,4,5,4,3,4,3,4,4,Mexico,Economy,Dallas - Mexico City
+862,M,50-64,20/4/2018,18-Apr,1,1,3,1,5,1,2,2,International,Economy,Miami - Brasilia
+863,F,50-64,20/4/2018,18-Apr,5,5,5,5,4,3,5,5,Caribbean,Economy,Saint Louis - Antigua
+864,F,50-64,20/4/2018,,4,4,4,4,3,5,3,5,Domestic,Economy,Honolulu - Dallas
+865,F,50-64,20/4/2018,18-Apr,3,5,3,3,3,3,4,4,Domestic,Economy,Washington DC - Miami
+866,F,50-64,20/4/2018,18-Apr,3,3,3,3,3,3,3,3,Domestic,Economy,Jacksonville - Phoenix
+867,M,50-64,20/4/2018,18-Apr,5,5,5,5,5,5,5,5,International,Economy,Miami - Santiago
+868,F,50-64,20/4/2018,18-Apr,5,5,5,5,5,4,3,5,Domestic,First Class,Ontario - Phoenix
+869,F,25-34,20/4/2018,18-Apr,4,5,4,5,3,4,5,3,International,Economy,Los Angeles - Sydney
+870,F,35-49,20/4/2018,18-Apr,1,1,3,1,1,3,1,3,International,Economy,Grand Cayman - Miami
+871,M,50-64,20/4/2018,18-Apr,2,5,4,3,2,2,4,5,International,Economy,San Juan - Columbus
+872,M,35-49,20/4/2018,18-Apr,5,5,5,5,5,5,4,5,International,First Class,Paris - Philadelphia
+873,F,50-64,19/4/2018,18-Apr,3,5,5,5,3,4,3,4,Caribbean,Economy,Charlotte - Puerto Plata
+874,F,50-64,19/4/2018,18-Apr,4,4,5,5,5,4,4,4,International,Economy,Traverse City - Coolangatta
+875,M,50-64,19/4/2018,18-Apr,5,5,5,5,5,5,4,5,Domestic,First Class,Dallas - Maui
+876,F,50-64,18/4/2018,18-Mar,4,5,5,5,4,5,4,5,Domestic,Economy,Dallas - Seattle
+877,M,50-64,18/4/2018,17-Dec,3,3,3,3,3,3,3,4,Mexico,Economy,Los Angeles - Mexico City
+878,F,35-49,18/4/2018,18-Mar,1,1,3,3,1,3,3,1,International,Economy,Los Angeles - London
+879,M,50-64,18/4/2018,18-Apr,2,5,5,3,5,4,5,5,Domestic,Economy,San Francisco - Omaha
+880,M,50-64,18/4/2018,17-Dec,2,1,4,1,2,2,1,2,International,Economy,Aruba - Hartford
+881,M,65+,17/4/2018,,3,3,3,3,3,2,2,4,Domestic,Business Class,Chicago - Denver
+882,M,50-64,17/4/2018,18-Apr,3,1,2,3,3,1,2,1,Domestic,Economy,Fort Lauderdale - Charlotte
+883,M,65+,17/4/2018,18-Apr,3,4,4,3,3,1,5,5,Domestic,Economy,Washington DC - Orlando
+884,M,25-34,17/4/2018,18-Mar,4,3,5,2,4,5,5,5,Domestic,First Class,Miami - Denver
+885,M,65+,17/4/2018,18-Apr,2,3,2,2,2,3,3,3,Domestic,Economy,Washington DC - Fort Myers
+886,M,50-64,16/4/2018,18-Mar,4,3,4,3,4,1,3,4,Domestic,First Class,Dallas - Seattle
+887,M,50-64,16/4/2018,18-Apr,4,4,4,2,4,1,3,4,International,Business Class,Montego Bay - Dallas
+888,M,65+,16/4/2018,18-Apr,4,4,5,4,4,4,4,5,International,Economy,Los Angeles - Tokyo
+889,M,25-34,16/4/2018,18-Mar,1,3,4,5,1,3,5,5,Domestic,Economy,Orlando - Washington DC
+890,F,65+,16/4/2018,18-Apr,4,4,5,4,4,3,4,5,Domestic,Economy,Miami - Sacramento
+891,M,35-49,16/4/2018,18-Apr,4,4,4,4,4,4,4,5,Domestic,Economy,Lawton - El Paso
+892,M,50-64,16/4/2018,,4,3,4,3,3,3,4,2,Domestic,Economy,Tampa - Dallas
+893,F,25-34,16/4/2018,17-Jul,3,3,3,3,3,4,2,4,International,Economy,Las Vegas - London
+894,M,50-64,16/4/2018,18-Mar,3,2,5,1,2,1,5,3,Domestic,Economy,Bangor - Washington DC
+895,M,35-49,16/4/2018,18-Mar,2,4,4,1,3,3,4,2,Domestic,Economy,Chicago - San Diego
+896,F,50-64,15/4/2018,18-Feb,5,4,4,4,5,5,4,4,Domestic,First Class,Seattle - Phoenix
+897,F,35-49,15/4/2018,18-Apr,4,5,5,3,4,5,5,5,Domestic,Economy,Mobile - San Francisco
+898,F,50-64,15/4/2018,18-Mar,3,3,3,3,3,4,3,3,Mexico,Economy,Vancouver - Los Cabos
+899,F,50-64,15/4/2018,18-Apr,3,5,4,3,3,3,3,3,Domestic,Economy,Charleston - Philadelphia
+900,F,50-64,15/4/2018,18-Apr,3,5,4,4,3,5,4,5,Domestic,Economy,Boston - Las Vegas
+901,M,50-64,15/4/2018,18-Apr,3,4,5,2,4,3,4,5,Domestic,Economy,Fort Myers - San Francisco
+902,M,50-64,15/4/2018,18-Apr,3,4,3,3,3,3,3,4,Domestic,Economy,Philadelphia - Dallas
+903,M,50-64,15/4/2018,,4,4,4,3,3,3,4,4,Domestic,Economy,Burlington - Charlotte
+904,M,50-64,14/4/2018,17-Oct,4,5,5,4,5,4,3,5,Domestic,Business Class,San Francisco - New York City
+905,M,50-64,14/4/2018,18-Apr,4,1,4,3,4,4,2,2,International,Economy,Vancouver - London
+906,M,50-64,14/4/2018,,4,5,5,3,4,3,4,4,International,Economy,Dallas - Madrid
+907,M,50-64,14/4/2018,18-Mar,3,4,4,3,4,3,4,4,Domestic,Economy,Portland - Jacksonville
+908,M,35-49,14/4/2018,18-Apr,3,5,4,1,3,1,4,4,Domestic,Economy,Tampa - Phoenix
+909,M,65+,14/4/2018,18-Apr,3,4,3,3,3,4,3,3,Domestic,Economy,Dallas - Raleigh
+910,M,65+,14/4/2018,18-Apr,4,4,4,3,3,4,3,5,Domestic,Economy,Phoenix - Dallas
+911,F,50-64,13/4/2018,18-Mar,3,4,4,4,3,5,4,3,International,Economy,Sydney - Charleston
+912,F,65+,13/4/2018,18-Apr,3,5,4,3,4,5,4,4,International,Economy,Rio de Janeiro - Los Angeles
+913,M,50-64,13/4/2018,18-Apr,5,5,5,5,5,5,4,3,Domestic,First Class,Maui - Austin
+914,F,35-49,13/4/2018,18-Apr,4,4,5,4,4,5,5,5,International,Economy,Fort Lauderdale - Athens
+915,M,35-49,13/4/2018,18-Apr,1,2,1,3,4,1,1,2,Domestic,Economy,Orlando - Milwaukee
+916,M,65+,13/4/2018,18-Apr,5,5,5,5,5,5,5,5,Domestic,First Class,Washington DC - Las Vegas
+917,M,65+,2018/12/4 0:00,18-Apr,1,4,4,3,1,5,2,4,International,Economy,Philadelphia - Basel
+918,F,65+,2018/12/4 0:00,18-Apr,3,5,5,2,3,3,4,5,Domestic,Economy,Las Vegas - Charlotte
+919,M,25-34,2018/12/4 0:00,18-Feb,4,4,5,3,4,3,5,3,Domestic,First Class,Dallas - Charlotte
+920,M,50-64,2018/12/4 0:00,18-Apr,2,5,4,3,2,3,4,4,Domestic,Economy,New Orleans - Raleigh
+921,M,25-34,2018/12/4 0:00,17-May,4,4,5,4,4,5,5,1,Domestic,First Class,Denver - Dallas
+922,M,50-64,2018/12/4 0:00,18-Mar,1,1,1,1,1,1,1,1,Domestic,First Class,Hartford - Seattle
+923,M,65+,2018/12/4 0:00,18-Apr,4,5,5,5,4,4,5,5,Mexico,Economy,Dallas - Los Cabos
+924,F,35-49,2018/12/4 0:00,18-Feb,2,2,4,2,2,1,2,4,USA,Economy,Cancun - Dallas
+925,F,18-24,2018/12/4 0:00,,3,4,3,2,2,1,2,2,Caribbean,Economy,Orlando - St. Thomas
+926,M,65+,2018/12/4 0:00,18-Mar,5,5,5,5,5,5,5,5,Domestic,Economy,Phoenix - Charlotte
+927,M,65+,2018/12/4 0:00,18-Mar,4,5,5,4,4,4,4,5,Mexico,Economy,Philadelphia - Cancun
+928,F,35-49,2018/12/4 0:00,18-Apr,3,2,3,3,3,1,3,2,USA,Economy,Montreal - Chicago
+929,F,50-64,2018/12/4 0:00,18-Apr,5,5,4,4,5,4,4,4,Domestic,First Class,Minneapolis - Phoenix
+930,M,65+,2018/12/4 0:00,18-Apr,3,3,4,3,3,3,2,3,Domestic,Economy,Baltimore - Chicago
+931,M,35-49,2018/12/4 0:00,18-Apr,4,4,4,2,3,4,4,5,International,Economy,New York City - London
+932,M,65+,2018/12/4 0:00,,4,4,4,4,4,2,4,4,International,Economy,Los Angeles - Tokyo
+933,M,50-64,2018/11/4 0:00,,3,5,4,1,4,4,2,3,Domestic,Economy,Jacksonville - Las Vegas
+934,M,35-49,2018/11/4 0:00,18-Mar,3,4,4,3,3,3,4,3,USA,Economy,Vancouver - Miami
+935,M,65+,2018/11/4 0:00,18-Apr,3,3,3,4,3,2,3,3,International,Business Class,Miami - Guatemala City
+936,M,65+,2018/11/4 0:00,,4,5,5,3,4,1,3,4,Domestic,Economy,Chicago - Salt Lake City
+937,M,50-64,2018/11/4 0:00,18-Mar,3,4,4,4,3,3,4,3,International,Economy,Philadelphia - Rome
+938,M,35-49,2018/11/4 0:00,17-Nov,3,3,4,3,3,4,3,4,Domestic,Economy,Kansas City - Akron
+939,F,50-64,2018/11/4 0:00,,2,1,3,1,2,3,3,2,International,Economy,Charlotte - London
+940,M,50-64,2018/11/4 0:00,18-Mar,5,5,5,5,5,5,5,5,Domestic,Economy,Dallas - Saint Louis
+941,M,50-64,2018/11/4 0:00,18-Feb,5,5,5,5,5,5,5,5,Domestic,Economy,Saint Louis - Dallas
+942,M,50-64,2018/11/4 0:00,18-Apr,4,3,3,3,5,4,3,1,International,Business Class,Dallas - Beijing
+943,M,50-64,2018/11/4 0:00,18-Mar,3,5,5,2,3,2,4,5,Caribbean,Economy,Kalamazoo - St. Croix
+944,M,65+,2018/11/4 0:00,17-Jun,4,5,4,4,5,4,4,4,International,First Class,Hamilton - Philadelphia
+945,M,50-64,2018/11/4 0:00,18-Mar,3,5,5,4,4,4,3,5,International,Economy,Philadelphia - Rome
+946,M,65+,2018/11/4 0:00,,3,2,5,3,3,2,2,2,Domestic,Economy,Fort Myers - Washington DC
+947,M,65+,2018/11/4 0:00,18-Mar,2,1,5,3,5,5,2,5,International,Business Class,Dallas - London
+948,M,50-64,2018/10/4 0:00,18-Apr,4,4,5,4,4,5,5,4,International,Economy,London - Raleigh
+949,M,65+,2018/10/4 0:00,,3,5,4,3,4,3,3,4,Domestic,Economy,Miami - San Diego
+950,F,65+,2018/10/4 0:00,18-Mar,3,4,3,3,3,3,4,4,Domestic,Economy,Charlotte - Melbourne
+951,F,50-64,2018/10/4 0:00,18-Apr,4,3,3,3,3,2,3,4,Domestic,Economy,Philadelphia - Chicago
+952,M,50-64,2018/10/4 0:00,18-Apr,3,4,4,3,3,2,3,3,International,Economy,Miami - Lima
+953,M,65+,2018/10/4 0:00,18-Apr,4,3,3,3,4,2,2,3,Domestic,First Class,Houston - Chicago
+954,F,35-49,2018/10/4 0:00,18-Feb,5,1,3,1,4,4,2,2,International,Economy,Miami - Santiago
+955,M,50-64,2018/10/4 0:00,18-Mar,4,4,4,3,3,2,4,4,Domestic,Economy,Wilmington - Portland
+956,F,35-49,2018/10/4 0:00,18-Mar,3,3,4,4,3,2,4,4,Domestic,Economy,Detroit - New York City
+957,F,65+,2018/10/4 0:00,18-Mar,5,5,5,4,4,5,4,5,Domestic,Economy,San Angelo - Albany
+958,M,50-64,2018/10/4 0:00,18-Mar,3,3,4,3,3,4,3,4,International,Economy,Denver - Rome
+959,M,50-64,2018/10/4 0:00,18-Apr,4,3,4,3,4,3,4,3,Domestic,Economy,Colorado Springs - Norfolk
+960,F,50-64,2018/10/4 0:00,18-Mar,5,5,5,5,5,5,5,5,Domestic,First Class,Dallas - Orlando
+961,M,35-49,2018/10/4 0:00,17-Sep,3,5,5,4,3,5,5,5,International,Economy,Los Angeles - Hong Kong
+962,F,13-17,2018/10/4 0:00,18-Mar,5,5,5,5,5,5,5,5,International,First Class,Dallas - Florence
+963,M,50-64,2018/10/4 0:00,,3,4,4,3,2,3,4,4,Domestic,Economy,Saint Louis - Philadelphia
+964,M,50-64,2018/10/4 0:00,18-Apr,1,3,3,2,2,2,1,3,Caribbean,Economy,Jackson - San Juan
+965,F,65+,2018/10/4 0:00,18-Apr,4,1,3,3,4,4,3,1,Caribbean,First Class,Minneapolis - Antigua
+966,M,50-64,2018/10/4 0:00,18-Apr,4,5,5,5,5,3,4,5,Domestic,First Class,Orlando - Los Angeles
+967,F,50-64,2018/10/4 0:00,17-May,3,4,4,3,3,4,3,5,Domestic,Economy,Sacramento - Orlando
+968,M,50-64,2018/10/4 0:00,18-Jan,4,4,4,4,4,3,4,5,Domestic,First Class,Los Angeles - New York City
+969,M,50-64,2018/10/4 0:00,17-Dec,4,5,5,4,5,5,5,5,International,Economy,Orlando - Buenos Aires
+970,M,50-64,2018/10/4 0:00,18-Apr,3,1,2,3,3,3,3,5,Domestic,Economy,Ontario - Madison
+971,F,50-64,2018/10/4 0:00,18-Apr,2,3,3,1,2,1,2,1,Canada,Economy,Los Angeles - Vancouver
+972,F,50-64,2018/10/4 0:00,18-Mar,2,5,4,1,2,5,3,5,International,Economy,San Antonio - Paris
+973,M,35-49,2018/10/4 0:00,18-Feb,4,4,4,4,4,1,3,4,International,Economy,Hamilton - Miami
+974,M,50-64,2018/10/4 0:00,18-Feb,5,5,5,4,5,3,4,4,Domestic,Economy,Charlotte - Hartford
+975,M,50-64,2018/10/4 0:00,18-Apr,3,3,4,2,2,1,3,4,Domestic,Economy,Miami - Portland
+976,M,35-49,2018/10/4 0:00,17-Sep,5,5,5,4,4,5,5,5,International,Economy,Dallas - Tokyo
+977,M,65+,2018/10/4 0:00,18-Jan,5,5,5,5,5,5,4,5,Domestic,First Class,Boston - Miami
+978,M,65+,2018/10/4 0:00,18-Mar,4,4,4,2,4,4,3,2,Domestic,Economy,Norfolk - Denver
+979,M,50-64,2018/10/4 0:00,18-Apr,4,5,4,4,5,4,3,4,International,Business Class,Texarkana - Bangkok
+980,F,50-64,2018/10/4 0:00,18-Apr,5,4,3,3,5,4,3,4,International,Business Class,Shreveport - Guayaquil
+981,F,50-64,2018/10/4 0:00,18-Apr,5,5,5,4,5,5,4,5,Caribbean,First Class,Saint Louis - Santo Domingo
+982,M,50-64,2018/10/4 0:00,18-Apr,5,4,5,4,5,4,4,5,International,Business Class,New York City - London
+983,M,50-64,2018/10/4 0:00,18-Jan,3,4,4,3,4,4,4,5,Mexico,Economy,Miami - Cozumel
+984,F,50-64,2018/10/4 0:00,18-Mar,3,3,3,3,4,4,3,3,Domestic,Economy,Boston - Los Angeles
+985,M,50-64,2018/10/4 0:00,18-Mar,3,3,3,3,3,3,3,3,Domestic,Economy,Dallas - Tampa
+986,M,65+,2018/10/4 0:00,18-Apr,2,1,2,2,3,2,3,1,Canada,Economy,Phoenix - Toronto
+987,F,50-64,2018/9/4 0:00,,4,4,4,4,3,5,2,4,International,Economy,Honolulu - Quito
+988,M,65+,2018/9/4 0:00,18-Mar,3,3,3,1,3,1,3,4,Domestic,Economy,Wilmington - Phoenix
+989,M,65+,2018/9/4 0:00,18-Mar,3,5,3,3,3,4,3,1,Domestic,Economy,Denver - Lihue
+990,M,50-64,2018/9/4 0:00,18-Mar,1,1,3,1,1,5,1,3,International,Economy,Los Angeles - Hong Kong
+991,F,65+,2018/9/4 0:00,,3,3,3,4,4,3,3,3,International,Business Class,Panama City - Miami
+992,M,50-64,2018/9/4 0:00,18-Mar,3,4,4,4,4,4,3,4,Domestic,Economy,San Francisco - Philadelphia
+993,F,50-64,2018/9/4 0:00,18-Apr,5,5,5,5,5,5,5,5,International,Economy,Grand Junction - Madrid
+994,M,65+,2018/9/4 0:00,18-Apr,3,1,1,1,3,1,1,1,Domestic,Economy,Los Angeles - Honolulu
+995,M,35-49,2018/9/4 0:00,18-Feb,3,4,4,4,3,5,4,4,Domestic,Economy,Detroit - Miami
+996,M,65+,2018/9/4 0:00,18-Apr,4,4,4,4,3,4,5,4,Domestic,Economy,Miami - Houston
+997,M,50-64,2018/9/4 0:00,18-Mar,5,5,5,5,4,5,5,5,Domestic,Economy,Moline - Palm Springs
+998,M,25-34,2018/9/4 0:00,18-Apr,4,5,4,3,4,3,4,3,Domestic,Economy,Boston - Charlotte
+999,M,50-64,2018/9/4 0:00,18-Apr,3,4,4,3,3,3,3,4,Domestic,Economy,Dallas - Charlotte
+1000,M,50-64,2018/9/4 0:00,18-Apr,5,5,5,5,5,5,5,5,Domestic,First Class,Charlotte - Fort Walton Beach
+1001,M,50-64,2018/9/4 0:00,17-Oct,4,4,4,3,4,2,3,3,Domestic,First Class,Austin - Monterey
+1002,M,50-64,2018/9/4 0:00,,4,4,5,4,5,4,4,5,Domestic,Economy,Pittsburgh - Orlando
+1003,F,50-64,2018/9/4 0:00,,3,3,3,3,3,3,4,4,International,Economy,Vancouver - San Jose
+1004,F,50-64,2018/9/4 0:00,18-Mar,2,3,3,1,3,3,3,3,Domestic,Economy,St. George - Phoenix
+1005,F,50-64,2018/9/4 0:00,18-Mar,2,3,3,2,2,3,3,2,Domestic,Economy,Memphis - Washington DC
+1006,M,35-49,2018/9/4 0:00,18-Mar,2,4,3,3,2,1,3,3,Domestic,Economy,Washington DC - Phoenix
+1007,F,35-49,2018/9/4 0:00,18-Mar,5,5,5,3,5,3,5,5,International,Business Class,Havana - Charlotte
+1008,F,50-64,2018/9/4 0:00,18-Mar,4,3,3,3,4,3,3,4,Domestic,Economy,Savannah - Buffalo
+1009,F,50-64,2018/9/4 0:00,18-Apr,4,4,5,5,4,5,5,5,Canada,Economy,Fort Lauderdale - Toronto
+1010,M,65+,2018/9/4 0:00,,3,3,3,3,2,3,3,4,Domestic,Economy,Milwaukee - Honolulu
+1011,F,50-64,2018/9/4 0:00,18-Mar,1,1,4,1,1,1,3,2,Domestic,Economy,San Francisco - Tampa
+1012,F,50-64,2018/9/4 0:00,18-Feb,5,5,5,5,5,5,5,5,Domestic,First Class,Blountville - Norfolk
+1013,M,35-49,2018/9/4 0:00,18-Jan,4,5,4,4,5,2,4,5,Domestic,Economy,Boston - Dallas
+1014,M,35-49,2018/9/4 0:00,18-Mar,5,3,5,4,5,3,3,5,Domestic,Economy,Miami - Memphis
+1015,M,65+,2018/9/4 0:00,18-Mar,4,4,4,3,4,3,3,5,Domestic,Economy,Tampa - Phoenix
+1016,F,65+,2018/9/4 0:00,18-Mar,2,3,3,3,4,3,3,3,International,Economy,Los Angeles - Sydney
+1017,F,35-49,2018/9/4 0:00,,3,3,4,3,3,3,3,3,Domestic,Economy,Harrisburg - Philadelphia
+1018,M,50-64,2018/9/4 0:00,18-Mar,4,4,5,4,5,3,3,5,Domestic,Business Class,Raleigh - Abilene
+1019,F,35-49,2018/9/4 0:00,,4,5,4,4,4,4,4,4,Domestic,Economy,Montgomery - Colorado Springs
+1020,F,35-49,2018/9/4 0:00,17-Oct,4,4,5,4,4,5,5,5,Domestic,Economy,Chicago - New York City
+1021,M,35-49,2018/9/4 0:00,18-Mar,3,4,3,3,3,3,4,3,Domestic,Economy,Fort Walton Beach - Minneapolis
+1022,M,50-64,2018/9/4 0:00,18-Mar,3,4,4,3,3,5,4,5,Domestic,Economy,Dallas - New York City
+1023,M,50-64,2018/9/4 0:00,18-Mar,2,2,3,2,3,4,1,4,Caribbean,Economy,Philadelphia - Punta Cana
+1024,M,35-49,2018/9/4 0:00,17-Oct,4,3,3,3,3,4,1,1,Domestic,Economy,Pensacola - Dallas
+1025,M,50-64,2018/9/4 0:00,18-Apr,3,4,3,2,3,4,4,4,Domestic,Economy,Philadelphia - San Diego
+1026,M,50-64,2018/9/4 0:00,18-Feb,1,3,3,3,1,3,1,3,International,Economy,Charlotte - Belize City
+1027,F,50-64,2018/9/4 0:00,18-Mar,4,4,3,3,5,5,5,5,International,Economy,Rome - Chicago
+1028,M,65+,2018/9/4 0:00,18-Mar,4,4,5,4,4,5,4,4,International,Economy,Sydney - Los Angeles
+1029,M,50-64,2018/9/4 0:00,18-Feb,3,5,3,3,2,4,3,5,Domestic,Economy,Charlotte - Phoenix
+1030,M,35-49,2018/9/4 0:00,18-Mar,3,4,3,3,3,3,3,3,Caribbean,Economy,Baltimore - Providenciales
+1031,F,50-64,2018/9/4 0:00,18-Feb,3,4,3,3,2,3,3,5,Caribbean,Economy,Columbus - Montego Bay
+1032,M,50-64,2018/9/4 0:00,18-Mar,4,4,4,3,4,3,3,4,Domestic,Economy,Cleveland - Charlotte
+1033,M,50-64,2018/9/4 0:00,17-Dec,4,4,4,4,4,4,4,4,Caribbean,Economy,Dallas - San Juan
+1034,M,65+,2018/9/4 0:00,,3,5,3,3,3,2,3,4,Domestic,Economy,Ontario - Washington DC
+1035,M,35-49,2018/9/4 0:00,18-Apr,3,1,3,2,3,2,3,3,Caribbean,Economy,Charlotte - Aruba
+1036,M,35-49,2018/9/4 0:00,18-Apr,4,5,5,5,3,4,3,5,International,Economy,London - Charlotte
+1037,F,50-64,2018/9/4 0:00,18-Mar,4,4,3,2,4,4,3,3,Domestic,First Class,Palm Springs - Kansas City
+1038,F,50-64,2018/9/4 0:00,17-Sep,3,5,4,3,5,3,4,4,USA,Economy,Ottawa - San Diego
+1039,F,65+,2018/9/4 0:00,17-Aug,3,4,4,3,3,3,2,3,Domestic,Economy,Buffalo - Melbourne
+1040,M,65+,2018/9/4 0:00,18-Mar,3,5,3,3,4,4,3,4,Caribbean,First Class,Washington DC - Havana
+1041,F,50-64,2018/9/4 0:00,18-Feb,3,4,4,3,3,3,4,5,Domestic,Economy,Dallas - New Orleans
+1042,F,65+,2018/9/4 0:00,18-Mar,5,5,5,4,5,3,5,5,Caribbean,Economy,Philadelphia - Montego Bay
+1043,M,50-64,2018/9/4 0:00,18-Mar,3,4,5,4,4,3,3,5,Domestic,Economy,Hartford - Detroit
+1044,M,35-49,2018/9/4 0:00,18-Apr,4,5,5,3,3,5,4,3,International,Economy,Chicago - Paris
+1045,M,35-49,2018/9/4 0:00,18-Mar,3,3,3,3,3,1,3,3,Domestic,Economy,Charlotte - Dallas
+1046,F,65+,2018/9/4 0:00,18-Apr,5,1,4,1,5,3,2,5,International,Business Class,San Francisco - Buenos Aires
+1047,F,65+,2018/9/4 0:00,18-Feb,3,4,4,3,3,3,3,4,Domestic,Economy,New York City - Rapid City
+1048,M,50-64,2018/9/4 0:00,17-Sep,2,4,4,3,2,3,3,4,Domestic,Economy,Austin - San Jose
+1049,M,65+,2018/9/4 0:00,17-Oct,4,5,4,3,4,3,4,4,Domestic,Economy,Philadelphia - San Antonio
+1050,F,50-64,2018/9/4 0:00,18-Mar,3,3,3,3,3,2,3,3,Domestic,Economy,Fresno - Richmond
+1051,F,50-64,2018/9/4 0:00,18-Apr,4,5,5,3,4,3,3,5,Mexico,Economy,Vancouver - Los Cabos
+1052,M,50-64,2018/9/4 0:00,18-Apr,4,4,3,3,4,3,3,4,Domestic,First Class,Houston - Phoenix
+1053,M,50-64,2018/9/4 0:00,18-Feb,4,5,5,4,5,5,5,5,Domestic,First Class,New York City - Honolulu
+1054,M,50-64,2018/9/4 0:00,,5,3,4,3,5,5,3,5,USA,First Class,Cancun - Chicago
+1055,M,50-64,2018/9/4 0:00,18-Mar,2,5,5,3,5,5,3,5,International,Economy,Los Angeles - Sao Paulo
+1056,M,50-64,2018/9/4 0:00,18-Mar,4,3,4,3,5,2,4,3,USA,Economy,Montreal - Charlotte
+1057,F,50-64,2018/9/4 0:00,18-Feb,3,4,2,1,2,2,2,3,Domestic,Economy,Charlotte - Orlando
+1058,M,50-64,2018/9/4 0:00,18-Apr,3,4,3,1,2,3,1,3,Caribbean,Economy,Miami - Bridgetown
+1059,M,65+,2018/9/4 0:00,18-Apr,4,3,4,3,3,3,4,4,International,Economy,San Juan - State College
+1060,M,65+,2018/9/4 0:00,18-Apr,4,5,5,5,4,3,5,5,Mexico,Economy,Wilkes-Barre - Cozumel
+1061,M,50-64,2018/9/4 0:00,18-Mar,2,2,3,1,2,1,1,2,Domestic,Economy,Richmond - New Orleans
+1062,M,50-64,2018/9/4 0:00,,5,5,5,5,5,5,5,5,Domestic,First Class,Denver - Palm Springs
+1063,F,35-49,2018/9/4 0:00,18-Mar,2,4,4,3,2,3,3,3,International,Economy,Montego Bay - Philadelphia
+1064,M,50-64,2018/9/4 0:00,18-Mar,5,5,5,5,5,5,5,5,Domestic,First Class,Reno - Sioux Falls
+1065,F,35-49,2018/9/4 0:00,17-Nov,3,4,3,3,2,2,3,3,Caribbean,Economy,Philadelphia - Montego Bay
+1066,M,35-49,2018/9/4 0:00,18-Mar,3,4,4,3,3,2,3,4,Domestic,Economy,Minneapolis - Charlotte
+1067,M,35-49,2018/9/4 0:00,18-Apr,3,5,5,5,4,2,3,5,Domestic,Economy,Eugene - Phoenix
+1068,F,50-64,2018/9/4 0:00,18-Feb,1,4,2,3,2,3,2,4,Domestic,Economy,Portland - Tampa
+1069,M,25-34,2018/9/4 0:00,18-Mar,4,4,5,5,4,5,4,5,Mexico,Business Class,Dallas - Puerto Vallarta
+1070,M,65+,2018/9/4 0:00,17-Nov,5,5,5,5,5,5,5,5,International,Business Class,Stockholm - Los Angeles
+1071,F,25-34,2018/9/4 0:00,18-Apr,4,4,4,3,3,3,4,2,Domestic,Economy,New York City - Portland
+1072,M,35-49,2018/9/4 0:00,18-Feb,4,4,4,4,5,5,3,5,Domestic,First Class,Kansas City - New Orleans
+1073,M,50-64,2018/9/4 0:00,18-Apr,3,3,3,2,3,3,3,1,International,Economy,Auckland - Atlanta
+1074,F,35-49,2018/9/4 0:00,18-Mar,3,2,3,2,3,1,3,2,Domestic,Economy,Norfolk - Albany
+1075,M,35-49,2018/9/4 0:00,18-Mar,2,3,5,2,3,4,2,4,Domestic,Economy,Charlotte - Fort Lauderdale
+1076,M,65+,2018/9/4 0:00,18-Mar,3,2,4,1,2,1,2,1,Domestic,Economy,Orlando - Philadelphia
+1077,M,50-64,2018/9/4 0:00,18-Apr,5,5,4,4,5,5,4,5,Domestic,First Class,Maui - Orlando
+1078,F,50-64,2018/9/4 0:00,17-Nov,5,5,5,5,5,5,4,5,Domestic,First Class,New York City - Las Vegas
+1079,M,50-64,2018/9/4 0:00,18-Mar,3,4,5,4,5,5,4,5,Domestic,Economy,Los Angeles - Austin
+1080,M,50-64,2018/9/4 0:00,,2,5,5,4,3,4,2,5,Domestic,Economy,Fresno - Indianapolis
+1081,M,50-64,2018/9/4 0:00,18-Apr,4,5,4,3,3,3,5,5,Mexico,Economy,Rochester - Cancun
+1082,F,35-49,2018/9/4 0:00,18-Mar,5,4,5,5,5,5,4,2,Caribbean,Economy,Chicago - Punta Cana
+1083,M,35-49,2018/9/4 0:00,,1,3,3,3,1,1,2,3,Domestic,Economy,Cleveland - Washington DC
+1084,M,35-49,2018/9/4 0:00,18-Mar,5,5,5,5,5,3,5,5,Domestic,Economy,Los Angeles - Las Vegas
+1085,M,50-64,2018/9/4 0:00,18-Mar,4,5,4,3,4,3,5,4,Domestic,Economy,Charlotte - Denver
+1086,F,35-49,2018/9/4 0:00,18-Feb,3,4,2,3,3,3,3,3,USA,Economy,Cancun - Rochester
+1087,F,35-49,2018/9/4 0:00,18-Mar,5,5,5,5,5,5,5,5,Domestic,Economy,Chicago - Denver
+1088,M,65+,2018/9/4 0:00,18-Apr,2,1,3,1,2,1,2,2,International,Economy,St. Lucia - Detroit
+1089,M,50-64,2018/9/4 0:00,18-Apr,5,3,4,4,5,5,4,5,Domestic,Business Class,Maui - Dallas
+1090,F,65+,2018/9/4 0:00,18-Apr,4,5,5,5,4,5,5,5,Domestic,Economy,Boston - Tampa
+1091,M,50-64,2018/9/4 0:00,18-Jan,4,5,5,5,4,4,5,5,Domestic,Economy,Charlotte - Fort Lauderdale
+1092,M,65+,2018/9/4 0:00,18-Feb,5,4,4,4,5,4,4,5,International,Business Class,London - Dallas
+1093,F,50-64,2018/9/4 0:00,18-Apr,3,2,3,3,2,3,2,3,International,Economy,Philadelphia - London
+1094,F,65+,2018/9/4 0:00,,3,4,4,3,1,3,3,3,Domestic,Economy,Las Vegas - New York City
+1095,F,50-64,2018/9/4 0:00,18-Mar,3,4,4,3,3,4,3,4,International,Economy,Newark - Montevideo
+1096,M,35-49,2018/9/4 0:00,18-Feb,3,5,5,4,3,5,4,4,USA,Economy,Cancun - Chicago
+1097,M,65+,2018/9/4 0:00,18-Apr,5,5,5,5,5,5,4,5,International,Economy,San Francisco - Sao Paulo
+1098,M,50-64,2018/9/4 0:00,18-Apr,3,1,2,2,3,3,1,1,Domestic,Economy,Eugene - Abilene
+1099,M,65+,2018/9/4 0:00,18-Apr,5,3,4,3,5,4,4,3,International,Business Class,Dallas - Madrid
+1100,M,35-49,2018/9/4 0:00,18-Apr,1,2,2,1,1,2,1,2,Domestic,First Class,Seattle - New York City
+1101,M,50-64,2018/9/4 0:00,18-Feb,3,3,4,3,1,4,2,4,International,Economy,Miami - Paris
+1102,M,50-64,2018/9/4 0:00,17-Dec,3,3,3,2,3,2,2,2,Domestic,Economy,Gulfport - San Francisco
+1103,M,50-64,2018/8/4 0:00,18-Mar,3,3,3,4,3,4,2,3,Domestic,Economy,Dallas - Fresno
+1104,F,50-64,2018/8/4 0:00,18-Mar,1,5,5,1,4,1,3,5,Domestic,First Class,Wilmington - Las Vegas
+1105,M,65+,2018/8/4 0:00,18-Mar,3,4,4,2,3,4,1,3,International,Economy,New York City - Sao Paulo
+1106,M,65+,2018/8/4 0:00,18-Apr,3,3,3,3,3,3,3,4,International,Economy,New York City - Belize City
+1107,M,50-64,2018/8/4 0:00,18-Feb,5,5,4,4,5,4,3,5,Mexico,Business Class,Chicago - Puerto Vallarta
+1108,F,65+,2018/8/4 0:00,18-Feb,3,4,3,3,3,3,3,4,International,Economy,Miami - Rio de Janeiro
+1109,M,65+,2018/8/4 0:00,18-Apr,5,5,5,4,5,1,3,5,Domestic,First Class,Philadelphia - Orlando
+1110,M,65+,2018/8/4 0:00,18-Mar,3,3,3,1,3,1,3,5,Domestic,Economy,Ocean City - Philadelphia
+1111,M,65+,2018/8/4 0:00,18-Jan,4,5,5,4,4,5,5,4,Domestic,Economy,Dallas - Honolulu
+1112,F,35-49,2018/7/4 0:00,18-Mar,1,1,2,1,1,1,1,1,Domestic,Economy,Philadelphia - Cincinnati
+1113,M,65+,2018/7/4 0:00,18-Mar,5,4,5,4,4,4,4,4,International,Economy,Paris - Dallas
+1114,F,50-64,2018/7/4 0:00,18-Mar,2,4,5,3,1,3,3,4,Domestic,Economy,Palm Springs - Billings
+1115,M,50-64,2018/7/4 0:00,18-Mar,3,4,4,3,3,3,4,4,Domestic,Economy,Pittsburgh - Washington DC
+1116,F,35-49,2018/7/4 0:00,18-Apr,1,3,4,1,3,1,1,2,USA,Economy,Toronto - Los Angeles
+1117,F,50-64,2018/6/4 0:00,18-Mar,4,5,4,4,5,3,4,4,Domestic,First Class,Wilmington - New York City
+1118,M,65+,2018/6/4 0:00,18-Apr,5,5,5,2,5,5,3,5,Domestic,First Class,Newark - Phoenix
+1119,M,65+,2018/6/4 0:00,18-Mar,3,3,4,3,5,3,3,4,International,Economy,Dallas - Madrid
+1120,F,35-49,2018/6/4 0:00,18-Apr,2,1,3,3,2,3,1,1,International,Economy,London - New York City
+1121,F,25-34,2018/5/4 0:00,18-Mar,5,5,5,5,5,2,4,3,Domestic,First Class,Denver - Chicago
+1122,M,35-49,2018/5/4 0:00,17-Nov,4,5,5,4,4,5,4,4,International,Economy,London - Chicago
+1123,M,50-64,2018/5/4 0:00,18-Mar,4,2,4,3,4,4,4,4,International,Business Class,Philadelphia - Manchester
+1124,M,25-34,2018/5/4 0:00,,3,5,3,2,3,2,3,2,Domestic,First Class,Aspen - Dallas
+1125,M,25-34,2018/5/4 0:00,18-Mar,3,1,2,2,4,2,1,3,International,Business Class,New York City - Manchester
+1126,M,50-64,2018/5/4 0:00,18-Apr,2,1,1,1,3,3,1,1,Domestic,Economy,Tucson - Madison
+1127,F,25-34,2018/5/4 0:00,18-Mar,4,4,4,4,4,4,4,4,Domestic,Economy,Reno - Oklahoma City
+1128,M,35-49,2018/5/4 0:00,18-Mar,3,4,4,3,3,4,3,4,Domestic,Economy,Austin - Philadelphia
+1129,F,35-49,2018/5/4 0:00,18-Apr,3,2,1,3,2,1,2,1,Domestic,Economy,Baltimore - New York City
+1130,M,35-49,2018/5/4 0:00,18-Apr,3,4,4,3,3,3,3,5,Domestic,Business Class,Dallas - Baltimore
+1131,M,50-64,2018/4/4 0:00,18-Mar,5,4,5,3,5,5,3,5,Domestic,First Class,Dallas - Honolulu
+1132,F,50-64,2018/4/4 0:00,18-Apr,5,5,5,5,5,5,5,5,Domestic,First Class,New Orleans - Los Angeles
+1133,M,50-64,2018/4/4 0:00,18-Feb,4,4,4,4,4,3,4,4,International,Business Class,Miami - Lima
+1134,M,35-49,2018/4/4 0:00,,3,5,3,3,3,3,3,5,Domestic,Economy,Little Rock - West Palm Beach
+1135,M,35-49,2018/4/4 0:00,18-Mar,4,4,4,4,4,4,4,4,International,Business Class,Miami - Rio de Janeiro
+1136,F,25-34,2018/4/4 0:00,18-Apr,3,3,3,3,3,1,2,1,International,Economy,Philadelphia - Amsterdam
+1137,M,50-64,2018/4/4 0:00,18-Mar,3,2,3,3,3,2,3,4,Domestic,Economy,Chicago - Newark
+1138,F,50-64,2018/4/4 0:00,18-Mar,1,1,1,3,1,1,1,4,Domestic,Economy,Springfield - Manchester
+1139,F,35-49,2018/4/4 0:00,18-Apr,3,2,3,3,2,1,2,1,Domestic,Economy,Dallas - San Jose
+1140,M,35-49,2018/4/4 0:00,18-Mar,3,3,3,2,3,1,2,3,Domestic,Economy,Dallas - Manhattan
+1141,F,50-64,2018/4/4 0:00,,4,5,4,3,4,3,5,5,Domestic,Economy,Saint Louis - Miami
+1142,M,65+,2018/3/4 0:00,18-Mar,3,4,3,3,1,4,3,4,Domestic,Economy,Jackson - Charlotte
+1143,F,65+,2018/3/4 0:00,18-Mar,4,4,4,3,4,3,4,4,Domestic,Economy,Miami - Los Angeles
+1144,M,65+,2018/3/4 0:00,18-Feb,2,5,3,1,1,4,2,5,International,First Class,Curacao - Memphis
+1145,M,50-64,2018/3/4 0:00,18-Mar,2,3,2,3,2,3,3,2,International,Economy,Miami - Rio de Janeiro
+1146,M,50-64,2018/3/4 0:00,18-Apr,3,4,4,3,3,3,3,5,Domestic,Economy,Cincinnati - Philadelphia
+1147,M,65+,2018/3/4 0:00,18-Feb,5,5,5,5,5,5,5,5,Domestic,Economy,Newark - Phoenix
+1148,M,65+,2018/3/4 0:00,18-Mar,4,4,3,3,4,3,3,3,Domestic,First Class,Sacramento - Los Angeles
+1149,M,50-64,2018/3/4 0:00,18-Apr,2,1,2,2,2,2,3,1,Domestic,Economy,Miami - Las Vegas
+1150,F,50-64,2018/2/4 0:00,,3,2,4,4,3,4,3,4,Domestic,Economy,Syracuse - Maui
+1151,M,50-64,2018/2/4 0:00,18-Mar,3,4,3,3,3,3,3,3,Domestic,Economy,New Orleans - Philadelphia
+1152,M,50-64,2018/2/4 0:00,18-Mar,2,1,2,3,2,1,1,2,International,Business Class,New York City - Zurich
+1153,M,35-49,2018/2/4 0:00,18-Mar,3,3,3,3,2,3,3,1,International,Economy,Las Vegas - Guangzhou
+1154,M,50-64,2018/2/4 0:00,18-Mar,3,3,2,3,3,4,4,3,Domestic,Economy,Bakersfield - Baton Rouge
+1155,M,35-49,2018/2/4 0:00,18-Mar,5,5,5,5,5,5,5,5,Domestic,First Class,Los Angeles - Austin
+1156,M,65+,2018/2/4 0:00,18-Apr,5,4,3,3,5,3,5,5,Domestic,First Class,Portland - Chicago
+1157,M,50-64,2018/2/4 0:00,18-Mar,5,5,5,5,5,5,5,5,International,Business Class,Manchester - Chicago
+1158,F,35-49,2018/2/4 0:00,18-Mar,2,3,3,3,2,3,3,3,Domestic,Economy,San Antonio - Charlotte
+1159,M,65+,2018/1/4 0:00,,5,4,5,5,4,5,5,4,International,Economy,London - Miami
+1160,F,50-64,2018/1/4 0:00,18-Mar,3,3,5,3,1,1,2,5,Domestic,Economy,Greensboro - Chicago
+1161,F,65+,2018/1/4 0:00,18-Mar,4,4,4,3,5,1,3,4,Domestic,First Class,Boston - Phoenix
+1162,M,50-64,2018/1/4 0:00,18-Mar,3,3,4,3,3,2,2,3,Caribbean,Business Class,Syracuse - San Juan
+1163,F,35-49,2018/1/4 0:00,18-Jan,3,5,3,3,3,5,4,5,Domestic,Economy,Orlando - Seattle
+1164,M,50-64,2018/1/4 0:00,18-Mar,3,2,3,2,3,2,1,3,Mexico,Economy,Phoenix - Puerto Vallarta
+1165,F,50-64,2018/1/4 0:00,18-Mar,3,2,3,2,4,4,3,3,Caribbean,Economy,Dallas - San Juan
+1166,M,50-64,31/3/2018,18-Mar,4,4,4,4,4,4,4,4,Domestic,Economy,Charlotte - Phoenix
+1167,M,65+,31/3/2018,18-Mar,3,5,4,3,3,3,3,5,Domestic,Economy,Harrisburg - Raleigh
+1168,F,50-64,31/3/2018,18-Feb,4,5,4,4,5,5,3,4,Domestic,Economy,Los Angeles - Honolulu
+1169,F,35-49,31/3/2018,18-Mar,2,3,1,2,2,3,3,2,International,Economy,Budapest - San Juan
+1170,M,65+,30/3/2018,18-Mar,3,4,4,3,3,2,3,2,Caribbean,Economy,Evansville - Nassau
+1171,M,50-64,30/3/2018,18-Mar,5,5,5,5,5,5,5,5,Domestic,Economy,Pittsburgh - Philadelphia
+1172,F,50-64,30/3/2018,18-Mar,5,3,3,2,5,5,3,3,Domestic,Economy,Durango - Washington DC
+1173,M,35-49,30/3/2018,18-Mar,1,3,3,3,2,3,2,3,Domestic,Economy,Chicago - Las Vegas
+1174,F,50-64,30/3/2018,18-Mar,1,3,1,3,1,3,2,2,Caribbean,Economy,Philadelphia - Montego Bay
+1175,M,50-64,30/3/2018,18-Mar,4,5,4,4,4,4,4,5,Mexico,Economy,Chicago - Cancun
+1176,F,35-49,30/3/2018,18-Mar,2,4,3,2,2,3,4,4,USA,Economy,Los Cabos - Phoenix
+1177,M,50-64,30/3/2018,,3,4,4,3,2,3,4,4,Domestic,Economy,Raleigh - Chicago
+1178,M,25-34,30/3/2018,18-Mar,5,4,5,5,5,5,1,5,Domestic,Economy,Oklahoma City - Maui
+1179,M,25-34,30/3/2018,18-Mar,3,3,4,2,3,5,3,4,International,Economy,Dallas - London
+1180,F,50-64,29/3/2018,18-Mar,5,2,5,1,4,4,4,4,Domestic,Economy,Miami - San Francisco
+1181,F,50-64,29/3/2018,17-Apr,2,3,5,2,4,5,1,3,International,Economy,Bridgetown - Miami
+1182,F,25-34,29/3/2018,18-Mar,3,3,4,1,3,1,2,5,USA,Economy,Montreal - Los Angeles
+1183,F,50-64,29/3/2018,18-Mar,3,4,3,3,3,3,3,4,Domestic,Economy,Buffalo - Savannah
+1184,M,50-64,29/3/2018,18-Mar,3,4,4,3,3,4,4,4,Domestic,Economy,Salt Lake City - New York City
+1185,F,50-64,29/3/2018,18-Mar,4,4,4,4,4,3,4,4,Domestic,Economy,Nashville - Phoenix
+1186,M,35-49,29/3/2018,18-Mar,3,5,5,3,5,5,3,4,Domestic,Economy,Dallas - Los Angeles
+1187,F,50-64,29/3/2018,18-Mar,4,4,4,4,4,4,4,5,Caribbean,Economy,Boston - Curacao
+1188,F,50-64,28/3/2018,18-Mar,3,1,3,2,3,2,1,1,Caribbean,Economy,Syracuse - Puerto Plata
+1189,M,50-64,28/3/2018,,3,3,3,3,3,1,3,2,Domestic,Economy,Abilene - Kansas City
+1190,M,50-64,28/3/2018,18-Feb,5,5,5,5,4,5,4,5,Domestic,Economy,Detroit - Honolulu
+1191,M,35-49,28/3/2018,18-Jan,5,5,5,5,5,2,5,5,Domestic,Business Class,New York City - West Palm Beach
+1192,M,25-34,28/3/2018,18-Mar,5,4,4,4,5,5,4,4,Domestic,Economy,Dallas - Las Vegas
+1193,F,50-64,28/3/2018,18-Mar,2,4,4,3,4,4,4,4,International,Economy,Los Angeles - Auckland
+1194,M,50-64,28/3/2018,18-Mar,3,1,2,2,3,1,1,2,Domestic,Business Class,Seattle - Hartford
+1195,M,50-64,28/3/2018,18-Mar,5,4,5,3,5,4,5,5,Domestic,First Class,Colorado Springs - Dallas
+1196,M,65+,28/3/2018,18-Jan,2,3,5,2,3,3,3,5,Domestic,Economy,Wausau - Tampa
+1197,F,35-49,28/3/2018,18-Feb,3,1,4,3,3,3,4,2,International,Economy,Providenciales - Charlotte
+1198,M,50-64,28/3/2018,18-Mar,1,1,1,1,1,1,1,3,Domestic,Economy,Chicago - Houston
+1199,F,50-64,27/3/2018,18-Mar,2,1,3,3,2,4,2,3,Caribbean,Economy,Charlotte - Antigua
+1200,M,50-64,27/3/2018,,5,5,5,5,4,5,5,5,Domestic,Economy,Dallas - Seattle
+1201,M,35-49,27/3/2018,18-Mar,3,4,5,3,4,4,4,4,Domestic,Economy,Providence - Denver
+1202,M,50-64,27/3/2018,18-Mar,3,4,4,3,3,2,4,4,Domestic,Economy,Phoenix - Montrose
+1203,M,65+,27/3/2018,18-Mar,2,4,4,2,2,1,3,5,Caribbean,Economy,Pittsburgh - Montego Bay
+1204,M,35-49,27/3/2018,18-Mar,4,5,4,4,4,5,3,4,Mexico,Economy,Dallas - Cancun
+1205,M,35-49,27/3/2018,18-Mar,4,5,5,3,4,4,4,5,Domestic,Economy,Los Angeles - Maui
+1206,M,50-64,26/3/2018,18-Mar,5,5,4,3,5,3,4,5,Domestic,Business Class,Nashville - Tucson
+1207,M,65+,26/3/2018,18-Mar,3,5,4,5,3,2,3,2,International,Economy,Detroit - Manchester
+1208,M,50-64,26/3/2018,18-Mar,3,4,4,4,3,4,5,4,Domestic,Economy,Dallas - New York City
+1209,M,65+,26/3/2018,18-Feb,3,4,3,1,3,1,3,4,International,Business Class,Punta Cana - Charlotte
+1210,M,65+,26/3/2018,18-Mar,4,3,4,2,4,1,1,4,Caribbean,Business Class,Charlotte - Punta Cana
+1211,F,18-24,26/3/2018,,4,4,4,3,4,5,3,4,International,Economy,Bridgetown - Miami
+1212,F,50-64,26/3/2018,18-Mar,2,3,4,3,2,1,3,4,Domestic,Economy,Boston - Phoenix
+1213,M,50-64,26/3/2018,18-Mar,3,5,5,3,3,5,4,5,Domestic,Economy,Charlotte - Las Vegas
+1214,M,50-64,25/3/2018,18-Mar,2,1,2,3,2,1,3,1,Domestic,Economy,Detroit - New York City
+1215,M,50-64,25/3/2018,18-Mar,4,5,4,3,5,3,4,4,Domestic,Business Class,Hartford - Washington DC
+1216,M,65+,25/3/2018,18-Mar,3,5,5,4,3,4,4,5,Domestic,Economy,Omaha - Phoenix
+1217,M,35-49,25/3/2018,18-Feb,4,5,5,3,4,3,5,5,Domestic,Economy,New York City - Nashville
+1218,M,18-24,25/3/2018,18-Mar,3,4,3,3,3,4,2,1,Domestic,Economy,Los Angeles - Memphis
+1219,F,35-49,24/3/2018,18-Mar,3,4,4,3,3,2,4,4,International,Economy,San Jose - Phoenix
+1220,F,50-64,24/3/2018,18-Mar,3,5,5,3,3,3,5,5,Domestic,Economy,Sacramento - Phoenix
+1221,M,50-64,24/3/2018,18-Mar,5,5,5,5,5,2,5,5,Domestic,Economy,San Antonio - Las Vegas
+1222,M,50-64,24/3/2018,18-Jan,2,3,3,1,2,3,3,1,Domestic,Economy,Atlanta - Dallas
+1223,M,35-49,23/3/2018,18-Mar,4,4,4,4,5,2,4,4,Mexico,Business Class,Dallas - Mexico City
+1224,M,65+,23/3/2018,17-Dec,4,4,5,5,3,4,4,5,Domestic,Economy,Maui - Dallas
+1225,M,50-64,23/3/2018,18-Mar,1,2,2,2,1,1,1,1,Domestic,Economy,New Orleans - Waco
+1226,M,65+,23/3/2018,18-Mar,5,5,5,5,5,4,4,5,Domestic,First Class,Saint Louis - Charleston
+1227,M,65+,23/3/2018,18-Mar,5,5,5,5,5,5,5,5,International,First Class,St Martin / St Maarten - Miami
+1228,M,65+,23/3/2018,18-Mar,3,4,4,3,3,3,3,4,International,Economy,Springfield - San Jose
+1229,M,50-64,23/3/2018,18-Mar,4,4,4,2,4,3,3,5,Domestic,Economy,New York City - Vail
+1230,M,35-49,23/3/2018,18-Mar,3,4,4,2,4,4,4,3,Domestic,Economy,Miami - San Francisco
+1231,M,50-64,23/3/2018,18-Mar,5,5,5,3,5,4,5,5,Domestic,First Class,Columbus - Dallas
+1232,F,50-64,23/3/2018,18-Mar,4,5,5,3,4,4,4,5,Domestic,Economy,San Angelo - Seattle
+1233,F,50-64,22/3/2018,18-Mar,4,4,4,3,4,4,3,4,Domestic,Economy,Los Angeles - Lihue
+1234,M,35-49,22/3/2018,18-Mar,2,2,3,2,3,4,3,2,Domestic,Economy,San Diego - Miami
+1235,M,50-64,22/3/2018,18-Feb,4,4,4,3,4,4,4,4,Domestic,Economy,Dallas - Las Vegas
+1236,M,50-64,22/3/2018,18-Mar,3,2,3,2,3,3,3,3,Domestic,Economy,Saint Louis - Phoenix
+1237,M,35-49,22/3/2018,17-Dec,3,5,5,5,4,5,5,5,International,Economy,Philadelphia - London
+1238,F,65+,21/3/2018,18-Mar,5,3,5,4,5,5,4,5,International,Economy,Buenos Aires - Houston
+1239,F,50-64,21/3/2018,18-Mar,5,5,5,4,5,5,4,5,Domestic,First Class,Las Vegas - Honolulu
+1240,M,65+,21/3/2018,18-Mar,1,1,3,1,1,1,1,2,Domestic,Economy,New York City - Miami
+1241,M,65+,21/3/2018,18-Mar,3,1,3,1,3,3,2,3,Domestic,Economy,Phoenix - Kailua-Kona
+1242,F,35-49,21/3/2018,18-Mar,1,3,2,3,4,3,1,2,Domestic,Economy,New York City - Las Vegas
+1243,M,50-64,20/3/2018,18-Mar,2,2,4,3,3,3,3,2,Domestic,Economy,Phoenix - Kansas City
+1244,M,50-64,20/3/2018,18-Mar,2,3,4,3,3,3,3,2,Domestic,Economy,Kansas City - Phoenix
+1245,M,50-64,20/3/2018,18-Feb,1,1,2,1,1,1,1,2,Domestic,Economy,Sacramento - West Palm Beach
+1246,M,35-49,20/3/2018,,4,3,5,3,3,4,4,4,Domestic,Economy,Los Angeles - Atlanta
+1247,F,65+,20/3/2018,18-Mar,3,4,4,3,4,3,4,4,Domestic,Economy,Milwaukee - Tucson
+1248,F,50-64,20/3/2018,18-Mar,3,5,3,3,5,3,4,3,USA,Economy,Ottawa - San Diego
+1249,F,50-64,20/3/2018,18-Feb,3,4,3,3,2,2,3,5,Domestic,Economy,Charlotte - Key West
+1250,F,50-64,20/3/2018,18-Mar,2,3,4,2,3,3,3,4,Domestic,Economy,Phoenix - Santa Fe
+1251,M,35-49,20/3/2018,18-Mar,2,3,5,3,2,4,3,4,Domestic,Economy,Buffalo - San Francisco
+1252,M,50-64,20/3/2018,18-Feb,4,4,4,4,5,2,3,5,Domestic,First Class,Tampa - Dallas
+1253,F,25-34,20/3/2018,18-Mar,3,2,3,3,3,4,2,1,Domestic,Economy,Los Angeles - New York City
+1254,M,50-64,20/3/2018,18-Mar,5,5,5,5,5,3,5,5,Domestic,Economy,Detroit - Phoenix
+1255,F,50-64,19/3/2018,18-Feb,1,1,2,2,1,1,1,2,Domestic,Economy,Columbus - Phoenix
+1256,M,50-64,19/3/2018,17-Dec,3,2,4,3,3,5,3,4,International,Economy,London - Dallas
+1257,M,50-64,19/3/2018,18-Feb,4,4,4,4,4,4,4,4,Domestic,Economy,Honolulu - Dallas
+1258,F,50-64,19/3/2018,17-Sep,3,4,4,4,3,2,4,5,Mexico,Economy,Peoria - Cancun
+1259,F,50-64,19/3/2018,18-Mar,3,3,2,2,2,3,1,3,Mexico,Economy,Boston - Los Cabos
+1260,F,50-64,18/3/2018,18-Feb,1,2,2,1,1,1,3,2,Domestic,Economy,Phoenix - Maui
+1261,F,35-49,18/3/2018,18-Mar,5,5,5,3,5,3,5,5,Domestic,Economy,Charlotte - Spokane
+1262,F,65+,18/3/2018,,2,1,2,1,2,1,1,1,Domestic,Economy,Philadelphia - Orlando
+1263,F,25-34,18/3/2018,,4,4,5,3,3,2,4,5,Domestic,Economy,White Plains - Las Vegas
+1264,M,65+,18/3/2018,18-Feb,5,5,5,4,5,4,4,2,International,Business Class,Grand Cayman - Dallas
+1265,M,65+,18/3/2018,18-Mar,3,2,4,4,2,1,3,4,Domestic,Economy,Seattle - Dallas
+1266,F,50-64,17/3/2018,18-Mar,5,3,4,4,5,4,3,4,International,Economy,Nashville - London
+1267,M,50-64,17/3/2018,18-Feb,2,1,3,1,2,2,2,1,Domestic,Economy,Los Angeles - Boston
+1268,M,65+,17/3/2018,18-Mar,3,5,4,2,4,4,3,4,Domestic,Economy,Charlotte - San Diego
+1269,M,65+,17/3/2018,18-Mar,3,3,4,3,3,2,3,4,International,Economy,Zurich - New York City
+1270,M,50-64,17/3/2018,18-Feb,5,5,5,5,4,5,5,5,International,Economy,Auckland - Los Angeles
+1271,F,65+,17/3/2018,,5,5,5,5,5,5,5,5,International,Business Class,Lima - Charlotte
+1272,M,50-64,17/3/2018,18-Mar,2,1,2,1,2,1,2,1,International,Economy,London - Miami
+1273,M,50-64,17/3/2018,18-Feb,5,2,3,3,5,5,3,3,Domestic,First Class,Pittsburgh - Maui
+1274,M,65+,17/3/2018,,3,3,3,3,2,3,3,3,USA,Economy,Los Cabos - Chicago
+1275,M,35-49,17/3/2018,18-Mar,3,4,3,3,3,2,3,3,Domestic,Economy,Philadelphia - Rochester
+1276,M,50-64,16/3/2018,18-Mar,3,5,3,2,2,3,3,3,Domestic,Economy,Colorado Springs - Austin
+1277,F,50-64,16/3/2018,18-Mar,3,3,3,3,3,1,3,4,Domestic,Economy,Tampa - Dallas
+1278,F,65+,16/3/2018,18-Mar,3,3,3,3,3,3,3,3,Domestic,Economy,Kalamazoo - Philadelphia
+1279,F,25-34,16/3/2018,18-Feb,3,2,3,3,3,1,2,4,Domestic,Economy,Dallas - Charleston
+1280,M,50-64,16/3/2018,18-Feb,3,1,5,1,3,1,3,2,Domestic,Economy,San Francisco - Los Angeles
+1281,M,50-64,16/3/2018,,2,3,5,4,2,4,5,4,International,Economy,Los Angeles - Auckland
+1282,F,50-64,16/3/2018,18-Mar,3,4,4,3,3,2,2,3,Domestic,Economy,Tucson - Portland
+1283,M,50-64,16/3/2018,,4,4,5,3,5,5,5,5,International,Economy,Paris - Dallas
+1284,M,50-64,15/3/2018,18-Jan,3,4,3,3,3,3,3,3,Domestic,Economy,Fresno - Phoenix
+1285,F,35-49,15/3/2018,18-Mar,5,5,4,5,4,4,4,5,International,Business Class,Grand Cayman - Montreal
+1286,F,50-64,15/3/2018,18-Mar,3,4,3,3,3,3,3,4,International,Economy,Charlotte - Dublin
+1287,M,65+,15/3/2018,18-Jan,3,4,4,3,3,2,3,2,International,Economy,Buenos Aires - Miami
+1288,F,50-64,15/3/2018,18-Mar,5,5,4,5,5,4,5,4,Domestic,First Class,Phoenix - Minneapolis
+1289,F,35-49,15/3/2018,18-Feb,4,4,5,4,4,5,3,5,International,Economy,Philadelphia - Madrid
+1290,M,50-64,15/3/2018,18-Feb,3,3,3,3,3,3,2,3,Domestic,Economy,Maui - Los Angeles
+1291,M,50-64,15/3/2018,18-Mar,3,5,4,4,3,3,4,2,Domestic,Economy,Key West - Columbus
+1292,M,50-64,15/3/2018,18-Feb,3,4,3,1,3,2,2,4,Caribbean,Economy,Boston - St. Kitts
+1293,M,50-64,14/3/2018,18-Mar,2,4,3,3,1,3,3,3,International,Economy,San Jose - Nashville
+1294,F,65+,14/3/2018,18-Mar,1,2,2,1,1,1,1,1,Domestic,Economy,Los Angeles - Philadelphia
+1295,M,35-49,14/3/2018,18-Feb,3,4,3,3,3,5,3,3,Caribbean,Economy,Chicago - Montego Bay
+1296,M,65+,14/3/2018,,3,3,4,4,3,4,3,4,Domestic,Economy,Dallas - Miami
+1297,F,50-64,14/3/2018,17-Sep,3,3,3,3,2,1,3,3,Domestic,Economy,Atlanta - Philadelphia
+1298,M,50-64,14/3/2018,18-Feb,2,4,4,1,2,1,2,2,Domestic,Economy,Miami - Orlando
+1299,M,35-49,14/3/2018,18-Feb,4,5,5,5,4,3,5,5,Domestic,Economy,Philadelphia - Charlotte
+1300,M,25-34,14/3/2018,18-Mar,3,4,3,3,3,3,3,3,Domestic,Economy,Phoenix - Key West
+1301,F,25-34,14/3/2018,18-Mar,3,3,3,3,3,3,3,2,Caribbean,Economy,Chicago - St. Lucia
+1302,F,50-64,14/3/2018,18-Mar,3,4,4,3,3,5,3,5,International,Economy,Seoul - Albuquerque
+1303,M,65+,13/3/2018,18-Jan,3,4,3,2,3,1,3,1,Mexico,Economy,Los Angeles - Puerto Vallarta
+1304,M,25-34,13/3/2018,18-Mar,3,4,3,3,3,5,3,4,Domestic,First Class,Honolulu - Los Angeles
+1305,M,65+,13/3/2018,18-Feb,4,5,4,4,5,3,4,4,Domestic,First Class,Los Angeles - Chicago
+1306,F,50-64,13/3/2018,18-Feb,2,1,3,1,2,1,1,4,Caribbean,Economy,Grand Junction - Cayman Brac
+1307,M,65+,13/3/2018,18-Mar,3,3,3,3,3,3,3,3,Domestic,Economy,Champaign - Orlando
+1308,M,50-64,13/3/2018,17-Oct,4,3,5,3,4,1,5,2,Domestic,Economy,Phoenix - Wilmington
+1309,F,50-64,13/3/2018,18-Mar,4,4,4,4,4,4,4,4,International,Economy,Nassau - New York City
+1310,M,35-49,13/3/2018,18-Feb,3,5,3,2,4,4,4,5,Domestic,Economy,Dallas - Las Vegas
+1311,M,35-49,13/3/2018,18-Mar,3,2,3,1,2,1,2,2,Caribbean,Economy,Ottawa - Curacao
+1312,M,50-64,13/3/2018,18-Feb,3,4,4,2,3,1,3,4,Domestic,Economy,Charlotte - Los Angeles
+1313,F,50-64,13/3/2018,18-Feb,3,5,5,5,4,2,3,5,Domestic,Economy,Myrtle Beach - Baltimore
+1314,M,50-64,13/3/2018,17-Dec,3,2,2,2,4,3,3,4,International,Economy,Miami - Sao Paulo
+1315,M,50-64,13/3/2018,18-Mar,4,4,4,4,4,5,4,4,International,Economy,Dallas - London
+1316,M,35-49,13/3/2018,18-Feb,3,4,4,3,3,2,4,4,International,Economy,Hong Kong - Los Angeles
+1317,M,35-49,13/3/2018,18-Feb,4,4,4,4,4,4,4,4,International,Economy,Dallas - Seoul
+1318,M,50-64,13/3/2018,18-Feb,3,4,4,3,3,3,3,3,USA,Economy,Toronto - San Francisco
+1319,M,50-64,2018/12/3 0:00,17-Nov,5,5,5,4,4,3,3,5,International,Business Class,Los Angeles - Hong Kong
+1320,M,65+,2018/12/3 0:00,18-Mar,5,5,5,3,5,3,5,5,USA,Economy,Puerto Vallarta - West Palm Beach
+1321,M,50-64,2018/12/3 0:00,18-Feb,3,3,3,4,3,3,4,4,Domestic,Economy,Boston - Dallas
+1322,F,50-64,2018/12/3 0:00,18-Mar,4,5,5,4,4,5,5,5,Domestic,Economy,Philadelphia - Tallahassee
+1323,F,35-49,2018/12/3 0:00,18-Feb,2,3,3,1,3,3,3,2,Domestic,Economy,Marquette - Phoenix
+1324,F,35-49,2018/12/3 0:00,17-Apr,1,1,2,1,3,1,1,1,Domestic,First Class,Las Vegas - Philadelphia
+1325,M,65+,2018/12/3 0:00,18-Feb,2,1,3,2,2,3,3,2,USA,Economy,Cancun - Dayton
+1326,M,50-64,2018/12/3 0:00,18-Feb,2,3,3,3,2,3,2,2,Domestic,First Class,Little Rock - Indianapolis
+1327,M,50-64,2018/12/3 0:00,18-Feb,4,4,4,4,4,3,4,5,International,Economy,Aruba - Charlotte
+1328,M,50-64,2018/12/3 0:00,18-Mar,4,1,4,3,3,4,3,1,Caribbean,Economy,Baltimore - Puerto Plata
+1329,M,35-49,2018/12/3 0:00,18-Mar,3,5,5,3,3,5,5,5,Caribbean,First Class,Manchester - Nassau
+1330,F,50-64,2018/12/3 0:00,18-Mar,3,3,4,3,3,3,3,1,International,Economy,Paramaribo - Washington DC
+1331,F,65+,2018/12/3 0:00,18-Mar,4,4,4,3,4,3,3,3,International,Economy,Philadelphia - London
+1332,M,65+,2018/11/3 0:00,18-Mar,3,4,4,3,3,3,3,4,Domestic,Economy,Charlotte - Shreveport
+1333,F,50-64,2018/11/3 0:00,18-Mar,1,4,3,5,1,1,1,1,Domestic,Business Class,El Paso - San Diego
+1334,M,50-64,2018/11/3 0:00,18-Jan,5,5,5,5,5,5,5,5,Domestic,Economy,Montgomery - Washington DC
+1335,M,65+,2018/11/3 0:00,18-Feb,5,5,5,5,5,3,5,5,Domestic,Economy,Newark - Miami
+1336,M,50-64,2018/11/3 0:00,,4,5,5,4,4,5,5,5,International,Economy,Washington DC - Barcelona
+1337,M,50-64,2018/11/3 0:00,18-Feb,5,5,4,2,4,5,4,4,Domestic,Economy,Orlando - Little Rock
+1338,F,35-49,2018/11/3 0:00,18-Mar,3,1,3,1,3,3,3,1,Caribbean,Economy,New York City - Punta Cana
+1339,M,65+,2018/11/3 0:00,17-Oct,4,5,5,3,4,4,5,5,Domestic,Economy,Richmond - Orlando
+1340,F,50-64,2018/11/3 0:00,18-Mar,5,5,5,5,5,5,5,5,International,Business Class,London - Miami
+1341,M,25-34,2018/10/3 0:00,18-Feb,2,2,2,3,2,1,4,3,Domestic,First Class,Miami - Philadelphia
+1342,M,50-64,2018/10/3 0:00,18-Feb,5,5,5,4,5,5,5,4,Domestic,First Class,Denver - Dallas
+1343,M,50-64,2018/10/3 0:00,18-Feb,3,4,3,4,4,4,4,4,Caribbean,Business Class,Philadelphia - San Juan
+1344,M,50-64,2018/10/3 0:00,18-Mar,4,5,5,5,3,5,5,5,Domestic,Economy,Nashville - Hartford
+1345,M,65+,2018/10/3 0:00,18-Mar,3,5,5,3,1,5,5,5,International,Economy,Miami - Rio de Janeiro
+1346,M,65+,2018/10/3 0:00,18-Mar,3,1,3,2,3,3,3,1,International,Economy,San Juan - London
+1347,M,65+,2018/9/3 0:00,18-Feb,3,2,3,2,3,2,2,4,Domestic,Economy,Los Angeles - Philadelphia
+1348,M,35-49,2018/9/3 0:00,18-Mar,4,4,4,4,4,4,4,4,Mexico,Economy,Syracuse - Cancun
+1349,M,25-34,2018/9/3 0:00,18-Feb,2,3,5,1,2,5,2,4,Domestic,Economy,Tampa - Miami
+1350,M,50-64,2018/8/3 0:00,18-Mar,4,3,5,3,4,2,3,1,Mexico,Economy,Las Vegas - Cancun
+1351,F,50-64,2018/8/3 0:00,18-Feb,3,3,3,3,3,1,2,3,Domestic,Economy,Chicago - Miami
+1352,M,50-64,2018/8/3 0:00,18-Mar,2,1,3,1,2,4,4,3,Domestic,Economy,Los Angeles - Boston
+1353,M,65+,2018/8/3 0:00,18-Feb,3,5,4,3,3,3,3,4,Domestic,Economy,Evansville - Dallas
+1354,M,50-64,2018/8/3 0:00,18-Feb,3,4,4,3,3,3,3,4,Domestic,Economy,Las Vegas - San Diego
+1355,M,50-64,2018/8/3 0:00,17-Aug,3,3,3,2,3,3,1,3,Domestic,Economy,Miami - Boston
+1356,M,35-49,2018/8/3 0:00,18-Feb,3,3,3,3,3,3,3,3,International,Economy,London - Dallas
+1357,M,50-64,2018/7/3 0:00,18-Mar,5,5,4,3,4,5,5,5,Mexico,Economy,Toledo - Guadalajara
+1358,M,35-49,2018/7/3 0:00,,4,4,5,4,4,5,4,5,Domestic,Economy,San Francisco - New York City
+1359,F,65+,2018/7/3 0:00,18-Feb,2,3,4,1,1,2,3,4,Domestic,Economy,Columbus - Phoenix
+1360,M,50-64,2018/7/3 0:00,18-Feb,4,5,4,4,4,4,4,5,International,Business Class,Dallas - Hong Kong
+1361,M,35-49,2018/7/3 0:00,18-Feb,4,4,5,3,3,2,3,5,Domestic,Economy,San Diego - New York City
+1362,M,50-64,2018/7/3 0:00,18-Mar,5,5,5,4,5,5,2,5,Domestic,First Class,New York City - Palm Springs
+1363,F,35-49,2018/7/3 0:00,18-Feb,1,3,3,1,1,3,1,3,International,Economy,New York City - London
+1364,M,65+,2018/6/3 0:00,18-Feb,4,4,4,4,5,4,3,4,Domestic,First Class,Phoenix - Fresno
+1365,M,25-34,2018/6/3 0:00,18-Feb,2,5,2,4,2,1,4,3,Domestic,First Class,Philadelphia - Tampa
+1366,M,25-34,2018/6/3 0:00,18-Mar,4,5,5,3,3,2,5,3,Domestic,First Class,Washington DC - Philadelphia
+1367,M,25-34,2018/6/3 0:00,18-Mar,3,4,5,2,5,5,3,3,Domestic,Economy,Dallas - Washington DC
+1368,F,35-49,2018/6/3 0:00,,1,1,1,1,1,1,1,1,USA,Economy,Toronto - Tampa
+1369,M,25-34,2018/6/3 0:00,18-Feb,4,3,4,4,3,4,4,4,International,Economy,London - Raleigh
+1370,M,65+,2018/6/3 0:00,18-Feb,3,3,3,3,3,3,4,4,Domestic,Economy,Phoenix - Portland
+1371,M,50-64,2018/6/3 0:00,18-Feb,3,4,4,3,4,1,4,4,Domestic,Economy,Seattle - Philadelphia
+1372,F,65+,2018/6/3 0:00,18-Feb,5,5,5,5,5,5,5,5,International,Business Class,London - Chicago
+1373,M,50-64,2018/6/3 0:00,17-Nov,2,4,3,2,2,2,3,4,Domestic,Economy,Dallas - Fort Myers
+1374,M,50-64,2018/6/3 0:00,17-Oct,5,5,5,5,4,5,4,5,International,Economy,Medellin - Miami
+1375,M,65+,2018/6/3 0:00,,3,4,4,4,3,4,4,5,International,Economy,Paris - Columbia
+1376,F,65+,2018/5/3 0:00,18-Mar,3,4,3,1,3,3,1,5,Domestic,Economy,Cleveland - Miami
+1377,F,35-49,2018/5/3 0:00,18-Feb,3,3,1,2,3,3,3,2,International,Economy,Los Angeles - Sydney
+1378,M,50-64,2018/5/3 0:00,18-Feb,4,2,4,3,4,3,3,2,Domestic,Business Class,Miami - Saint Louis
+1379,M,50-64,2018/5/3 0:00,18-Mar,2,4,2,3,2,4,3,4,USA,Economy,Mexico City - Miami
+1380,F,25-34,2018/5/3 0:00,18-Feb,3,4,3,3,3,4,3,4,International,Economy,Dublin - Philadelphia
+1381,M,65+,2018/5/3 0:00,18-Mar,5,4,5,4,5,4,4,5,International,Business Class,Charlotte - London
+1382,M,50-64,2018/5/3 0:00,18-Feb,3,5,5,4,3,2,4,3,Domestic,Economy,Milwaukee - Dallas
+1383,F,50-64,2018/4/3 0:00,,5,5,5,5,5,1,5,5,Domestic,Business Class,New York City - Las Vegas
+1384,M,65+,2018/4/3 0:00,18-Jan,5,5,5,3,5,5,4,5,Caribbean,Business Class,Albuquerque - Montego Bay
+1385,M,65+,2018/4/3 0:00,17-Dec,3,3,4,2,2,1,3,2,Domestic,Economy,Myrtle Beach - Palm Springs
+1386,F,65+,2018/4/3 0:00,18-Feb,2,4,4,3,4,3,3,3,USA,Economy,Cancun - Chicago
+1387,M,35-49,2018/4/3 0:00,18-Mar,5,5,5,3,4,5,4,5,International,Economy,Mexico City - San Pedro Sula
+1388,F,50-64,2018/4/3 0:00,18-Feb,3,1,4,2,3,3,2,3,Domestic,Economy,Tallahassee - Phoenix
+1389,M,65+,2018/4/3 0:00,18-Feb,4,5,5,5,5,5,5,5,Domestic,Business Class,Charlotte - Phoenix
+1390,M,50-64,2018/4/3 0:00,,1,3,3,1,1,3,3,1,Domestic,Economy,Dallas - Atlanta
+1391,M,35-49,2018/4/3 0:00,18-Jan,2,2,3,1,1,1,2,2,Domestic,Economy,Fort Lauderdale - Dallas
+1392,F,50-64,2018/3/3 0:00,18-Jan,3,2,3,3,3,1,2,3,International,Economy,Syracuse - San Jose
+1393,M,50-64,2018/3/3 0:00,18-Feb,4,5,3,4,5,4,3,4,Domestic,Economy,Tallahassee - Chicago
+1394,M,65+,2018/3/3 0:00,18-Feb,2,5,4,4,2,2,3,5,Mexico,Economy,Phoenix - Los Cabos
+1395,F,50-64,2018/3/3 0:00,18-Feb,4,3,4,2,4,2,2,2,Domestic,Business Class,Portland - West Palm Beach
+1396,M,50-64,2018/3/3 0:00,18-Jan,2,2,4,3,2,3,3,4,Domestic,Economy,Newark - Abilene
+1397,M,35-49,2018/3/3 0:00,18-Feb,3,2,3,2,3,4,3,4,International,Economy,Dallas - San Jose
+1398,M,50-64,2018/2/3 0:00,18-Feb,5,5,5,3,3,5,4,5,Caribbean,Economy,San Jose - Punta Cana
+1399,M,65+,2018/2/3 0:00,,3,4,3,3,3,1,3,4,Domestic,Economy,Huntington - Fort Lauderdale
+1400,F,35-49,2018/2/3 0:00,18-Feb,3,3,2,2,3,1,2,3,Domestic,First Class,Philadelphia - San Diego
+1401,F,50-64,2018/2/3 0:00,18-Feb,4,3,3,2,4,4,3,3,International,First Class,Miami - Barranquilla
+1402,M,65+,2018/2/3 0:00,17-Dec,3,5,4,3,2,3,3,5,Domestic,Economy,Portland - Miami
+1403,F,50-64,2018/2/3 0:00,18-Jan,4,4,3,3,3,4,3,4,International,Economy,Kansas City - Belize City
+1404,F,35-49,2018/2/3 0:00,18-Feb,3,1,1,1,3,1,3,1,International,Economy,Punta Cana - New York City
+1405,M,65+,2018/2/3 0:00,17-May,1,2,2,2,2,3,2,1,Domestic,Economy,Phoenix - New York City
+1406,M,50-64,2018/2/3 0:00,18-Jan,3,4,4,3,3,2,4,4,Domestic,Economy,Los Angeles - Houston
+1407,M,50-64,2018/1/3 0:00,18-Feb,4,5,5,5,3,4,5,5,International,Economy,Auckland - Los Angeles
+1408,M,50-64,2018/1/3 0:00,18-Feb,4,5,4,5,4,2,4,5,Domestic,First Class,Las Vegas - Dallas
+1409,M,65+,2018/1/3 0:00,18-Feb,5,5,5,5,5,5,5,5,Mexico,Business Class,Dallas - Puerto Vallarta
+1410,M,65+,2018/1/3 0:00,18-Feb,3,3,4,3,3,2,3,1,Domestic,Economy,Houston - Charlotte
+1411,F,50-64,2018/1/3 0:00,18-Feb,3,2,3,3,3,2,2,1,Caribbean,Economy,Minneapolis - Aruba
+1412,M,50-64,2018/1/3 0:00,18-Feb,4,5,5,3,3,4,5,5,Domestic,Economy,Dallas - San Francisco
+1413,M,50-64,2018/1/3 0:00,18-Feb,4,3,4,2,4,3,3,4,Domestic,Economy,Miami - Dallas
+1414,M,25-34,28/2/2018,18-Feb,4,4,5,3,5,3,5,5,Domestic,First Class,Colorado Springs - Dallas
+1415,M,50-64,28/2/2018,18-Feb,3,3,4,3,4,1,2,3,Domestic,Economy,Detroit - Phoenix
+1416,M,25-34,28/2/2018,,3,4,4,3,3,4,4,2,Domestic,Economy,Atlanta - Los Angeles
+1417,M,35-49,28/2/2018,18-Feb,4,5,5,4,5,5,4,5,International,Economy,Dublin - Nashville
+1418,F,25-34,28/2/2018,18-Feb,3,1,3,1,3,1,1,1,Domestic,First Class,Boston - Miami
+1419,F,50-64,27/2/2018,18-Feb,2,5,3,3,1,4,3,3,Domestic,Economy,Ontario - Dallas
+1420,M,50-64,27/2/2018,18-Jan,1,4,2,3,1,3,1,3,Domestic,Economy,Greenville - Dallas
+1421,M,65+,27/2/2018,18-Jan,2,4,4,3,2,3,3,3,Domestic,First Class,Dayton - Jackson
+1422,F,50-64,27/2/2018,18-Feb,5,5,5,5,5,5,4,4,Domestic,First Class,New York City - Phoenix
+1423,M,50-64,27/2/2018,18-Feb,3,5,3,5,1,1,2,5,Caribbean,Economy,Miami - St. Kitts
+1424,M,50-64,26/2/2018,18-Feb,5,4,4,3,5,4,4,5,International,Business Class,Los Angeles - Hong Kong
+1425,M,50-64,26/2/2018,18-Jan,4,1,4,2,4,4,3,3,International,Economy,Sydney - Los Angeles
+1426,F,50-64,26/2/2018,18-Feb,3,1,1,1,3,1,1,1,Domestic,Business Class,Ontario - Tampa
+1427,F,50-64,26/2/2018,,4,4,5,3,4,4,4,5,Domestic,Economy,Kalamazoo - Lihue
+1428,F,35-49,26/2/2018,18-Feb,5,3,5,3,4,5,3,4,Domestic,Economy,Los Angeles - Atlanta
+1429,M,50-64,26/2/2018,18-Feb,5,4,3,2,4,2,3,4,Canada,Economy,Orlando - Toronto
+1430,M,50-64,26/2/2018,18-Feb,5,4,5,4,5,5,5,5,International,Economy,Los Angeles - Auckland
+1431,F,50-64,26/2/2018,18-Feb,4,3,4,3,3,5,3,5,Mexico,Economy,Tucson - Cozumel
+1432,M,50-64,26/2/2018,18-Feb,2,4,3,3,3,4,3,4,Domestic,Economy,Texarkana - Omaha
+1433,M,65+,26/2/2018,18-Feb,2,3,4,3,1,4,2,5,International,Economy,Los Angeles - Auckland
+1434,M,50-64,25/2/2018,17-Dec,3,4,3,3,2,1,3,3,Caribbean,Economy,Detroit - Punta Cana
+1435,F,35-49,25/2/2018,18-Feb,4,4,4,3,4,4,4,4,Mexico,Business Class,San Francisco - Mazatlan
+1436,F,65+,25/2/2018,18-Feb,3,4,4,2,3,4,3,3,International,Economy,Miami - Managua
+1437,M,35-49,25/2/2018,18-Feb,4,4,4,5,4,5,4,4,International,Business Class,Chicago - Shanghai
+1438,M,65+,25/2/2018,18-Feb,4,3,4,3,4,3,4,3,International,Economy,Santiago - Miami
+1439,F,50-64,25/2/2018,18-Jan,4,5,5,4,4,4,5,5,Domestic,Economy,Toledo - San Diego
+1440,F,50-64,25/2/2018,18-Feb,3,4,4,4,4,3,4,4,Domestic,Economy,Dallas - Las Vegas
+1441,F,50-64,25/2/2018,18-Feb,4,4,3,3,4,4,2,4,Mexico,First Class,Dallas - Cancun
+1442,F,50-64,24/2/2018,,1,5,4,1,1,4,1,4,Domestic,Economy,Boston - Dallas
+1443,M,65+,24/2/2018,18-Feb,2,5,3,2,4,4,4,5,Domestic,Economy,Chicago - San Francisco
+1444,M,35-49,23/2/2018,18-Jan,1,1,1,1,1,1,1,1,International,Business Class,Lima - Miami
+1445,M,50-64,23/2/2018,18-Feb,4,3,4,4,3,5,3,4,International,Economy,Austin - Quito
+1446,M,35-49,23/2/2018,18-Feb,4,5,5,4,3,5,4,4,Caribbean,Economy,Memphis - San Juan
+1447,M,65+,23/2/2018,18-Jan,4,4,4,4,4,3,4,4,Domestic,Economy,Charlotte - Las Vegas
+1448,M,65+,23/2/2018,18-Feb,5,5,5,5,5,5,5,5,Domestic,Economy,Bentonville - Rochester
+1449,M,50-64,23/2/2018,18-Feb,5,4,5,4,5,5,4,5,International,Business Class,Madrid - Miami
+1450,M,50-64,23/2/2018,18-Feb,3,3,4,3,3,4,1,1,Domestic,First Class,Dayton - San Diego
+1451,F,18-24,23/2/2018,18-Feb,4,5,5,5,1,3,5,5,International,Economy,Manaus - Amsterdam
+1452,F,50-64,22/2/2018,18-Feb,4,4,4,3,3,4,5,3,Domestic,Economy,Boston - Los Angeles
+1453,M,50-64,22/2/2018,18-Feb,2,3,3,2,2,1,3,3,Mexico,Economy,Charlotte - Cancun
+1454,F,35-49,22/2/2018,18-Feb,4,5,3,4,4,3,4,5,Domestic,Economy,Raleigh - Miami
+1455,M,65+,22/2/2018,18-Feb,5,5,5,5,5,5,3,5,Domestic,First Class,Phoenix - Fort Lauderdale
+1456,M,65+,22/2/2018,18-Feb,3,3,3,4,3,3,5,4,Mexico,Economy,New York City - Los Cabos
+1457,F,25-34,22/2/2018,18-Feb,4,5,4,3,4,2,4,4,Domestic,Economy,Fort Lauderdale - Salt Lake City
+1458,M,50-64,22/2/2018,,3,3,3,3,3,3,3,4,Domestic,Economy,Chicago - Charlotte
+1459,F,35-49,22/2/2018,17-Jul,4,4,4,3,4,2,4,5,Caribbean,Economy,Toronto - Aruba
+1460,M,35-49,22/2/2018,17-Dec,4,5,5,5,4,3,5,5,Domestic,Economy,Phoenix - Lihue
+1461,M,65+,22/2/2018,18-Feb,3,4,3,2,2,2,3,2,Domestic,Economy,Fort Myers - Washington DC
+1462,M,65+,22/2/2018,18-Feb,4,4,4,2,4,2,3,4,Mexico,Economy,Vancouver - Puerto Vallarta
+1463,M,65+,22/2/2018,18-Feb,3,3,2,3,2,2,2,3,International,Business Class,Guatemala City - Miami
+1464,M,50-64,22/2/2018,18-Feb,4,4,4,3,4,3,4,4,International,Economy,San Juan - Vancouver
+1465,M,50-64,22/2/2018,18-Feb,4,4,4,4,4,1,4,4,Canada,Economy,Dallas - Toronto
+1466,M,50-64,22/2/2018,18-Feb,4,5,5,4,4,3,4,5,USA,Economy,Cancun - Madison
+1467,M,35-49,21/2/2018,18-Feb,4,3,4,2,4,3,3,5,International,Economy,Hong Kong - Dallas
+1468,M,50-64,21/2/2018,,4,4,4,4,3,4,3,4,Domestic,Economy,Los Angeles - Maui
+1469,M,50-64,21/2/2018,18-Feb,2,1,3,2,3,1,2,1,Caribbean,Economy,Miami - St. Kitts
+1470,F,35-49,21/2/2018,18-Feb,3,4,3,3,3,3,4,4,Caribbean,Economy,Miami - Grand Cayman
+1471,M,35-49,21/2/2018,18-Feb,3,1,3,3,3,3,1,3,Caribbean,Economy,Orlando - Montego Bay
+1472,M,50-64,20/2/2018,18-Feb,5,5,5,5,4,5,4,5,International,Business Class,West Palm Beach - Hong Kong
+1473,M,50-64,20/2/2018,18-Feb,5,5,5,5,5,5,5,5,Caribbean,Business Class,Montreal - Aruba
+1474,F,50-64,20/2/2018,18-Feb,4,3,3,3,4,4,3,4,Domestic,Economy,Phoenix - Indianapolis
+1475,F,35-49,20/2/2018,18-Feb,4,5,5,4,5,4,5,5,USA,Economy,Cozumel - Houston
+1476,M,50-64,20/2/2018,18-Feb,4,5,5,3,3,5,5,5,Domestic,Economy,Phoenix - Sacramento
+1477,F,50-64,20/2/2018,18-Feb,5,3,4,3,5,2,4,4,Caribbean,Economy,Detroit - Curacao
+1478,M,65+,20/2/2018,18-Jan,3,3,3,2,3,5,3,3,Domestic,Economy,Green Bay - Fort Myers
+1479,M,50-64,20/2/2018,18-Feb,2,4,4,3,3,4,4,4,Domestic,Economy,Greensboro - Las Vegas
+1480,F,25-34,19/2/2018,18-Feb,4,5,5,4,4,4,5,5,Domestic,Economy,Miami - Houston
+1481,M,50-64,19/2/2018,,2,3,3,2,3,2,2,2,Domestic,Economy,Las Vegas - Tampa
+1482,M,65+,19/2/2018,,2,1,4,2,3,2,2,3,Domestic,Economy,Colorado Springs - Houston
+1483,M,50-64,19/2/2018,18-Jan,4,5,4,3,4,3,3,5,Domestic,Economy,Phoenix - Maui
+1484,M,50-64,19/2/2018,18-Feb,3,5,4,3,3,3,3,4,Mexico,Economy,Kansas City - Cozumel
+1485,M,50-64,18/2/2018,18-Feb,3,4,4,3,5,4,5,3,USA,Economy,Cancun - Dallas
+1486,M,25-34,18/2/2018,18-Feb,3,4,4,3,3,4,3,3,Domestic,Economy,Boston - Chicago
+1487,F,50-64,18/2/2018,18-Feb,3,5,3,3,3,3,3,5,Canada,Economy,Saint Louis - Vancouver
+1488,M,65+,18/2/2018,18-Feb,4,4,5,3,4,5,4,5,International,Economy,Madrid - Dallas
+1489,F,50-64,18/2/2018,18-Feb,2,1,3,3,1,1,1,3,Domestic,Economy,Fresno - Nashville
+1490,M,50-64,18/2/2018,18-Jan,4,3,4,3,4,3,4,4,Domestic,Economy,Philadelphia - Charlottesville
+1491,M,50-64,18/2/2018,18-Feb,4,4,2,4,4,3,3,4,Domestic,First Class,Miami - San Diego
+1492,F,65+,18/2/2018,18-Feb,2,1,3,1,2,1,1,1,Domestic,Economy,Philadelphia - College Station
+1493,M,65+,17/2/2018,18-Feb,5,5,5,3,5,5,5,5,International,Business Class,Philadelphia - London
+1494,F,35-49,17/2/2018,18-Jan,5,5,4,4,4,4,5,4,Domestic,Economy,New Orleans - Los Angeles
+1495,F,65+,17/2/2018,18-Feb,3,3,4,2,2,1,1,3,Caribbean,Economy,Charlotte - Montego Bay
+1496,M,65+,17/2/2018,,3,1,4,1,3,1,1,4,USA,First Class,Cozumel - Miami
+1497,M,35-49,17/2/2018,18-Feb,4,4,4,3,4,4,4,4,Domestic,Economy,Little Rock - Orlando
+1498,M,50-64,17/2/2018,18-Feb,2,4,3,3,2,3,3,3,International,Business Class,Milan - New York City
+1499,F,35-49,16/2/2018,18-Jan,5,5,5,5,5,2,5,5,Domestic,Economy,Charleston - Miami
+1500,M,50-64,16/2/2018,,4,4,4,4,4,4,4,4,Domestic,Economy,San Francisco - Dallas
+1501,M,50-64,16/2/2018,18-Jan,3,4,3,3,4,3,3,3,Domestic,Economy,White Plains - Key West
+1502,M,50-64,16/2/2018,18-Feb,5,5,5,5,5,5,5,5,Domestic,First Class,Dallas - Los Angeles
+1503,M,25-34,16/2/2018,17-Dec,4,5,5,3,4,4,5,3,Domestic,First Class,Phoenix - Grand Junction
+1504,M,25-34,16/2/2018,18-Feb,4,5,5,2,3,5,2,5,Domestic,Economy,Honolulu - Phoenix
+1505,F,50-64,15/2/2018,18-Jan,1,1,1,5,1,5,1,1,International,Business Class,Los Angeles - Sydney
+1506,M,50-64,15/2/2018,17-Nov,3,3,3,3,3,3,3,3,Domestic,Economy,Philadelphia - Fort Myers
+1507,M,65+,15/2/2018,18-Feb,3,3,4,3,3,4,4,3,Mexico,Economy,Kansas City - Puerto Vallarta
+1508,M,65+,15/2/2018,18-Jan,2,4,4,3,3,4,4,5,Domestic,Economy,Orange - New Orleans
+1509,M,25-34,14/2/2018,18-Feb,4,3,5,3,5,4,3,4,International,First Class,New York City - London
+1510,M,35-49,14/2/2018,18-Jan,2,3,4,3,2,3,3,2,International,Economy,Raleigh - London
+1511,M,65+,14/2/2018,18-Feb,5,5,5,5,5,5,5,5,Domestic,First Class,Philadelphia - Orlando
+1512,M,65+,14/2/2018,18-Jan,5,5,5,3,5,3,4,5,Domestic,First Class,Phoenix - Boston
+1513,M,35-49,14/2/2018,17-Dec,1,1,1,1,2,2,1,1,International,Economy,Lima - New York City
+1514,M,35-49,13/2/2018,18-Feb,2,4,3,2,3,2,3,3,Domestic,Economy,Orlando - Dallas
+1515,M,65+,13/2/2018,18-Jan,4,1,4,4,4,4,5,1,International,Economy,Rome - Sacramento
+1516,M,50-64,13/2/2018,17-Oct,4,4,3,3,4,3,4,1,International,First Class,El Paso - Lima
+1517,F,50-64,13/2/2018,18-Jan,3,4,5,5,2,2,5,5,Domestic,Economy,Knoxville - Fairbanks
+1518,F,50-64,13/2/2018,18-Jan,3,3,4,3,3,3,4,4,International,Economy,Sydney - Vancouver
+1519,M,65+,13/2/2018,18-Jan,4,4,5,5,4,5,5,5,International,Economy,London - New York City
+1520,M,50-64,13/2/2018,18-Jan,4,4,4,3,3,4,4,4,USA,Economy,Kelowna - Miami
+1521,M,50-64,13/2/2018,,4,5,5,5,5,3,3,5,Domestic,Business Class,Orlando - Dallas
+1522,M,65+,13/2/2018,18-Feb,3,3,3,1,3,2,3,4,International,Economy,Philadelphia - Liberia
+1523,M,50-64,13/2/2018,,4,5,5,4,4,4,4,5,Caribbean,Economy,Tampa - Punta Cana
+1524,M,35-49,13/2/2018,18-Feb,5,4,5,5,5,3,4,5,Domestic,First Class,Chicago - Las Vegas
+1525,F,50-64,13/2/2018,18-Feb,3,1,3,3,2,3,1,1,Domestic,Economy,Columbus - Dallas
+1526,F,35-49,2018/12/2 0:00,18-Feb,3,1,4,3,3,1,1,3,Domestic,Economy,Washington DC - Charlotte
+1527,M,50-64,2018/12/2 0:00,18-Feb,4,3,4,2,3,5,2,4,Caribbean,Economy,Miami - San Juan
+1528,M,25-34,2018/12/2 0:00,18-Jan,5,4,5,3,5,5,5,5,Domestic,Economy,Phoenix - Honolulu
+1529,F,50-64,2018/12/2 0:00,18-Feb,3,5,5,3,3,3,4,5,Domestic,Economy,New York City - Minneapolis
+1530,M,50-64,2018/12/2 0:00,18-Feb,5,5,5,3,4,3,4,5,Domestic,Economy,Toledo - Charlotte
+1531,M,50-64,2018/12/2 0:00,,5,5,4,4,5,4,4,5,International,Business Class,Rio de Janeiro - Miami
+1532,M,35-49,2018/12/2 0:00,18-Jan,4,4,5,5,3,1,5,3,Domestic,First Class,Phoenix - Kansas City
+1533,M,50-64,2018/12/2 0:00,18-Feb,3,3,3,3,3,2,3,3,Domestic,Economy,Phoenix - Asheville
+1534,M,65+,2018/12/2 0:00,,5,5,5,5,5,3,5,5,Domestic,First Class,Maui - Phoenix
+1535,M,50-64,2018/11/2 0:00,18-Feb,5,5,4,3,5,4,4,5,Domestic,First Class,Orlando - Dallas
+1536,M,65+,2018/11/2 0:00,18-Jan,5,5,3,3,5,4,4,4,Domestic,Business Class,Orange - New York City
+1537,M,35-49,2018/11/2 0:00,,3,3,3,3,2,4,2,3,Domestic,Economy,Dallas - Denver
+1538,M,25-34,2018/10/2 0:00,18-Jan,4,3,4,3,4,2,2,4,Domestic,Economy,Philadelphia - Minneapolis
+1539,F,25-34,2018/10/2 0:00,,4,5,5,5,4,5,5,5,Domestic,Business Class,Washington DC - Miami
+1540,F,50-64,2018/10/2 0:00,18-Feb,4,5,4,4,4,4,4,4,Domestic,Economy,Fort Wayne - Norfolk
+1541,F,35-49,2018/10/2 0:00,18-Feb,2,1,3,1,3,1,1,3,International,Economy,Miami - Guatemala City
+1542,M,65+,2018/10/2 0:00,17-Dec,3,5,4,4,5,4,4,4,International,Economy,Dallas - Paris
+1543,F,50-64,2018/10/2 0:00,18-Feb,3,3,4,3,3,2,3,5,Domestic,Economy,Syracuse - San Luis Obispo
+1544,M,65+,2018/9/2 0:00,18-Jan,4,5,5,4,3,4,5,5,International,Economy,Charlotte - Belize City
+1545,M,65+,2018/9/2 0:00,18-Jan,3,2,4,1,3,2,2,4,Mexico,Economy,Phoenix - Cancun
+1546,M,25-34,2018/9/2 0:00,18-Jan,4,2,4,2,4,2,3,3,Domestic,First Class,Grand Junction - Phoenix
+1547,M,65+,2018/9/2 0:00,17-Aug,1,2,2,3,1,1,3,3,Domestic,Economy,Philadelphia - San Antonio
+1548,M,35-49,2018/9/2 0:00,18-Feb,3,4,4,3,3,1,5,4,Domestic,Economy,Washington DC - Orlando
+1549,M,35-49,2018/9/2 0:00,18-Feb,3,4,4,3,3,1,4,4,Domestic,Economy,Orlando - Washington DC
+1550,M,50-64,2018/8/2 0:00,18-Jan,3,3,3,5,2,3,3,4,Domestic,Economy,New York City - San Francisco
+1551,F,50-64,2018/8/2 0:00,18-Jan,4,5,4,4,3,5,3,5,International,Economy,Buenos Aires - New York City
+1552,F,50-64,2018/8/2 0:00,18-Jan,4,5,5,5,5,3,4,5,Domestic,First Class,Fort Lauderdale - Chicago
+1553,F,50-64,2018/8/2 0:00,18-Feb,3,4,3,3,2,1,3,3,Domestic,Economy,West Palm Beach - Philadelphia
+1554,M,25-34,2018/8/2 0:00,18-Jan,1,2,4,2,1,1,1,5,USA,Economy,Mexico City - Minneapolis
+1555,M,50-64,2018/8/2 0:00,,4,2,5,3,4,1,3,5,Domestic,Economy,Portland - Tampa
+1556,F,65+,2018/8/2 0:00,18-Jan,4,4,3,3,3,4,3,3,Domestic,Economy,Orlando - Dallas
+1557,F,50-64,2018/8/2 0:00,17-Dec,4,4,5,3,5,1,4,5,Domestic,Economy,New York City - Miami
+1558,M,35-49,2018/7/2 0:00,,3,2,4,2,4,4,4,4,International,Economy,Dallas - Paris
+1559,M,35-49,2018/7/2 0:00,18-Jan,1,2,3,1,1,1,2,2,Domestic,Economy,Philadelphia - Portland
+1560,M,50-64,2018/7/2 0:00,18-Jan,4,3,4,3,5,3,3,2,International,Business Class,Auckland - Los Angeles
+1561,M,50-64,2018/7/2 0:00,18-Jan,4,5,4,4,4,3,2,5,International,Economy,St. Lucia - Miami
+1562,M,65+,2018/7/2 0:00,18-Feb,3,1,3,1,3,2,3,4,Domestic,Economy,San Jose - Miami
+1563,M,65+,2018/7/2 0:00,18-Feb,5,4,4,3,5,5,4,4,International,Business Class,London - Miami
+1564,M,50-64,2018/6/2 0:00,18-Feb,5,5,4,4,5,4,4,5,Caribbean,First Class,Washington DC - Nassau
+1565,F,50-64,2018/6/2 0:00,18-Jan,4,3,2,4,4,1,2,1,USA,First Class,Cancun - Charlotte
+1566,M,35-49,2018/6/2 0:00,18-Feb,3,4,5,4,3,5,3,5,Domestic,Economy,Dallas - Denver
+1567,M,50-64,2018/6/2 0:00,18-Jan,3,5,4,5,2,4,4,5,Caribbean,Economy,Springfield - Grand Cayman
+1568,M,50-64,2018/6/2 0:00,18-Jan,3,4,2,1,3,4,3,4,International,Economy,Sao Paulo - Miami
+1569,F,35-49,2018/6/2 0:00,18-Jan,4,4,2,4,5,3,4,4,Domestic,Business Class,McAllen - Pittsburgh
+1570,M,35-49,2018/6/2 0:00,18-Feb,2,4,4,3,1,4,3,4,Domestic,Economy,Miami - Houston
+1571,M,35-49,2018/5/2 0:00,18-Feb,3,5,5,5,5,5,3,4,Domestic,First Class,Los Angeles - Miami
+1572,M,65+,2018/5/2 0:00,18-Jan,4,5,3,4,4,5,3,3,Caribbean,Economy,Rochester - Aruba
+1573,M,50-64,2018/5/2 0:00,18-Jan,2,2,3,1,2,3,1,2,International,Economy,Hamilton - Washington DC
+1574,M,65+,2018/5/2 0:00,18-Jan,3,3,4,3,3,2,3,3,International,Economy,San Juan - Toronto
+1575,M,35-49,2018/4/2 0:00,18-Jan,1,3,3,3,1,2,2,1,Mexico,Economy,New York City - Los Cabos
+1576,F,50-64,2018/4/2 0:00,18-Jan,4,1,5,1,4,1,1,1,International,Economy,Guayaquil - Miami
+1577,M,50-64,2018/4/2 0:00,17-Nov,4,4,3,4,4,2,4,3,Domestic,Economy,Charlotte - Dallas
+1578,F,35-49,2018/4/2 0:00,18-Jan,1,1,1,1,4,1,1,1,Domestic,Economy,Dallas - Maui
+1579,F,65+,2018/4/2 0:00,18-Feb,3,3,3,4,5,2,2,4,Domestic,First Class,Charlotte - Los Angeles
+1580,M,50-64,2018/4/2 0:00,18-Feb,3,1,3,3,3,4,1,1,International,Economy,Omaha - Santiago
+1581,F,35-49,2018/3/2 0:00,18-Feb,5,5,5,5,5,5,3,4,International,Economy,London - Chicago
+1582,M,50-64,2018/3/2 0:00,18-Jan,2,1,3,1,3,2,3,2,International,Business Class,Curacao - Miami
+1583,M,50-64,2018/3/2 0:00,18-Jan,3,2,2,2,2,4,3,3,Domestic,Economy,New York City - Dallas
+1584,M,65+,2018/3/2 0:00,18-Jan,5,5,5,5,5,5,4,5,Domestic,First Class,Dallas - Denver
+1585,F,35-49,2018/3/2 0:00,18-Feb,3,1,2,3,4,2,2,3,Domestic,First Class,Dallas - Sacramento
+1586,M,35-49,2018/3/2 0:00,18-Jan,4,4,4,4,5,3,4,5,Domestic,Economy,Detroit - Charleston
+1587,F,65+,2018/2/2 0:00,,3,2,3,3,3,2,3,1,USA,Economy,Toronto - Miami
+1588,M,35-49,2018/2/2 0:00,18-Jan,3,1,3,1,3,3,1,4,Domestic,Economy,White Plains - Tulsa
+1589,M,35-49,2018/2/2 0:00,18-Jan,3,5,3,3,3,4,4,4,USA,Economy,Cancun - New York City
+1590,M,65+,2018/2/2 0:00,18-Jan,3,2,4,2,2,3,3,1,Domestic,Economy,Dallas - Fort Myers
+1591,M,65+,2018/1/2 0:00,18-Jan,4,5,5,4,5,4,3,4,International,First Class,London - Dallas
+1592,M,35-49,2018/1/2 0:00,,5,5,5,4,5,5,5,5,International,Business Class,New York City - Buenos Aires
+1593,M,50-64,2018/1/2 0:00,18-Jan,3,4,4,3,3,4,4,4,Domestic,Economy,Dallas - San Francisco
+1594,F,35-49,2018/1/2 0:00,18-Jan,3,1,3,3,3,3,1,1,Caribbean,Economy,Boston - Providenciales
+1595,M,65+,2018/1/2 0:00,18-Jan,3,3,4,2,4,4,3,1,Domestic,Economy,Boston - Bozeman
+1596,M,35-49,2018/1/2 0:00,18-Feb,3,4,4,4,3,4,4,4,Domestic,Economy,Seattle - Miami
+1597,M,50-64,2018/1/2 0:00,18-Jan,5,3,5,2,5,3,5,5,Domestic,Economy,El Paso - Miami
+1598,M,50-64,2018/1/2 0:00,,5,5,5,5,5,4,5,5,Domestic,First Class,Dallas - Las Vegas
+1599,M,65+,2018/1/2 0:00,18-Jan,4,5,4,4,5,4,4,5,Domestic,First Class,Wilmington - Fort Myers
+1600,F,35-49,2018/1/2 0:00,,3,3,3,2,3,3,3,3,Canada,Economy,New York City - Montreal
+1601,M,65+,2018/1/2 0:00,18-Jan,5,1,3,1,5,5,3,5,International,Business Class,Barcelona - New York City
+1602,M,65+,2018/1/2 0:00,18-Feb,3,5,3,3,3,2,5,3,Domestic,Economy,Seattle - Norfolk
+1603,F,50-64,2018/1/2 0:00,18-Jan,4,4,4,4,4,3,5,5,International,Economy,Saint Louis - Amsterdam
+1604,F,35-49,2018/1/2 0:00,18-Jan,4,5,3,3,4,1,3,3,Domestic,Economy,Philadelphia - Tucson
+1605,M,50-64,2018/1/2 0:00,18-Jan,5,5,5,5,5,5,4,5,Domestic,First Class,Philadelphia - Key West
+1606,M,65+,31/1/2018,17-Dec,3,4,4,3,2,4,5,5,Domestic,Economy,Cincinnati - Dallas
+1607,M,50-64,31/1/2018,18-Jan,5,5,5,5,4,5,3,5,International,Economy,San Francisco - Medellin
+1608,F,50-64,31/1/2018,18-Jan,4,4,4,3,3,2,3,5,Domestic,Economy,Akron - Orange
+1609,F,35-49,31/1/2018,18-Jan,5,5,5,5,5,3,5,5,International,First Class,San Juan - Chicago
+1610,M,65+,31/1/2018,17-Dec,3,1,4,3,3,3,3,4,USA,Economy,Cancun - Miami
+1611,M,50-64,31/1/2018,18-Jan,3,5,5,4,2,4,4,5,Domestic,Economy,Tampa - Dallas
+1612,F,50-64,31/1/2018,17-Oct,3,3,3,3,3,3,3,3,Domestic,Economy,Chicago - Fort Lauderdale
+1613,F,25-34,31/1/2018,18-Jan,4,5,5,5,3,5,5,5,Domestic,Economy,Chicago - Orlando
+1614,M,50-64,31/1/2018,17-Dec,5,3,5,2,5,1,3,5,Domestic,First Class,Miami - Jacksonville
+1615,M,50-64,31/1/2018,18-Jan,5,5,5,5,5,2,5,5,International,First Class,San Juan - Miami
+1616,M,50-64,31/1/2018,18-Jan,5,5,5,3,4,5,4,5,Domestic,Business Class,Philadelphia - Charlotte
+1617,F,35-49,30/1/2018,18-Jan,2,2,3,1,2,1,2,1,Domestic,Economy,New York City - Las Vegas
+1618,M,50-64,30/1/2018,,3,5,4,2,2,2,2,5,Domestic,Economy,Houston - Sacramento
+1619,M,50-64,30/1/2018,18-Jan,4,5,5,4,4,4,5,5,USA,Economy,Cancun - Austin
+1620,M,65+,30/1/2018,17-Dec,5,5,5,4,4,3,5,5,Mexico,Economy,Austin - Los Cabos
+1621,F,50-64,30/1/2018,18-Jan,1,4,4,5,4,4,3,4,Domestic,Business Class,Kailua-Kona - Los Angeles
+1622,M,65+,30/1/2018,18-Jan,3,3,3,3,3,1,2,3,Domestic,First Class,Phoenix - Boston
+1623,F,50-64,30/1/2018,17-May,5,5,5,5,5,5,5,5,Domestic,First Class,Little Rock - Maui
+1624,M,50-64,30/1/2018,18-Jan,3,4,4,2,3,4,4,4,International,Economy,Dallas - London
+1625,F,25-34,30/1/2018,18-Jan,1,2,3,1,1,1,2,3,Domestic,Economy,Denver - Sacramento
+1626,F,50-64,30/1/2018,,5,5,5,3,5,3,5,5,Mexico,Economy,Vancouver - Los Cabos
+1627,M,50-64,30/1/2018,18-Jan,3,4,3,2,2,3,4,3,International,Economy,Dallas - San Jose
+1628,F,50-64,29/1/2018,17-Nov,2,1,1,1,2,2,1,1,International,Economy,St. Lucia - Miami
+1629,M,50-64,29/1/2018,,3,4,5,3,4,2,3,4,Domestic,Economy,Boise - Miami
+1630,M,50-64,29/1/2018,18-Jan,3,1,3,1,3,1,3,1,Domestic,Economy,Kansas City - Charlotte
+1631,M,35-49,29/1/2018,18-Jan,3,3,3,3,2,4,2,3,Domestic,Economy,Charlotte - Austin
+1632,M,50-64,29/1/2018,18-Jan,4,3,5,3,5,1,2,5,International,Business Class,Phoenix - Quito
+1633,M,50-64,29/1/2018,,4,5,4,4,4,3,5,4,International,Economy,Los Angeles - Auckland
+1634,M,65+,29/1/2018,17-Dec,5,5,5,4,4,2,4,5,Domestic,Economy,St. George - Dallas
+1635,F,65+,28/1/2018,18-Jan,3,3,3,2,2,2,3,3,Domestic,Economy,Salt Lake City - Norfolk
+1636,M,50-64,28/1/2018,18-Jan,3,5,4,3,3,2,1,4,Domestic,Economy,Fresno - Indianapolis
+1637,M,50-64,28/1/2018,18-Jan,5,5,4,5,5,5,3,5,Domestic,First Class,Dallas - Boston
+1638,F,50-64,28/1/2018,18-Jan,4,5,4,3,4,3,4,5,International,Economy,Hartford - Liberia
+1639,F,35-49,28/1/2018,18-Jan,2,5,2,3,2,3,3,3,Domestic,Economy,Chicago - Nashville
+1640,F,35-49,28/1/2018,18-Jan,2,1,4,4,2,2,2,2,Domestic,Economy,Salt Lake City - Phoenix
+1641,F,35-49,28/1/2018,18-Jan,3,5,5,3,3,4,4,5,Caribbean,Economy,Charlotte - Grenada
+1642,M,65+,28/1/2018,18-Jan,4,5,5,4,4,3,5,5,Domestic,Economy,Charlotte - Tampa
+1643,M,65+,28/1/2018,18-Jan,3,5,5,3,3,3,5,5,Domestic,Economy,Los Angeles - Hartford
+1644,M,65+,28/1/2018,18-Jan,4,4,4,3,3,5,5,5,Domestic,Economy,New York City - Charlotte
+1645,M,50-64,28/1/2018,18-Jan,5,3,4,3,5,2,3,3,Caribbean,Business Class,New York City - Aruba
+1646,F,50-64,27/1/2018,18-Jan,3,1,3,2,2,1,3,2,Domestic,Economy,Atlanta - Detroit
+1647,F,35-49,27/1/2018,17-Dec,4,5,4,4,4,4,4,4,Canada,Economy,Dallas - Vancouver
+1648,F,35-49,27/1/2018,,3,3,3,3,3,3,3,3,Domestic,Economy,Chicago - Little Rock
+1649,F,35-49,26/1/2018,18-Jan,3,5,5,3,3,3,5,5,Domestic,Economy,Memphis - Colorado Springs
+1650,M,65+,26/1/2018,17-Nov,3,4,5,3,3,5,3,5,Domestic,Economy,Dallas - Orange
+1651,M,50-64,26/1/2018,17-Mar,5,5,5,5,5,5,5,5,International,Economy,Miami - Barcelona
+1652,M,65+,26/1/2018,17-Dec,4,5,4,2,3,2,3,5,Mexico,Economy,Charlotte - Cancun
+1653,M,65+,26/1/2018,18-Jan,3,4,4,2,3,2,3,5,Domestic,Economy,Roanoke - Charlotte
+1654,M,50-64,26/1/2018,18-Jan,3,2,3,3,1,3,3,3,International,Economy,London - Miami
+1655,M,50-64,26/1/2018,18-Jan,5,5,5,5,5,5,4,5,Domestic,First Class,Dallas - Lihue
+1656,M,50-64,25/1/2018,18-Jan,5,5,5,4,5,4,5,4,International,Economy,London - Miami
+1657,M,50-64,25/1/2018,18-Jan,5,5,5,5,5,5,2,5,International,Business Class,Lima - Miami
+1658,F,50-64,25/1/2018,,3,1,3,1,3,1,3,3,Domestic,Economy,Charleston - Washington DC
+1659,M,50-64,25/1/2018,17-Dec,3,3,3,3,3,1,3,4,Domestic,Economy,Chicago - Washington DC
+1660,F,50-64,25/1/2018,18-Jan,1,3,2,3,1,4,2,3,Mexico,Economy,Hartford - Los Cabos
+1661,F,18-24,25/1/2018,18-Jan,2,5,3,3,2,4,3,3,Domestic,Economy,Buffalo - Fort Myers
+1662,F,50-64,25/1/2018,17-Dec,3,3,3,2,4,4,3,3,Domestic,Economy,San Francisco - Hartford
+1663,F,35-49,25/1/2018,17-Oct,3,3,4,3,3,3,3,4,Domestic,Economy,Philadelphia - Salt Lake City
+1664,F,65+,25/1/2018,18-Jan,2,3,4,3,2,4,3,3,International,Economy,San Juan - Madrid
+1665,M,35-49,25/1/2018,17-Dec,3,3,4,3,3,3,3,2,International,Economy,Aruba - Philadelphia
+1666,M,65+,25/1/2018,17-Dec,5,5,4,4,5,5,4,4,USA,Business Class,Cancun - Dallas
+1667,F,65+,24/1/2018,18-Jan,4,4,4,4,4,5,4,5,Domestic,Economy,McAllen - Portland
+1668,F,35-49,24/1/2018,17-Dec,3,3,4,3,2,1,3,5,Domestic,Economy,Washington DC - Jacksonville
+1669,M,50-64,24/1/2018,18-Jan,4,2,3,3,4,1,1,3,International,First Class,Miami - London
+1670,M,50-64,24/1/2018,18-Jan,5,5,5,1,5,1,4,5,Domestic,First Class,Washington DC - Charlotte
+1671,M,50-64,24/1/2018,18-Jan,3,3,4,4,3,4,2,2,Domestic,Economy,Chicago - Philadelphia
+1672,M,50-64,24/1/2018,18-Jan,3,5,3,3,3,3,3,4,Domestic,Economy,Phoenix - San Luis Obispo
+1673,F,50-64,24/1/2018,18-Jan,4,3,5,5,4,4,5,3,International,Economy,Sydney - Los Angeles
+1674,M,50-64,24/1/2018,18-Jan,3,4,4,3,3,1,3,4,International,Economy,St. Thomas - Miami
+1675,F,35-49,24/1/2018,18-Jan,2,5,1,3,2,1,1,4,Domestic,Economy,Washington DC - Birmingham
+1676,M,50-64,24/1/2018,,4,4,4,4,4,4,4,4,Domestic,First Class,Miami - Orange
+1677,M,50-64,24/1/2018,18-Jan,5,4,5,5,5,5,5,5,Caribbean,First Class,Miami - San Juan
+1678,M,50-64,24/1/2018,18-Jan,2,2,3,2,3,2,3,3,International,Economy,Hong Kong - Dallas
+1679,F,35-49,23/1/2018,17-Nov,4,4,5,4,4,3,4,5,USA,Economy,Cancun - Phoenix
+1680,M,50-64,23/1/2018,18-Jan,4,5,5,3,4,5,3,5,Caribbean,Economy,San Francisco - Aruba
+1681,M,50-64,23/1/2018,18-Jan,4,5,5,4,4,5,4,4,International,Economy,Charlotte - Lisbon
+1682,F,35-49,23/1/2018,,2,3,3,3,1,1,3,3,Domestic,Economy,Charleston - Philadelphia
+1683,M,50-64,23/1/2018,18-Jan,4,3,3,3,4,2,3,3,Domestic,Economy,Los Angeles - Boston
+1684,M,50-64,23/1/2018,18-Jan,3,4,2,3,3,1,3,4,Domestic,Economy,Boston - Los Angeles
+1685,F,50-64,23/1/2018,18-Jan,4,5,4,5,4,4,4,5,Domestic,Economy,Dallas - Oklahoma City
+1686,M,65+,23/1/2018,18-Jan,4,4,3,3,4,4,4,3,Domestic,Economy,Detroit - Miami
+1687,F,50-64,23/1/2018,18-Jan,1,2,3,2,1,3,2,3,Domestic,Economy,Los Angeles - Miami
+1688,M,35-49,23/1/2018,17-Nov,3,2,2,3,3,3,2,4,Domestic,Economy,Oklahoma City - New York City
+1689,F,25-34,22/1/2018,18-Jan,3,3,3,3,3,1,3,3,Domestic,Economy,Miami - Boston
+1690,F,25-34,22/1/2018,18-Jan,3,3,3,3,3,1,3,3,Domestic,Economy,Boston - Miami
+1691,M,50-64,22/1/2018,17-Dec,1,2,2,1,1,3,2,4,Domestic,Economy,Charlotte - Boston
+1692,M,65+,22/1/2018,18-Jan,2,2,2,1,3,3,2,2,Domestic,First Class,Los Angeles - Honolulu
+1693,M,65+,22/1/2018,17-Sep,4,5,4,4,4,4,4,5,USA,Economy,Cancun - Detroit
+1694,M,65+,21/1/2018,17-Apr,2,4,4,3,3,2,3,4,International,Economy,Grand Cayman - Buffalo
+1695,F,50-64,21/1/2018,,4,5,4,2,4,5,5,5,Domestic,Economy,Ontario - New Orleans
+1696,F,35-49,21/1/2018,18-Jan,4,5,4,5,4,4,4,4,International,Economy,Puerto Plata - Chicago
+1697,F,50-64,21/1/2018,18-Jan,5,5,5,2,5,3,5,5,Domestic,Economy,Memphis - New York City
+1698,M,50-64,21/1/2018,18-Jan,3,1,3,3,3,4,3,3,Domestic,Economy,San Francisco - Dallas
+1699,M,35-49,21/1/2018,17-Dec,5,4,5,3,4,5,5,4,Domestic,First Class,Amarillo - Austin
+1700,M,50-64,21/1/2018,17-Dec,4,3,3,4,4,5,2,5,Domestic,Economy,Dallas - Honolulu
+1701,F,50-64,20/1/2018,18-Jan,2,1,3,2,2,4,2,4,International,Economy,Melbourne - Los Angeles
+1702,M,50-64,20/1/2018,18-Jan,3,3,3,3,3,3,3,3,Domestic,Economy,Boston - Kailua-Kona
+1703,M,50-64,20/1/2018,17-Sep,3,3,4,3,2,3,2,5,Domestic,Economy,Washington DC - San Francisco
+1704,M,35-49,20/1/2018,18-Jan,3,4,5,2,3,3,4,2,Caribbean,Economy,Miami - Kingston
+1705,M,65+,19/1/2018,18-Jan,4,4,3,3,4,4,3,3,Mexico,First Class,Dallas - Cancun
+1706,F,50-64,19/1/2018,,2,2,3,2,1,3,2,1,Domestic,Economy,New York City - Austin
+1707,M,50-64,19/1/2018,18-Jan,2,5,5,2,4,1,3,5,Domestic,Economy,Salt Lake City - Kailua-Kona
+1708,M,65+,19/1/2018,17-Dec,3,4,4,3,3,3,3,5,Caribbean,Economy,Philadelphia - Montego Bay
+1709,F,50-64,19/1/2018,18-Jan,3,5,2,3,3,3,2,5,Domestic,Economy,Grand Island - Phoenix
+1710,F,65+,18/1/2018,,5,4,4,3,4,4,4,5,Canada,Economy,Dallas - Calgary
+1711,M,50-64,18/1/2018,17-Apr,1,4,3,2,1,3,2,2,International,Economy,Auckland - Los Angeles
+1712,M,50-64,18/1/2018,17-Jun,1,3,2,2,2,1,1,1,Domestic,Economy,New York City - Dallas
+1713,F,65+,18/1/2018,17-Dec,3,5,4,3,3,3,4,4,Domestic,Economy,Philadelphia - New Orleans
+1714,M,65+,18/1/2018,17-Dec,3,3,4,3,4,3,3,2,Domestic,Economy,Seattle - West Palm Beach
+1715,F,65+,18/1/2018,18-Jan,1,1,2,1,1,1,1,1,Domestic,Economy,Philadelphia - Orlando
+1716,F,35-49,18/1/2018,18-Jan,3,4,4,4,3,4,4,4,International,Economy,Dublin - Philadelphia
+1717,M,65+,17/1/2018,18-Jan,2,3,3,2,3,3,3,3,International,Economy,Dallas - Amman
+1718,M,65+,17/1/2018,17-Nov,1,1,2,1,1,1,1,1,Domestic,First Class,Greenville - Dallas
+1719,M,65+,17/1/2018,17-Dec,4,5,4,4,3,4,4,5,Domestic,Economy,Philadelphia - Miami
+1720,M,35-49,17/1/2018,18-Jan,4,4,4,4,3,4,4,3,Domestic,Economy,Phoenix - Maui
+1721,M,35-49,17/1/2018,17-Jun,4,4,4,4,4,4,4,3,Domestic,Economy,New York City - Los Angeles
+1722,F,50-64,17/1/2018,17-Sep,4,4,4,4,5,4,4,4,Domestic,Economy,Los Angeles - Miami
+1723,F,50-64,17/1/2018,17-Nov,3,3,4,3,3,3,3,4,Domestic,Economy,Buffalo - Charlotte
+1724,M,50-64,17/1/2018,17-Dec,4,4,3,4,4,1,4,4,Domestic,First Class,Orlando - Phoenix
+1725,F,50-64,17/1/2018,18-Jan,4,2,3,3,3,4,3,3,International,Economy,Rome - Philadelphia
+1726,M,35-49,17/1/2018,17-Dec,4,3,4,3,4,4,3,4,Domestic,Economy,San Antonio - Chicago
+1727,F,65+,17/1/2018,17-Oct,1,2,2,1,1,3,3,2,Domestic,Economy,Fort Myers - Austin
+1728,F,35-49,17/1/2018,17-Dec,4,4,4,3,4,3,4,4,Domestic,Economy,Washington DC - Kansas City
+1729,M,50-64,16/1/2018,17-Dec,5,5,4,4,5,3,4,4,International,First Class,Dallas - Hong Kong
+1730,F,50-64,16/1/2018,18-Jan,3,3,4,3,3,5,2,3,International,Economy,San Juan - Chicago
+1731,M,65+,16/1/2018,18-Jan,1,2,4,3,1,3,3,3,International,Economy,Los Angeles - Auckland
+1732,M,50-64,16/1/2018,18-Jan,3,4,4,4,3,4,3,4,Domestic,Economy,Orlando - San Francisco
+1733,M,65+,16/1/2018,18-Jan,5,5,5,5,5,5,4,5,International,Business Class,Milan - Miami
+1734,F,50-64,16/1/2018,18-Jan,4,4,4,3,3,3,3,4,Caribbean,Business Class,Denver - Grand Cayman
+1735,F,50-64,16/1/2018,18-Jan,2,4,3,3,3,1,3,2,International,Economy,Montego Bay - Indianapolis
+1736,M,35-49,16/1/2018,18-Jan,4,4,5,3,4,1,3,5,Domestic,Economy,Sacramento - Phoenix
+1737,F,35-49,16/1/2018,18-Jan,3,3,4,3,2,1,4,5,Domestic,Economy,Chicago - San Jose
+1738,F,50-64,16/1/2018,18-Jan,2,1,2,1,1,1,1,1,Domestic,Economy,Maui - Austin
+1739,M,50-64,16/1/2018,18-Jan,4,4,4,4,4,4,3,4,Domestic,Economy,Dallas - Miami
+1740,M,35-49,15/1/2018,17-Dec,3,3,3,1,4,1,3,3,Caribbean,Business Class,Philadelphia - Havana
+1741,F,35-49,15/1/2018,18-Jan,1,1,5,1,5,4,1,5,Domestic,Economy,Fort Myers - Dallas
+1742,M,65+,15/1/2018,18-Jan,1,1,3,1,2,1,1,1,Domestic,Economy,Sacramento - Miami
+1743,F,50-64,15/1/2018,18-Jan,3,4,3,3,3,4,4,4,International,Economy,Boise - London
+1744,F,50-64,15/1/2018,,3,4,4,4,3,1,5,4,Domestic,Economy,Charlotte - Dallas
+1745,M,50-64,15/1/2018,18-Jan,3,4,3,3,3,2,3,4,Domestic,Economy,Phoenix - Maui
+1746,M,50-64,15/1/2018,18-Jan,4,4,4,3,3,1,3,4,Domestic,Economy,Austin - Phoenix
+1747,F,35-49,15/1/2018,18-Jan,5,1,3,2,5,3,3,3,International,Business Class,Dallas - London
+1748,M,65+,15/1/2018,,3,3,4,3,3,4,3,4,Domestic,Economy,Seattle - Charleston
+1749,M,35-49,15/1/2018,17-Dec,3,4,4,3,3,3,5,5,USA,Economy,Vancouver - Los Angeles
+1750,F,35-49,15/1/2018,17-Dec,5,5,5,4,5,5,5,5,Domestic,Economy,Los Angeles - New York City
+1751,F,50-64,15/1/2018,18-Jan,3,2,3,1,5,2,2,3,Domestic,First Class,Fort Lauderdale - Dallas
+1752,M,50-64,15/1/2018,18-Jan,4,4,4,4,4,4,3,4,International,Business Class,Fort Myers - Manchester
+1753,F,50-64,15/1/2018,17-Dec,4,4,4,3,4,2,1,4,Domestic,Economy,Denver - Fort Walton Beach
+1754,M,50-64,14/1/2018,18-Jan,4,4,4,3,4,1,4,5,Domestic,Business Class,Phoenix - Kailua-Kona
+1755,M,65+,14/1/2018,18-Jan,2,3,3,3,2,2,3,3,Domestic,Economy,Phoenix - Atlanta
+1756,F,35-49,14/1/2018,18-Jan,2,2,3,3,2,1,3,3,International,Economy,Ontario - London
+1757,F,50-64,14/1/2018,17-Dec,5,5,5,5,5,5,5,5,Canada,First Class,Tucson - Toronto
+1758,M,50-64,14/1/2018,18-Jan,5,5,5,5,5,5,5,5,International,Business Class,Munich - Philadelphia
+1759,M,50-64,14/1/2018,18-Jan,5,4,5,4,5,4,4,4,Caribbean,First Class,Charlotte - Montego Bay
+1760,M,35-49,14/1/2018,17-Dec,4,4,4,4,5,4,3,4,International,Economy,Chicago - London
+1761,M,65+,13/1/2018,18-Jan,3,3,4,3,3,3,3,5,International,Economy,Washington DC - Venice
+1762,F,65+,13/1/2018,17-Dec,4,4,3,2,4,2,2,4,Domestic,Economy,Birmingham - Phoenix
+1763,M,50-64,13/1/2018,18-Jan,3,3,3,1,3,1,3,3,International,Economy,Dallas - San Jose
+1764,F,50-64,13/1/2018,17-Nov,1,2,2,2,1,1,3,3,Domestic,Economy,San Diego - Philadelphia
+1765,M,65+,13/1/2018,17-Dec,3,4,4,3,2,2,3,5,Domestic,Economy,Denver - Phoenix
+1766,M,50-64,13/1/2018,18-Jan,5,5,5,4,4,5,5,5,International,Economy,London - Miami
+1767,F,65+,13/1/2018,17-Dec,1,4,3,3,1,2,3,5,Domestic,Economy,Traverse City - Albuquerque
+1768,M,35-49,13/1/2018,17-Dec,4,5,5,5,3,5,5,5,International,Economy,Paris - Chicago
+1769,M,50-64,13/1/2018,17-Dec,5,5,5,5,5,5,5,5,International,Economy,New York City - London
+1770,F,50-64,2018/12/1 0:00,17-Dec,2,3,3,3,2,3,3,4,Domestic,Economy,Dallas - Reno
+1771,F,50-64,2018/12/1 0:00,17-Dec,3,4,3,2,3,4,1,1,Domestic,Economy,Tampa - San Francisco
+1772,F,50-64,2018/12/1 0:00,,4,5,5,5,4,3,4,5,International,Economy,Tucson - San Jose
+1773,M,35-49,2018/12/1 0:00,17-Dec,3,4,4,3,3,4,3,4,Mexico,Economy,Washington DC - Cozumel
+1774,M,35-49,2018/12/1 0:00,17-Sep,3,1,4,1,3,4,2,4,Domestic,Economy,Los Angeles - Miami
+1775,F,65+,2018/12/1 0:00,17-Nov,5,5,5,5,5,5,5,5,International,Business Class,Tokyo - Dallas
+1776,F,35-49,2018/12/1 0:00,17-Dec,3,2,4,4,3,1,3,3,Domestic,Business Class,San Diego - Philadelphia
+1777,M,25-34,2018/12/1 0:00,17-Dec,3,5,5,5,4,3,5,5,Domestic,Economy,Salt Lake City - Kailua-Kona
+1778,M,50-64,2018/12/1 0:00,17-Dec,3,4,4,3,3,3,5,4,Domestic,Economy,Denver - Los Angeles
+1779,M,50-64,2018/12/1 0:00,17-Dec,5,5,5,5,5,5,5,5,International,Business Class,Auckland - Los Angeles
+1780,M,18-24,2018/12/1 0:00,17-Dec,5,5,4,5,5,2,4,3,International,Economy,London - New York City
+1781,F,50-64,2018/11/1 0:00,18-Jan,3,5,4,5,3,1,4,5,Domestic,Economy,Charlotte - Las Vegas
+1782,F,65+,2018/11/1 0:00,18-Jan,4,5,4,3,4,3,4,4,Domestic,Economy,Miami - San Diego
+1783,F,35-49,2018/11/1 0:00,17-Dec,4,5,4,4,4,5,4,5,International,Economy,Rio de Janeiro - New York City
+1784,F,50-64,2018/11/1 0:00,18-Jan,5,5,5,4,5,5,5,5,Domestic,Economy,Washington DC - Key West
+1785,M,50-64,2018/10/1 0:00,18-Jan,3,3,4,3,3,3,3,4,Domestic,Economy,Dallas - Nashville
+1786,F,50-64,2018/10/1 0:00,18-Jan,3,5,5,2,3,1,3,3,International,Economy,Dayton - Inverness
+1787,F,50-64,2018/10/1 0:00,18-Jan,4,2,4,4,4,3,4,5,Domestic,First Class,Chicago - San Jose
+1788,F,65+,2018/10/1 0:00,18-Jan,4,2,2,4,4,4,1,4,USA,Business Class,Cancun - Tucson
+1789,M,50-64,2018/10/1 0:00,17-Dec,1,1,3,1,1,2,1,1,Domestic,First Class,Denver - Miami
+1790,M,50-64,2018/9/1 0:00,17-Dec,3,5,5,3,3,3,4,5,Domestic,First Class,Orange - Phoenix
+1791,M,35-49,2018/9/1 0:00,17-Dec,3,4,4,3,4,3,4,5,International,Economy,Cali - Minneapolis
+1792,F,35-49,2018/9/1 0:00,17-Nov,5,5,5,5,5,5,5,5,Domestic,Economy,Dallas - Houston
+1793,F,35-49,2018/9/1 0:00,17-Dec,5,5,5,5,5,3,5,5,Domestic,Economy,Louisville - Charlotte
+1794,M,65+,2018/9/1 0:00,17-Dec,3,3,3,2,3,3,4,2,International,Economy,Charlotte - London
+1795,M,50-64,2018/8/1 0:00,17-Dec,2,3,3,2,2,2,2,3,Domestic,Economy,Abilene - New Orleans
+1796,M,50-64,2018/8/1 0:00,18-Jan,4,4,4,3,4,4,3,3,Domestic,First Class,New York City - Dallas
+1797,M,25-34,2018/8/1 0:00,18-Jan,1,1,4,1,3,3,1,3,International,Economy,Dallas - London
+1798,M,50-64,2018/8/1 0:00,17-Dec,3,1,4,4,3,4,1,3,Domestic,Business Class,Columbus - Orlando
+1799,F,35-49,2018/8/1 0:00,17-Dec,5,5,5,5,5,5,4,5,International,Economy,London - Miami
+1800,F,50-64,2018/8/1 0:00,17-Sep,5,5,5,5,5,5,5,5,Domestic,Economy,Miami - Vail
+1801,F,50-64,2018/8/1 0:00,,3,4,4,2,4,4,4,4,International,Economy,London - Miami
+1802,M,65+,2018/8/1 0:00,17-Dec,5,5,5,5,5,5,5,5,Domestic,Economy,Newark - Wichita
+1803,M,35-49,2018/8/1 0:00,,4,5,5,4,4,4,5,4,Domestic,Economy,Dallas - New Orleans
+1804,M,35-49,2018/7/1 0:00,18-Jan,4,4,4,3,3,4,3,5,Domestic,Economy,Detroit - Miami
+1805,M,35-49,2018/7/1 0:00,18-Jan,3,5,3,4,5,3,4,5,International,Business Class,London - Dallas
+1806,M,35-49,2018/7/1 0:00,17-Dec,2,3,2,2,3,1,2,1,International,Economy,New York City - Zurich
+1807,M,35-49,2018/7/1 0:00,17-Dec,2,3,3,2,2,3,3,3,Domestic,Economy,Chicago - Orange
+1808,M,65+,2018/7/1 0:00,17-Dec,4,4,5,4,4,4,4,5,Domestic,Economy,Austin - Chicago
+1809,M,65+,2018/7/1 0:00,,4,4,2,4,4,2,4,4,International,Business Class,San Jose - San Jose
+1810,M,65+,2018/7/1 0:00,17-Dec,2,1,3,1,2,1,2,2,Domestic,Economy,Corpus Christi - Indianapolis
+1811,F,65+,2018/7/1 0:00,17-Sep,4,5,5,4,4,4,5,5,Domestic,Economy,McAllen - Portland
+1812,M,65+,2018/7/1 0:00,18-Jan,5,5,5,5,4,5,5,5,Caribbean,Economy,Indianapolis - Grand Cayman
+1813,F,25-34,2018/7/1 0:00,17-Dec,4,3,4,4,3,3,3,1,International,Economy,Lima - Baltimore
+1814,M,50-64,2018/7/1 0:00,17-Dec,2,3,2,1,2,3,2,2,USA,Economy,Mexico City - Miami
+1815,F,50-64,2018/6/1 0:00,17-Dec,4,4,4,4,4,4,3,4,Domestic,Economy,Los Angeles - New York City
+1816,M,35-49,2018/6/1 0:00,,3,5,5,5,3,5,5,5,USA,Economy,Toronto - Miami
+1817,M,50-64,2018/6/1 0:00,17-Dec,5,2,3,1,5,5,2,4,Domestic,Economy,Honolulu - Los Angeles
+1818,M,50-64,2018/6/1 0:00,18-Jan,5,5,5,5,5,5,5,5,Domestic,Economy,Dallas - Honolulu
+1819,F,35-49,2018/6/1 0:00,17-Dec,3,2,3,1,3,2,2,1,Domestic,Economy,Miami - Chicago
+1820,M,50-64,2018/6/1 0:00,18-Jan,4,5,5,4,5,5,5,5,Domestic,Business Class,Miami - Raleigh
+1821,M,50-64,2018/6/1 0:00,17-Dec,4,5,5,3,4,5,5,5,Domestic,Economy,Portland - Chicago
+1822,M,50-64,2018/6/1 0:00,17-Dec,3,5,5,1,2,4,4,5,Domestic,Economy,New York City - Austin
+1823,F,50-64,2018/6/1 0:00,17-Dec,4,4,4,5,4,3,3,4,Domestic,First Class,Charlotte - Washington DC
+1824,M,50-64,2018/6/1 0:00,17-Dec,4,5,4,2,5,3,4,5,Caribbean,Economy,Miami - Antigua
+1825,M,50-64,2018/5/1 0:00,18-Jan,4,5,4,3,4,1,4,4,Domestic,Economy,Atlanta - Chicago
+1826,M,65+,2018/5/1 0:00,18-Jan,1,1,4,1,1,1,1,4,Domestic,Economy,Philadelphia - Dallas
+1827,M,35-49,2018/5/1 0:00,17-Dec,3,3,4,3,3,4,3,4,Caribbean,Economy,San Antonio - Aruba
+1828,M,35-49,2018/5/1 0:00,17-Dec,3,4,3,3,3,2,3,3,Domestic,Economy,New Orleans - Washington DC
+1829,F,35-49,2018/4/1 0:00,17-Nov,3,4,2,4,2,2,3,4,International,Economy,Montego Bay - Dallas
+1830,M,65+,2018/4/1 0:00,17-Apr,4,5,5,3,5,4,5,5,International,Economy,Buenos Aires - New York City
+1831,F,35-49,2018/4/1 0:00,,2,4,2,2,1,3,1,4,Mexico,Business Class,Dallas - Puerto Vallarta
+1832,M,65+,2018/4/1 0:00,17-Dec,5,5,5,3,5,1,4,5,Domestic,First Class,Providence - Phoenix
+1833,F,50-64,2018/4/1 0:00,,5,5,5,5,5,5,5,5,Domestic,Economy,Richmond - Springfield
+1834,M,65+,2018/4/1 0:00,18-Jan,5,5,5,5,5,4,5,5,International,Business Class,Paris - Philadelphia
+1835,M,35-49,2018/4/1 0:00,17-Dec,4,5,4,4,4,5,4,5,International,Economy,Shannon - Los Angeles
+1836,M,35-49,2018/4/1 0:00,17-Jul,4,4,4,4,4,3,4,4,International,Economy,Los Angeles - Manchester
+1837,M,65+,2018/4/1 0:00,17-Jun,2,1,4,1,2,1,1,4,Domestic,Economy,Austin - Harrisburg
+1838,F,25-34,2018/4/1 0:00,17-Dec,3,3,3,3,3,3,1,1,Domestic,Economy,New York City - San Francisco
+1839,F,35-49,2018/3/1 0:00,18-Jan,3,2,3,3,3,2,3,2,Domestic,Business Class,Phoenix - Denver
+1840,F,35-49,2018/3/1 0:00,17-Dec,3,3,3,4,4,3,3,2,International,Economy,London - Charlotte
+1841,M,65+,2018/3/1 0:00,17-Jun,3,3,3,2,3,3,3,3,Domestic,Economy,Pittsburgh - Las Vegas
+1842,F,50-64,2018/3/1 0:00,18-Jan,3,4,3,3,3,4,2,2,Domestic,First Class,San Diego - Indianapolis
+1843,M,50-64,2018/3/1 0:00,18-Jan,3,4,3,3,4,4,4,4,Mexico,Economy,Dallas - Cancun
+1844,M,65+,2018/3/1 0:00,17-Dec,3,4,3,3,3,3,3,4,Domestic,Economy,Phoenix - Miami
+1845,M,50-64,2018/3/1 0:00,17-Dec,3,5,5,4,3,3,3,4,International,Economy,Philadelphia - Rome
+1846,M,65+,2018/3/1 0:00,17-Jun,5,4,5,3,5,5,5,5,International,Economy,Punta Cana - Buffalo
+1847,M,25-34,2018/3/1 0:00,17-Dec,1,3,4,1,3,3,1,3,Domestic,Economy,Newark - Dallas
+1848,M,65+,2018/3/1 0:00,18-Jan,3,3,3,2,4,1,3,3,International,Economy,Bridgetown - Knoxville
+1849,M,65+,2018/2/1 0:00,17-Dec,1,3,3,3,1,1,3,3,Canada,Economy,Miami - Toronto
+1850,M,65+,2018/2/1 0:00,17-Dec,5,5,5,5,5,5,5,5,Domestic,Business Class,New York City - Los Angeles
+1851,M,50-64,2018/2/1 0:00,17-Dec,4,5,5,5,4,4,5,5,International,Economy,San Salvador - Charlotte
+1852,F,65+,2018/2/1 0:00,,4,5,5,3,5,1,3,5,Domestic,Economy,New York City - San Francisco
+1853,M,50-64,2018/2/1 0:00,17-Dec,3,5,3,3,3,4,3,4,Domestic,Economy,Kalamazoo - Fort Lauderdale
+1854,M,35-49,2018/2/1 0:00,17-Dec,2,1,1,3,3,2,1,3,International,Business Class,Miami - San Salvador
+1855,M,65+,2018/2/1 0:00,17-Dec,4,4,4,3,4,3,3,5,Domestic,Economy,Charlotte - Tampa
+1856,M,50-64,2018/2/1 0:00,,3,3,2,2,3,3,3,3,Domestic,Business Class,Miami - New York City
+1857,F,50-64,2018/2/1 0:00,17-Dec,4,5,5,4,4,4,5,5,Mexico,First Class,Harrisburg - Cancun
+1858,M,50-64,2018/2/1 0:00,17-Dec,4,4,4,3,4,5,3,5,International,Business Class,Charlotte - San Jose
+1859,M,35-49,2018/2/1 0:00,17-Dec,3,3,3,3,3,2,2,3,USA,Economy,Los Cabos - Dallas
+1860,M,35-49,2018/2/1 0:00,17-Dec,4,4,4,4,4,4,4,4,International,Economy,Hamilton - Miami
+1861,M,35-49,2018/2/1 0:00,17-Nov,4,5,5,5,5,4,4,5,International,First Class,Raleigh - London
+1862,M,50-64,2018/1/1 0:00,17-Dec,5,4,5,4,5,5,4,3,International,Business Class,New York City - London
+1863,M,50-64,2018/1/1 0:00,17-Dec,3,3,3,3,3,4,3,3,Domestic,Economy,New York City - Los Angeles
+1864,M,50-64,2018/1/1 0:00,18-Jan,2,3,3,1,3,3,2,1,International,Economy,Frankfurt - Mexico City
+1865,F,25-34,2018/1/1 0:00,17-Dec,5,5,4,4,4,2,4,4,Domestic,Economy,Portland - Miami
+1866,M,50-64,2018/1/1 0:00,17-Dec,5,5,5,5,5,5,4,5,International,Economy,Hong Kong - Dallas
+1867,M,35-49,2018/1/1 0:00,17-Dec,4,3,2,1,4,1,2,3,Domestic,First Class,Detroit - Orlando
+1868,M,65+,2018/1/1 0:00,18-Jan,3,5,5,5,3,1,5,5,Domestic,Economy,Jacksonville - Miami
+1869,M,65+,2018/1/1 0:00,,5,5,5,5,5,4,5,5,Domestic,First Class,Killeen - Salt Lake City
+1870,M,50-64,2018/1/1 0:00,17-Dec,5,5,5,5,5,4,4,5,Domestic,First Class,Fort Walton Beach - Dallas
+1871,M,50-64,2018/1/1 0:00,17-Dec,3,3,3,2,3,1,1,4,International,Economy,Manchester - Chicago
